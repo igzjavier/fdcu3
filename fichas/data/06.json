@@ -1,23 +1,1146 @@
-{"id":"06","titulo":"Nefrourológico y medio interno","sub":"Renal · Medio interno · Urología","grupos":[
-{"titulo":"Renal: síndromes y orina","ents":[
-{"n":"Reloj y sedimento","k":"tabla","f":[["Reloj","Horas–días: IRA (creatinina +0,3 mg/dL en 48 h, o diuresis <0,5 mL/kg/h por 6 h) · Días: nefrítico · <3 meses: IRRP (VFG cae ≥50 %) · >3 meses: ERC (daño o VFG <60) · terminal: urémico."],["Volumen","Anuria <100 mL/24 h (total 0) · oliguria <400 (UCH y URO d.32: <500; ⚠) · poliuria >3 L. Normal 1.000–1.500 mL. Acuosa: osm. urinaria <150 (potomanía, DI, hipercalcemia, litio); osmótica >250 (DM, urea, diuréticos)."],["Sedimento","Cilindros hemáticos, dismórficos >50 %, acantocitos >5 %: glomerular (nefrítico, IRRP) · cuerpos ovales grasos, cruz de Malta: nefrótico · granulosos pardo-barrosos y células tubulares: NTA (“sucio”) · leucocitarios/eosinofiluria: intersticial, pielonefritis · céreos y anchos: ERC avanzada · limpio: prerrenal o posrenal."]]},
-{"n":"Hematuria","k":"sintoma","f":[["Definición","Dato de enfermedad genitourinaria grave hasta demostrar lo contrario. Visible con 1 mL/250 mL. Micro: ≥5 hematíes/campo (UCH), >3 (AUA). Color: rojo si alcalina, té si ácida."],["Momento","Inicial: uretra posterior/próstata · Total: renal o superior · Terminal: vesical (⚠ inicial uretra anterior, terminal cuello/próstata)."],["Causas","Urológicas: infección, litiasis, tumores, HPB, trauma, TBC. No urológicas: glomerular, lupus, vasculitis, SHU, endocarditis, coagulopatía, anticoagulantes, tóxicos, betarraga. Tira reactiva: falsos + (mioglobina, hemoglobina, menstruación)."],["Apoyo","Descartado glomerular: eco, pielografía, TC, cistoscopía, citología. Hombre 65 años fumador, orina roja con coágulos indolora: tumor urotelial."]],"t":{"h":["Rasgo","Glomerular","Urológica"],"r":[["Color","Coca-Cola, café","Rojo vivo"],["Coágulos","No","Sí"],["Hematíes","Dismórficos (>80 %), acantocitos","Isomórficos"],["Cilindros hemáticos","Sí (patognomónicos)","No"],["Proteinuria","Significativa","Mínima"],["Asociado","HTA, edema, ↑ creatinina; indolora","Cólico, disuria; anemia posible"]]}},
-{"n":"Síndrome nefrítico","k":"sindrome","f":[["Definición","Hematuria + proteinuria (<3,5 g/24 h) + ↓ VFG brusca: oliguria, edema, HTA."],["Fisiopatología","Rotura de membrana basal → hematuria; oclusión capilar → ↓ VFG → retención de Na⁺/agua (túbulo indemne) → ↑ VEC (edema, HTA, congestión). ⚠ HTA por volumen con renina suprimida (NEF d.13) vs SRAA (d.15)."],["Causas","Faringitis 1–3 sem o piodermitis 3–6 sem antes: postestreptocócica · Hematuria simultánea con infección respiratoria: IgA · Artralgias, púrpura, hemoptisis: lupus, Schönlein-Henoch, vasculitis · Fiebre + soplo nuevo: endocarditis. <15 años: postestreptocócica, SH · 15–50: IgA, MPGN, lúpica · >50: vasculitis ANCA. Tamizaje: ASO, C3, ANA, anti-ADNn, ANCA."],["Clínica","Hematuria macroscópica ~75 % (UCH 30–50 %) · oliguria (Na urinario <10, FENa <1 %) · edema >90 % facial · HTA con riesgo de encefalopatía · creatinina 1,5–2. Complicación: edema pulmonar agudo (adulto mayor sin cardiopatía). Evolución: oliguria cede ~7 días → PA y edema → proteinuria <6 meses → microhematuria hasta 2 años."],["Pediátrico","3–33 días tras amigdalitis/piel por S. pyogenes; 6–8 años; HTA 90 %; proteinuria leve; pronóstico favorable."]]},
-{"n":"Síndrome nefrótico","k":"sindrome","f":[["Definición","Proteinuria ≥3,5 g/24 h/1,73 m² + albúmina <3 g/dL (UCH tabla: <2) + edema + hiperlipidemia + lipiduria. Impuro: + hematuria, HTA o falla renal."],["Fisiopatología","Proteinuria → ↓ albúmina → ↓ oncótica → edema; ↑ síntesis de lipoproteínas → lípidos; ↓ volemia efectiva → SRAA → refuerza edema."],["Causas","<15 años: cambios mínimos (~90 %) · 15–40: MPGN, focal y segmentaria, membranosa · >40: membranosa, diabética, amiloidosis. Secundaria principal: diabética."],["Examen","Edema blando, frío, con fóvea; matinal en párpados, luego declive, sacro, genitales, anasarca. PA normal o baja. Líneas de Muehrcke (hipoalbuminemia), xantomas/xantelasmas."],["Complicaciones","Trombosis (↓ antitrombina III; vena renal: dolor en flanco, hematuria; TVP) · infecciones por encapsulados (↓ IgG) · IRA por hipovolemia/diuréticos · vitamina D ↓, T4 total ↓."]]},
-{"n":"Nefrítico vs nefrótico","k":"tabla","t":{"h":["Rasgo","Nefrítico","Nefrótico"],"r":[["Mecanismo","Inflamación, capilar se cierra","Permeabilidad, pasan proteínas"],["Inicio","Brusco (días)","Insidioso (semanas)"],["Edema","Leve–moderado, palpebral","Intenso, anasarca"],["PA","Elevada","Normal o baja"],["Hematuria","Protagonista","Ausente (puro)"],["Proteinuria","<3,5 g","≥3,5 g"],["Lípidos","Normales","Hiperlipidemia, lipiduria"],["Diuresis / VFG","Oliguria, VFG ↓","Conservadas"]]}},
-{"n":"Injuria renal aguda (IRA)","k":"sindrome","f":[["Criterios","Creatinina +0,3 en 48 h, o +50 % en 7 días, o diuresis <0,5 mL/kg/h × 6 h. Oligúrica <400 mL; no oligúrica (aminoglicósidos). Frecuencia: prerrenal 55 %, renal 40 %, posrenal 5 %. Anuria total = obstrucción hasta demostrar lo contrario (rara: GN intensa, necrosis cortical)."],["Prerrenal","Hipoperfusión, túbulos indemnes; vómitos, diarrea, hemorragia, diuréticos, IC, cirrosis, AINE, IECA, ARA-II. Mucosas secas, pliegue +, yugulares planas, ortostatismo."],["Renal","NTA ~80 % (sepsis, aminoglicósidos, contraste, rabdomiólisis), intersticial (fármaco + fiebre + exantema), glomerular, vascular. Edema, crépitos, R3."],["Posrenal","Cólico, LUTS, cáncer próstata/vejiga/cuello uterino; globo vesical, sondeo >100 mL, hidronefrosis (eco)."],["Complicaciones (matan)","Edema pulmonar · hiperpotasemia (T picudas, QRS ancho) · acidosis (Kussmaul) · hiponatremia · uremia (BUN >100). Sin diálisis: BUN +15/día, creatinina +0,5/día, K⁺ +0,5/día."]],"t":{"h":["Parámetro","Prerrenal","NTA"],"r":[["Osm. urinaria","≥500","≤350"],["Na urinario","<20","> 40"],["FENa","<1 %","> 1 % (Goic ≥3; zona gris 1–3)"],["U/P creatinina","> 40","< 20"],["U/P urea","> 8","< 3"],["Sedimento","Limpio","Sucio"]]}},
-{"n":"IRRP · ERC · Urémico","k":"sindrome","f":[["IRRP","VFG ↓ ≥50 % en <3 meses; semilunas >50 % de glomérulos. I anti-MB (Goodpasture + hemorragia pulmonar) · II complejos inmunes (lupus, postinfecciosa, IgA, MPGN) · III pauciinmune ANCA. Pistas: hemoptisis, sinusitis/epistaxis (granulomatosis), uveítis, púrpura, mononeuritis. Orina activa + riñones normales + creatinina sube en semanas = biopsia renal."],["ERC","Daño o VFG <60 por >3 meses. G1 ≥90 · G2 60–89 · G3a 45–59 · G3b 30–44 · G4 15–29 · G5 <15. Albuminuria A1 <30, A2 30–300, A3 >300 mg/g. Chile: diabetes 36 % (UCH 32 %), nefroesclerosis, GN crónica. Creatinina engaña: perder la mitad de VFG solo sube 0,75 → ~1,4. Secuencia: PTH ↑ → fósforo ↑, Ca ↓, anemia → K⁺ ↑, acidosis. Estimar con CKD-EPI/MDRD; eco: riñones pequeños."],["Agudo vs crónico","Crónico: nicturia, isostenuria, anemia normocítica, riñones <10 cm, fósforo ↑ Ca ↓ PTH ↑, cilindros céreos. Agudo: desencadenante, creatinina previa normal, riñones normales. ERC que empeora: buscar reversibles (hipovolemia, obstrucción, fármacos, IC, infección)."],["Urémico","VFG <10–15 → diálisis. Neuro: asterixis, mioclonías, coma · CV: HTA, pericarditis (frote siempre; taponamiento) · Resp: Kussmaul, pulmón urémico · Dig: anorexia, hipo, aliento amoniacal, hemorragia · Heme: anemia, sangrado · Piel: palidez amarillenta, prurito, calcifilaxis · Óseo: PTH ↑ · Endocrino: amenorrea, impotencia."]]}
-]},
-{"titulo":"Medio interno y agua","ents":[
-{"n":"Compartimentos y regulación","k":"tabla","f":[["Agua corporal","RN 75–80 % · adulto joven 60 % · mujer 50–55 % · mayor 45–50 %."],["Iones LEC/LIC","Na 142/10–14 · K 4/140–150 · Cl 102/3–5 · HCO₃ 24–28/7–8. Natremia 135–145; osmolaridad 275–295 = 2×Na + 10 (+5,5 por cada 100 mg/dL de glucosa extra)."],["Starling","↑ hidrostática capilar filtra; oncótica (albúmina) retiene; linfa drena. LIC↔LEC por ósmosis: hipernatremia saca agua de células; hiponatremia la mete (edema cerebral)."],["Regulación","SRAA (el principal para conservar Na): aldosterona ↑ Na, agua, excreta K. Simpático: vasoconstricción, renina. ADH: agua libre en colector → hiponatremia. ANP/BNP: natriuresis. Balance de Na = VEC (clínico); balance de agua = osmolaridad (natremia)."],["Balance","Ingresos + agua metabólica ~300 mL; pérdidas insensibles 600–800 mL/día (↑ fiebre, hiperventilación, quemaduras)."]]},
-{"n":"Deshidratación y sobrehidratación","k":"sindrome","f":[["Deshidratación","Pérdidas > ingresos: vómitos, diarrea, fiebre, DM descompensada, DI, diuréticos. Sed, mucosas secas, pliegue, oliguria, taquicardia, hipotensión, confusión. Hemoconcentración, Na y osmolaridad ↑."],["Sobrehidratación","IC, falla renal, cirrosis, nefrótico, SIADH, exceso IV. Pesadez, disnea, edema, yugulares, crepitantes, ascitis. Hto y Hb ↓, Na normal o ↓."],["Natremia alterada","Preguntar: ¿osmolaridad? ¿volemia? Hiponatremia: exceso de agua libre (SIADH, fármacos, IC, cirrosis, nefrótico). Hipernatremia: déficit de agua (ingesta, DI, pérdidas)."]]},
-{"n":"Ácido-base","k":"tabla","t":{"h":["Trastorno","pH","Primario","Causas"],"r":[["Acidosis metabólica","↓","HCO₃ ↓","Diarrea, uremia, láctica, cetoacidosis; Kussmaul"],["Alcalosis metabólica","↑","HCO₃ ↑","Vómitos, diuréticos, hiperaldosteronismo"],["Acidosis respiratoria","↓","pCO₂ ↑","Hipoventilación"],["Alcalosis respiratoria","↑","pCO₂ ↓","Hipoxia, ansiedad, dolor"]]},"f":[["Normales","pH 7,38–7,44; pCO₂ 40; HCO₃ 24. Metabólico lo compensa el pulmón; respiratorio, el riñón."]]}
-]},
-{"titulo":"Urología y vía urinaria","ents":[
-{"n":"Síntomas urinarios","k":"sintoma","f":[["Definiciones","Polaquiuria (>8 al día, poco volumen) · nicturia · urgencia · tenesmo vesical · enuresis · incontinencia (esfuerzo, urgencia, rebalse, verdadera) · pujo vesical · disuria. Neumaturia/fecaluria: fístula colovesical (diverticulitis)."],["Fases","Llenado: frecuencia, urgencia, nicturia. Vaciado: chorro débil, latencia, intermitencia, esfuerzo, goteo terminal, retención. Posmiccionales: goteo, vaciado incompleto. Vejiga hiperactiva: urgencia ± incontinencia, polaquiuria, nicturia. Evitar “prostatismo”."],["Causas","Infecciosas (las más comunes): cistitis, uretritis (E. coli, Klebsiella, Proteus; Chlamydia, gonococo, M. genitalium), prostatitis, vaginitis. Inflamatorias no infecciosas, obstructivas (HPB, estenosis, litiasis), irritativas."],["Dif.","Poliuria nocturna (IC, DM) simula nocturia: cartilla miccional. Disuria en mujer: piuria + cultivo + = ITU; piuria + cultivo − = contaminación, antibiótico previo, vaginitis, TBC; sin piuria = falta de estrógenos, Mycoplasma, Ureaplasma."]]},
-{"n":"Descarga uretral y escroto","k":"sintoma","f":[["Descarga uretral","Explorar antes de orinar. Gonocócica: incubación 2–5 d, purulenta, espesa, amarilla. No gonocócica: 1–5 semanas; Chlamydia 25–50 %, Ureaplasma 20–30 %, tricomonas 2–5 %; más mucosa. Hisopado + otras ITS."],["Escroto","Agudo: torsión (brusco, testículo ascendido y horizontal, duele más al elevar; irradia a FID) u orquiepididimitis. Crónico: 3–6 meses. Aumento de volumen: tumor (neoplasia más frecuente 15–35 años), varicocele (90 % izquierdo), hidrocele (poco dolor)."],["Alarma","Dolor testicular intenso de inicio brusco: pensar en torsión (urgencia)."]]},
-{"n":"Alteraciones sexuales y calidad seminal","k":"sintoma","f":[["Fases","Deseo: hiposexualidad, asexualidad, hipersexualidad, aversión · Excitación: disfunción eréctil (orgánica, farmacológica, psicógena, mixta), priapismo (urgencia), excitación femenina · Orgasmo: anorgasmia, eyaculación precoz o retardada · Conducta: parafilias, compulsiva. Preguntar dirigidamente: el varón somatiza en genitales o consulta por síntomas urinarios."],["Semen (OMS)","Volumen 1,5–5 mL · concentración ≥15 millones/mL (oligo/azoospermia) · movilidad ≥40 % (astenozoospermia) · morfología ≥4 % (teratozoospermia). Factores: edad, testosterona/tiroides, ISRS, alfabloqueadores, calor, varicocele, tabaco."]]},
-{"n":"HPB y uropatía obstructiva baja","k":"sindrome","f":[["Definición","Obstrucción cuello vesical–uretra. HPB: histológica, volumen (estático) + tono alfa (dinámico); tamaño y obstrucción no se correlacionan. Aparecen primero síntomas de vaciado, luego almacenamiento."],["Causas","Hombre: HPB, litiasis uretral, prostatitis, estrechez, vejiga neurogénica. Mujer: cáncer cervicouterino, miomas, esclerosis del cuello, estrechez."],["Examen","Globo vesical: masa suprapúbica lisa, matidez, deseo miccional. Tacto rectal con consentimiento (Sims/genupectoral)."],["Objetivar","Residuo posmiccional >100 mL · IPSS 0–35 (leve 0–7, moderado 8–19, severo 20–35) · cartilla ≥24 h · orina, urocultivo, creatinina, APE, eco, uroflujometría."],["Alarma","Hematuria NO es de la HPB: sospechar cáncer urotelial. Complicaciones: retención aguda (sondear), ITU, litiasis, hidronefrosis → IRA posrenal/ERC."]],"t":{"h":["Tacto rectal","HPB","Cáncer","Prostatitis aguda"],"r":[["Tamaño","↑ simétrico","Variable, asimétrico","↑"],["Superficie","Lisa","Nodular","Lisa, tensa"],["Consistencia","Elástica (goma)","Pétrea","Blanda, edematosa"],["Dolor","No","No","Muy doloroso"],["Contexto","LUTS >50","APE alto","Fiebre, disuria; sin masaje"]]}},
-{"n":"Cólico renal, ITU, orina","k":"tabla","f":[["Cólico renal","Crece hasta ser insoportable; lumbar → ingle y genitales; inquieto, náuseas, hematuria. <5 mm: ~50 % expulsión; >6 mm: <5 %. El tamaño no define la intensidad."],["Cistitis","Disuria, polaquiuria, tenesmo, dolor suprapúbico; >100.000 UFC/mL. Bacteriuria asintomática: tratar solo en embarazo o antes de procedimientos."],["Pielonefritis","Fiebre con calofríos, dolor lumbar, puño-percusión +. Febril al día 4: imágenes (absceso, cálculo). Mala adherencia o resistencia (nitrofurantoína) → sepsis."],["Prostatitis","Aguda: fiebre alta, próstata dolorosa, hospitalizar. Crónica >3 meses."],["Proteinuria / orina","Proteinuria >150 mg/día; índice proteína/creatinina reemplaza 24 h. Nitritos específicos; esterasa leucocitaria: buen VPN. Color: coluria té con espuma; porfiria vino al sol; turbia: fosfatos (se aclaran con ácido) o uratos (con calor) vs pus."]]}
-]}
-]}
+{
+ "id": "06",
+ "titulo": "Nefrourológico y medio interno",
+ "sub": "Renal · Medio interno · Urología",
+ "grupos": [
+  {
+   "titulo": "Renal: síndromes y orina",
+   "ents": [
+    {
+     "n": "Cuatro preguntas, reloj y sedimento",
+     "k": "tabla",
+     "ts": [
+      {
+       "c": "Cuatro preguntas",
+       "h": [
+        "Pregunta",
+        "Claves"
+       ],
+       "r": [
+        [
+         "¿Cuánta orina?",
+         "Anuria < 100 mL/24 h (total: 0) · oliguria < 400 · poliuria > 3 L · nicturia"
+        ],
+        [
+         "¿Cómo es?",
+         "Rojo o “Coca-Cola”; espuma (proteinuria); sedimento (dismórficos, cilindros, lípidos)"
+        ],
+        [
+         "¿Desde cuándo?",
+         "Horas a días: agudo · < 3 meses: rápidamente progresivo · > 3 meses: crónico"
+        ],
+        [
+         "¿Repercusión sistémica?",
+         "Volumen (edema, HTA, congestión) · medio interno (K⁺, acidosis, urea) · vía urinaria (globo, dolor)"
+        ]
+       ]
+      },
+      {
+       "c": "El reloj define el síndrome",
+       "h": [
+        "Tiempo",
+        "Síndrome",
+        "Definición"
+       ],
+       "r": [
+        [
+         "Horas a días",
+         "IRA",
+         "Creatinina ↑ ≥ 0,3 mg/dL en 48 h, o diuresis < 0,5 mL/kg/h × 6 h"
+        ],
+        [
+         "Días",
+         "Nefrítico agudo",
+         "Hematuria, oliguria, edema e HTA bruscos"
+        ],
+        [
+         "< 3 meses",
+         "IRRP",
+         "VFG cae ≥ 50 % en riñón previamente sano"
+        ],
+        [
+         "> 3 meses",
+         "ERC / IRC",
+         "Daño renal o VFG < 60 mL/min"
+        ],
+        [
+         "Etapa terminal",
+         "Urémico",
+         "Expresión multisistémica de falla avanzada"
+        ]
+       ]
+      },
+      {
+       "c": "El sedimento localiza la lesión",
+       "h": [
+        "Hallazgo",
+        "Traduce",
+        "Orienta a"
+       ],
+       "r": [
+        [
+         "Cilindros hemáticos, dismórficos > 50 %, acantocitos > 5 %",
+         "Inflamación glomerular",
+         "Nefrítico, IRRP"
+        ],
+        [
+         "Cuerpos ovales grasos, cruz de Malta",
+         "Lipiduria",
+         "Nefrótico"
+        ],
+        [
+         "Cilindros granulosos pardo-barrosos, células tubulares",
+         "Necrosis tubular",
+         "IRA por NTA (“sucio”)"
+        ],
+        [
+         "Cilindros leucocitarios, eosinofiluria",
+         "Inflamación intersticial",
+         "Nefritis intersticial, pielonefritis"
+        ],
+        [
+         "Cilindros céreos y anchos",
+         "Túbulos atróficos",
+         "ERC avanzada"
+        ],
+        [
+         "“Limpio”",
+         "Túbulos indemnes",
+         "IRA prerrenal o posrenal"
+        ]
+       ]
+      },
+      {
+       "c": "Volumen urinario según fuente",
+       "h": [
+        "",
+        "Oliguria",
+        "Anuria",
+        "Poliuria"
+       ],
+       "r": [
+        [
+         "NEF d. 5 y Goic",
+         "< 400 mL/24 h",
+         "< 100 mL (total 0)",
+         "> 3 L/24 h"
+        ],
+        [
+         "URO d. 32 y UCH",
+         "< 500 mL/24 h",
+         "< 50 mL (URO) / < 100 (UCH)",
+         "> 3 L"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Hematuria",
+     "k": "sintoma",
+     "f": [
+      [
+       "Definición",
+       "Dato de **enfermedad genitourinaria grave** hasta demostrar lo contrario. Visible con 1 mL de sangre en 250 mL. Microscópica: ≥ 5 hematíes/campo (UCH) o > 3 (AUA). Color: rojo si orina alcalina, té o café si ácida."
+      ],
+      [
+       "Momento",
+       "**Inicial**: uretra posterior y próstata (⚠ otras fuentes: uretra anterior) · **total**: renal o superior · **terminal**: vesical (⚠ otras fuentes: cuello o próstata)."
+      ],
+      [
+       "Causas",
+       "**Urológicas**: infección, litiasis, tumores, HPB, trauma, TBC. **No urológicas**: glomerular, lupus, vasculitis, SHU, endocarditis, coagulopatías, anticoagulantes, tóxicos, betarraga. Tira reactiva: muy sensible, falsos + (mioglobina, hemoglobina, menstruación): confirmar con sedimento."
+      ],
+      [
+       "Apoyo",
+       "Descartado el origen glomerular: eco, pielografía, TC, cistoscopía, citología. Hombre > 60 años fumador con orina roja con coágulos indolora: **tumor urotelial**."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Glomerular vs urológica",
+       "h": [
+        "Rasgo",
+        "Glomerular",
+        "Urológica"
+       ],
+       "r": [
+        [
+         "Color",
+         "Oscuro: Coca-Cola, café, lavado de carne",
+         "Rojo vivo"
+        ],
+        [
+         "Momento",
+         "Total",
+         "Inicial, terminal o total"
+        ],
+        [
+         "Dolor y asociados",
+         "Indolora; HTA, edema, ↑ creatinina",
+         "Puede doler (cólico, disuria)"
+        ],
+        [
+         "Coágulos",
+         "Ausentes",
+         "Frecuentes (origen urológico siempre)"
+        ],
+        [
+         "Hematíes",
+         "**Dismórficos** (> 80 %), acantocitos",
+         "Isomórficos"
+        ],
+        [
+         "Cilindros hemáticos",
+         "Presentes (patognomónicos)",
+         "Ausentes"
+        ],
+        [
+         "Proteinuria",
+         "Frecuente, significativa",
+         "Mínima"
+        ],
+        [
+         "Anemia",
+         "No",
+         "Posible"
+        ]
+       ]
+      },
+      {
+       "c": "Color de la orina",
+       "h": [
+        "Color",
+        "Causa"
+       ],
+       "r": [
+        [
+         "Rojo o rosado",
+         "Hematuria; rifampicina, betarraga (rojo intenso)"
+        ],
+        [
+         "Naranja",
+         "Fenazopiridina, vitamina B, deshidratación"
+        ],
+        [
+         "Amarillo intenso",
+         "Urobilina concentrada"
+        ],
+        [
+         "Verde / azul",
+         "Propofol, Pseudomonas / azul de metileno, pañal azul"
+        ],
+        [
+         "Marrón oscuro",
+         "**Coluria**: bilirrubina conjugada (tiñe la espuma); metronidazol"
+        ],
+        [
+         "Negro",
+         "Alcaptonuria, melanoma"
+        ],
+        [
+         "Blanco o turbio",
+         "Piuria, cristales: fosfatos (se aclaran con ácido), uratos (con calor), pus (no cambia), quiluria"
+        ],
+        [
+         "Vino al sol",
+         "Porfiria"
+        ]
+       ]
+      }
+     ],
+     "al": "Toda hematuria es dato de enfermedad genitourinaria grave hasta demostrar lo contrario."
+    },
+    {
+     "n": "Síndrome nefrítico agudo",
+     "k": "sindrome",
+     "fl": [
+      "Inflamación glomerular",
+      "Rotura de membrana basal: hematuria y proteinuria < 3,5 g",
+      "Oclusión capilar: ↓ VFG",
+      "Retención de Na⁺ y agua",
+      "↑ VEC: edema, HTA, congestión, oliguria"
+     ],
+     "f": [
+      [
+       "Definición",
+       "**Hematuria + proteinuria (< 3,5 g/24 h) + caída aguda de la VFG**, con oliguria, edema e HTA. ⚠ HTA por volumen con renina suprimida (NEF d. 13) o por SRAA (d. 15): la clase se contradice."
+      ],
+      [
+       "Pistas",
+       "Faringitis 1–3 semanas o piodermitis 3–6 semanas antes: **postestreptocócica** · hematuria simultánea con infección respiratoria: **nefropatía IgA** · artralgias, púrpura, hemoptisis: lupus, Schönlein-Henoch, vasculitis · fiebre prolongada y soplo nuevo: **endocarditis**. Tamizaje: **ASO, C3, ANA, anti-ADNn, ANCA**."
+      ],
+      [
+       "Clínica",
+       "**Hematuria** macroscópica ~75 % (⚠ UCH 30–50 %) · **oliguria** (Na urinario < 10 mEq/L, FENa < 1 %) · **edema** > 90 %, facial y palpebral · **HTA** con riesgo de encefalopatía · creatinina 1,5–2 mg/dL. Congestión + HTA + bradicardia sugieren nefrítico aunque no se haya visto hematuria. Adulto mayor: edema pulmonar agudo sin cardiopatía conocida puede ser la primera manifestación: mirar el sedimento."
+      ],
+      [
+       "Evolución",
+       "Cede la oliguria en ~7 días → se normalizan PA y edema → proteinuria desaparece en < 6 meses → la microhematuria puede persistir 6 meses a 2 años."
+      ],
+      [
+       "Pediátrico",
+       "3–33 días tras amigdalitis o infección cutánea por S. pyogenes; clásico 6–8 años; HTA 90 %, proteinuria leve; pronóstico favorable. Complicación grave: edema pulmonar agudo."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Causa según la edad",
+       "h": [
+        "Edad",
+        "Causas más frecuentes"
+       ],
+       "r": [
+        [
+         "< 15 años",
+         "GN postestreptocócica, Schönlein-Henoch"
+        ],
+        [
+         "15–50 años",
+         "IgA, membranoproliferativa, lúpica (mujer), postinfecciosa"
+        ],
+        [
+         "> 50 años",
+         "Vasculitis ANCA: poliangeítis granulomatosa, microscópica, eosinofílica"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Síndrome nefrótico",
+     "k": "sindrome",
+     "fl": [
+      "Proteinuria masiva",
+      "↓ albúmina",
+      "↓ presión oncótica: edema",
+      "↑ síntesis de lipoproteínas: hiperlipidemia y lipiduria",
+      "↓ volemia efectiva: SRAA, retiene Na⁺"
+     ],
+     "f": [
+      [
+       "Definición",
+       "**Proteinuria ≥ 3,5 g/24 h/1,73 m² + albúmina < 3 g/dL** (UCH en tabla resumen: < 2) **+ edema + hiperlipidemia + lipiduria**. **Impuro**: se agrega hematuria glomerular, HTA o insuficiencia renal (membranoproliferativa, IgA, lúpica)."
+      ],
+      [
+       "Causas por edad",
+       "< 15 años: **cambios mínimos** (~90 % de las primarias) · 15–40: membranoproliferativa, focal y segmentaria, membranosa · > 40: membranosa, diabética, amiloidosis. La secundaria más importante: diabética."
+      ],
+      [
+       "Clínica y examen",
+       "Orina **espumosa**. Edema **blando, frío, con fóvea**: matinal en párpados, luego declive, sacro, genitales, anasarca. Facies abotagada; **PA normal o baja** (HTA y hematuria no son del nefrótico puro). **Líneas de Muehrcke** (bandas blancas transversales en uñas), xantomas, xantelasmas, ascitis."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Complicaciones",
+       "h": [
+        "Complicación",
+        "Mecanismo o expresión"
+       ],
+       "r": [
+        [
+         "Trombosis",
+         "↓ antitrombina III; vena renal (dolor en flanco, hematuria), TVP"
+        ],
+        [
+         "Infecciones",
+         "↓ IgG: peritonitis neumocócica, celulitis (gérmenes encapsulados)"
+        ],
+        [
+         "Endocrinas",
+         "Vitamina D ↓; T4 total ↓ sin hipotiroidismo"
+        ],
+        [
+         "Renales",
+         "IRA por hipovolemia o diuréticos; progresión del daño"
+        ]
+       ]
+      },
+      {
+       "c": "Nefrítico vs nefrótico",
+       "h": [
+        "Rasgo",
+        "Nefrítico",
+        "Nefrótico"
+       ],
+       "r": [
+        [
+         "Mecanismo",
+         "Inflamación: el capilar se cierra",
+         "Permeabilidad: pasan proteínas"
+        ],
+        [
+         "Inicio",
+         "Brusco (días)",
+         "Insidioso (semanas)"
+        ],
+        [
+         "Edema",
+         "Leve a moderado, palpebral",
+         "Intenso, anasarca"
+        ],
+        [
+         "PA",
+         "Elevada",
+         "Normal o baja"
+        ],
+        [
+         "Volemia",
+         "Expandida",
+         "Efectiva ↓ o variable"
+        ],
+        [
+         "Hematuria",
+         "Protagonista, dismórfica",
+         "Ausente o escasa (puro)"
+        ],
+        [
+         "Proteinuria",
+         "< 3,5 g/24 h",
+         "≥ 3,5 g/24 h"
+        ],
+        [
+         "Albúmina",
+         "Normal o levemente ↓",
+         "< 3 g/dL"
+        ],
+        [
+         "Lípidos",
+         "Normales",
+         "Hiperlipidemia, lipiduria"
+        ],
+        [
+         "Diuresis y VFG",
+         "Oliguria, VFG ↓",
+         "Conservadas (salvo hipovolemia)"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Injuria renal aguda (IRA)",
+     "k": "sindrome",
+     "f": [
+      [
+       "Criterios",
+       "Creatinina **+ 0,3 mg/dL en 48 h**, o **+ 50 % en 7 días**, o diuresis **< 0,5 mL/kg/h por 6 h**. Oligúrica (< 400 mL) o no oligúrica (hasta ~30 %, p. ej. aminoglicósidos). Frecuencia: **prerrenal 55 %, renal 40 %, posrenal 5 %**. **Anuria total** = obstrucción hasta demostrar lo contrario."
+      ],
+      [
+       "Complicaciones (matan)",
+       "**Edema pulmonar** · **hiperpotasemia** (T picudas, QRS ancho, paro) · **acidosis** grave (Kussmaul) · **hiponatremia** (convulsiones) · **uremia** (BUN > 100: asterixis, frote pericárdico, sangrado). Sin diálisis: BUN + 15 mg/dL/día, creatinina + 0,5/día, K⁺ + 0,5 mEq/L/día."
+      ],
+      [
+       "Apoyo",
+       "Eco: dilatación en la posrenal; TC precisa sitio y causa. Con bicarbonaturia usar cloro urinario. Cilindros pigmentados: hemólisis o rabdomiólisis; hemáticos: glomerulitis. **FENa** = (Na urinario × creatinina plasmática) / (Na plasmático × creatinina urinaria) × 100; pierde validez con diuréticos, glucosuria o ERC previa."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Prerrenal, renal y posrenal",
+       "h": [
+        "",
+        "Prerrenal",
+        "Renal",
+        "Posrenal"
+       ],
+       "r": [
+        [
+         "Mecanismo",
+         "Hipoperfusión, túbulos indemnes; revierte al reperfundir",
+         "**NTA ~80 %**, intersticial, glomerular, vascular",
+         "Obstrucción bilateral o de riñón único"
+        ],
+        [
+         "Anamnesis",
+         "Vómitos, diarrea, hemorragia, diuréticos; IC, cirrosis; AINE, IECA, ARA-II",
+         "Sepsis, aminoglicósidos, contraste, rabdomiólisis; fármaco + fiebre + exantema (NIA)",
+         "Cólico renal, LUTS, cáncer de próstata, vejiga o cuello uterino; anuria o alternancia anuria-poliuria"
+        ],
+        [
+         "Examen",
+         "Mucosas secas, pliegue +, ortostatismo, yugulares planas",
+         "Edema, crépitos, ingurgitación yugular, R3",
+         "Globo vesical, tacto rectal, masa pélvica; sondeo > 100 mL; hidronefrosis"
+        ]
+       ]
+      },
+      {
+       "c": "Prerrenal vs NTA",
+       "h": [
+        "Parámetro",
+        "Prerrenal",
+        "NTA"
+       ],
+       "r": [
+        [
+         "Diuresis 24 h",
+         "≤ 500 mL",
+         "Variable"
+        ],
+        [
+         "Osm. urinaria (mOsm/kg)",
+         "≥ 500",
+         "≤ 350"
+        ],
+        [
+         "Na urinario (mEq/L)",
+         "< 20",
+         "> 40"
+        ],
+        [
+         "FENa",
+         "< 1 %",
+         "> 1 % (Goic ≥ 3 %; zona gris 1–3)"
+        ],
+        [
+         "U/P creatinina",
+         "> 40",
+         "< 20"
+        ],
+        [
+         "U/P urea",
+         "> 8",
+         "< 3"
+        ],
+        [
+         "Sedimento",
+         "Limpio",
+         "Sucio"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "IRRP, ERC y síndrome urémico",
+     "k": "sindrome",
+     "f": [
+      [
+       "IRRP",
+       "VFG cae **≥ 50 %** (creatinina se duplica) en **< 3 meses**; **semilunas en > 50 %** de los glomérulos. **Urgencia**: orina activa + riñones normales + creatinina que sube en semanas = **biopsia renal**."
+      ],
+      [
+       "ERC",
+       "Daño estructural o VFG **< 60 mL/min/1,73 m² por > 3 meses**. Chile (hemodiálisis): nefropatía diabética **36 %** (⚠ UCH 32 %), nefroesclerosis hipertensiva, GN crónica. **La creatinina engaña**: perder la mitad de la VFG (120 → 60) solo sube la creatinina de 0,75 a ~1,4. Secuencia: ↑ PTH → (VFG 40–20) ↑ fósforo, ↓ calcio y calcitriol, anemia, acidosis leve → (15–10) ↑ K⁺, sobrecarga de volumen, acidosis severa. Estimar con **CKD-EPI/MDRD**; eco: riñones pequeños apoyan cronicidad."
+      ],
+      [
+       "ERC que empeora",
+       "Buscar lo **reversible**: hipovolemia, obstrucción, fármacos, IC, infección, reactivación, hipotiroidismo."
+      ],
+      [
+       "Urémico",
+       "Aparece con VFG < 10–15 y obliga a diálisis. Examen: palidez amarillenta-terrosa, Kussmaul, **aliento amoniacal**, estomatitis, yugulares, **frote pericárdico** (siempre), crépitos, **asterixis**, equimosis, edema, hipoestesia distal."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Etapas de la ERC",
+       "h": [
+        "Etapa",
+        "VFG (mL/min/1,73 m²)",
+        "Descripción"
+       ],
+       "r": [
+        [
+         "G1",
+         "≥ 90",
+         "Daño con VFG normal o alta"
+        ],
+        [
+         "G2",
+         "60–89",
+         "Descenso leve"
+        ],
+        [
+         "G3a",
+         "45–59",
+         "Leve a moderado"
+        ],
+        [
+         "G3b",
+         "30–44",
+         "Moderado a severo"
+        ],
+        [
+         "G4",
+         "15–29",
+         "Severo"
+        ],
+        [
+         "G5",
+         "< 15 o diálisis",
+         "Falla terminal"
+        ]
+       ]
+      },
+      {
+       "c": "Albuminuria (mg/g)",
+       "h": [
+        "A1",
+        "A2",
+        "A3"
+       ],
+       "r": [
+        [
+         "< 30",
+         "30–300",
+         "> 300"
+        ]
+       ]
+      },
+      {
+       "c": "IRRP: mecanismos",
+       "h": [
+        "Mecanismo",
+        "Ejemplos",
+        "Pista extrarrenal"
+       ],
+       "r": [
+        [
+         "I anti-membrana basal",
+         "Goodpasture",
+         "Hemoptisis"
+        ],
+        [
+         "II complejos inmunes",
+         "Lupus, postinfecciosa, IgA, MPGN",
+         "Fiebre, artralgias, púrpura"
+        ],
+        [
+         "III pauciinmune (ANCA)",
+         "Poliangeítis granulomatosa, microscópica, eosinofílica",
+         "Sinusitis rebelde, epistaxis, otitis, uveítis, mononeuritis"
+        ]
+       ]
+      },
+      {
+       "c": "Agudo vs crónico",
+       "h": [
+        "Orienta a crónico",
+        "Orienta a agudo"
+       ],
+       "r": [
+        [
+         "Nicturia e isostenuria",
+         "Desencadenante identificable (hipovolemia, fármaco, obstrucción)"
+        ],
+        [
+         "Anemia normocítica normocrómica",
+         "Hemoglobina normal (la anemia aparece ~1 semana después)"
+        ],
+        [
+         "Riñones < 10 cm (salvo diabetes, poliquistosis, amiloidosis, mieloma)",
+         "Riñones de tamaño normal"
+        ],
+        [
+         "Fósforo ↑, calcio ↓, PTH ↑; cilindros céreos y anchos",
+         "Creatinina previa normal"
+        ]
+       ]
+      },
+      {
+       "c": "Síndrome urémico por sistema",
+       "h": [
+        "Sistema",
+        "Manifestaciones"
+       ],
+       "r": [
+        [
+         "Neurológico",
+         "Lasitud, insomnio → somnolencia, asterixis, mioclonías, convulsiones, coma; neuropatía, piernas inquietas"
+        ],
+        [
+         "Cardiovascular",
+         "HTA, IC, pericarditis (taponamiento), ateromatosis precoz"
+        ],
+        [
+         "Respiratorio",
+         "Kussmaul, “pulmón urémico” (alas de mariposa), derrame pleural"
+        ],
+        [
+         "Digestivo",
+         "Anorexia, náuseas, vómitos, hipo, aliento urémico, estomatitis, hemorragia"
+        ],
+        [
+         "Hematológico",
+         "Anemia, equimosis, infecciones"
+        ],
+        [
+         "Piel y ojos",
+         "Palidez amarillenta, prurito, ojo rojo por cristales de calcio, calcifilaxis"
+        ],
+        [
+         "Óseo-mineral",
+         "PTH ↑, calcitriol ↓: dolor, fracturas"
+        ],
+        [
+         "Endocrino",
+         "Amenorrea, impotencia, infertilidad"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Medio interno y agua",
+   "ents": [
+    {
+     "n": "Compartimentos y regulación",
+     "k": "tabla",
+     "f": [
+      [
+       "Concepto",
+       "Mantener **volumen sanguíneo, PA, osmolaridad plasmática** y función celular. Natremia **135–145 mEq/L**; osmolaridad **275–295 mOsm/kg** = 2 × Na + 10 (sumar 5,5 por cada 100 mg/dL de glucosa extra). El Na es el principal determinante de la osmolaridad."
+      ],
+      [
+       "Starling",
+       "**Hidrostática capilar** filtra; **oncótica** (albúmina) reabsorbe; la linfa devuelve el exceso. LIC ↔ LEC por **ósmosis**: hipernatremia saca agua de las células; hiponatremia la mete (edema cerebral)."
+      ],
+      [
+       "Balance de agua",
+       "Ingresos + agua metabólica (~300 mL/día). Pérdidas insensibles **600–800 mL/día** (↑ fiebre, hiperventilación, quemaduras). El balance de **Na** fija el VEC (se evalúa clínicamente); el de **agua** fija la osmolaridad (se evalúa con la natremia)."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Agua corporal total",
+       "h": [
+        "Edad",
+        "% del peso"
+       ],
+       "r": [
+        [
+         "Recién nacido",
+         "75–80 %"
+        ],
+        [
+         "Lactante",
+         "70–75 %"
+        ],
+        [
+         "Niño",
+         "65 %"
+        ],
+        [
+         "Adulto joven",
+         "60 %"
+        ],
+        [
+         "Mujer adulta",
+         "50–55 %"
+        ],
+        [
+         "Adulto mayor",
+         "45–50 %"
+        ]
+       ]
+      },
+      {
+       "c": "Iones LEC / LIC (mEq/L)",
+       "h": [
+        "Ion",
+        "LEC",
+        "LIC"
+       ],
+       "r": [
+        [
+         "Na⁺",
+         "142",
+         "10–14"
+        ],
+        [
+         "K⁺",
+         "4",
+         "140–150"
+        ],
+        [
+         "Cl⁻",
+         "102",
+         "3–5"
+        ],
+        [
+         "HCO₃⁻",
+         "24–28",
+         "7–8"
+        ],
+        [
+         "Mg²⁺",
+         "2–3",
+         "20–40"
+        ],
+        [
+         "Fosfatos",
+         "2–4",
+         "75–100"
+        ],
+        [
+         "Proteínas",
+         "16",
+         "40–60"
+        ]
+       ]
+      },
+      {
+       "c": "Mecanismos de regulación",
+       "h": [
+        "Mecanismo",
+        "Estímulo",
+        "Efecto"
+       ],
+       "r": [
+        [
+         "Simpático",
+         "↓ PA o GC",
+         "Taquicardia, vasoconstricción, renina"
+        ],
+        [
+         "**SRAA** (el más importante para conservar Na)",
+         "↓ perfusión renal",
+         "Aldosterona: ↑ reabsorción de Na, retiene agua, excreta K"
+        ],
+        [
+         "ADH",
+         "Hipovolemia, hipotensión",
+         "Retiene agua libre (hiponatremia si ↑)"
+        ],
+        [
+         "ANP / BNP",
+         "Distensión de cavidades",
+         "Natriuresis, ↓ volemia"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Deshidratación y sobrehidratación",
+     "k": "sindrome",
+     "f": [
+      [
+       "Natremia alterada",
+       "Preguntar siempre: **¿cómo está la osmolaridad? ¿y la volemia?** Hiponatremia: casi siempre exceso de agua libre (SIADH, fármacos, IC, cirrosis, nefrótico, falla renal). Hipernatremia: déficit de agua (ingesta, diabetes insípida, pérdidas). Los síntomas osmolares son neurológicos."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Deshidratación vs sobrehidratación",
+       "h": [
+        "",
+        "Deshidratación",
+        "Sobrehidratación"
+       ],
+       "r": [
+        [
+         "Mecanismo",
+         "Pérdidas > ingresos",
+         "Ingreso > eliminación"
+        ],
+        [
+         "Causas",
+         "Vómitos, diarrea, fiebre, DM descompensada, diabetes insípida, diuréticos, menor ingesta",
+         "IC, falla renal, cirrosis, nefrótico, SIADH, exceso de líquidos IV"
+        ],
+        [
+         "Clínica",
+         "Sed, mucosas secas, pliegue, oliguria, taquicardia, hipotensión, confusión",
+         "Pesadez, disnea, edema, yugulares, crepitantes, ascitis, HTA"
+        ],
+        [
+         "Laboratorio",
+         "Hemoconcentración; Na y osmolaridad ↑",
+         "Hto y Hb ↓ (hemodilución); Na normal o ↓"
+        ]
+       ]
+      },
+      {
+       "c": "Ácido-base (pH 7,38–7,44; pCO₂ 40; HCO₃⁻ 24)",
+       "h": [
+        "Trastorno",
+        "pH",
+        "Primario",
+        "Causas"
+       ],
+       "r": [
+        [
+         "Acidosis metabólica",
+         "↓",
+         "HCO₃⁻ ↓",
+         "Diarrea, uremia, láctica, cetoacidosis; Kussmaul"
+        ],
+        [
+         "Alcalosis metabólica",
+         "↑",
+         "HCO₃⁻ ↑",
+         "Vómitos, diuréticos, hiperaldosteronismo"
+        ],
+        [
+         "Acidosis respiratoria",
+         "↓",
+         "pCO₂ ↑",
+         "Hipoventilación"
+        ],
+        [
+         "Alcalosis respiratoria",
+         "↑",
+         "pCO₂ ↓",
+         "Hipoxia, ansiedad, dolor, ventilación mecánica"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Urología y vía urinaria",
+   "ents": [
+    {
+     "n": "Síntomas urinarios",
+     "k": "sintoma",
+     "fl": [
+      "Llenado: detrusor relajado, esfínter contraído",
+      "Capacidad ~400 mL; 1.er deseo a la mitad",
+      "Vaciado: detrusor contraído, esfínter relajado"
+     ],
+     "f": [
+      [
+       "Definiciones",
+       "**Polaquiuria** (> 8 micciones/día, poco volumen) · **nicturia** · **urgencia** · **tenesmo vesical** · **enuresis** · **incontinencia** (esfuerzo, urgencia, rebalse, verdadera) · **pujo vesical** · **disuria**. Neumaturia o fecaluria: fístula colovesical (diverticulitis)."
+      ],
+      [
+       "Causas",
+       "**Infecciosas (las más comunes)**: cistitis, uretritis (E. coli, Klebsiella, Proteus; Chlamydia, gonococo, M. genitalium), prostatitis, vaginitis. No infecciosas: trauma, sonda, cistitis intersticial. **Obstructivas**: HPB, estenosis, litiasis. Irritativas: instrumentación, radioterapia."
+      ],
+      [
+       "Vejiga hiperactiva",
+       "**Urgencia** ± incontinencia de urgencia, polaquiuria y nicturia. LUTS no es sinónimo de HPB; evitar “prostatismo”. Molestias solo en vigilia: causa psicológica."
+      ],
+      [
+       "Dif.",
+       "Poliuria nocturna (IC, DM, exceso de líquidos) simula nocturia: **cartilla miccional**. Nicturia renal (ERC) o extrarrenal (IC)."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Síntomas por fase",
+       "h": [
+        "Fase",
+        "Síntomas"
+       ],
+       "r": [
+        [
+         "Llenado",
+         "Frecuencia, urgencia, nicturia, incontinencia, tenesmo, enuresis"
+        ],
+        [
+         "Vaciado",
+         "Chorro débil, latencia, intermitencia, esfuerzo, goteo terminal, retención (globo), disuria"
+        ],
+        [
+         "Posmiccionales",
+         "Goteo, vaciado incompleto"
+        ]
+       ]
+      },
+      {
+       "c": "Disuria en la mujer",
+       "h": [
+        "Hallazgo",
+        "Orienta a"
+       ],
+       "r": [
+        [
+         "Piuria + cultivo positivo",
+         "Infección urinaria"
+        ],
+        [
+         "Piuria + cultivo negativo",
+         "Contaminación, antibiótico en las últimas 48 h, vaginitis, TBC"
+        ],
+        [
+         "Sin piuria + cultivo negativo",
+         "Falta de estrógenos, Mycoplasma hominis, Ureaplasma, anaerobios"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Descarga uretral y escroto",
+     "k": "sintoma",
+     "f": [
+      [
+       "Descarga uretral",
+       "Explorar **antes de orinar**. Gonocócica: incubación 2–5 días, purulenta, espesa, amarilla. No gonocócica: 1–5 semanas; Chlamydia 25–50 %, Ureaplasma 20–30 %, tricomonas 2–5 %; más clara y mucosa. Hisopado y otras ITS."
+      ],
+      [
+       "Escroto",
+       "**Agudo**: torsión (brusco, testículo ascendido y horizontal, duele más al elevarlo; irradia a FID) u orquiepididimitis. Crónico: 3–6 meses. Aumento de volumen: tumor (la neoplasia más frecuente entre 15 y 35 años), varicocele (90 % izquierdo), hidrocele (poco dolor)."
+      ]
+     ],
+     "al": "Dolor testicular intenso de inicio brusco: pensar en **torsión** (urgencia)."
+    },
+    {
+     "n": "Alteraciones sexuales y calidad seminal",
+     "k": "sintoma",
+     "f": [
+      [
+       "Alteraciones",
+       "**Deseo**: hiposexualidad, asexualidad, hipersexualidad, aversión · **excitación**: disfunción eréctil (orgánica, farmacológica, psicógena, mixta), **priapismo** (urgencia), excitación femenina · **orgasmo**: anorgasmia, eyaculación precoz o retardada · **conducta**: parafilias, compulsiva. Aneyaculación, eyaculación retrógrada (cirugía prostática, antiadrenérgicos), hemospermia. El varón somatiza en genitales o consulta por síntomas urinarios: **preguntar dirigidamente**."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Calidad seminal (OMS)",
+       "h": [
+        "Parámetro",
+        "Normal",
+        "Alteración",
+        "Causas"
+       ],
+       "r": [
+        [
+         "Volumen",
+         "1,5–5 mL",
+         "Hipospermia, aspermia",
+         "Eyaculación retrógrada, obstrucción, hipogonadismo"
+        ],
+        [
+         "Concentración",
+         "≥ 15 millones/mL",
+         "Oligo / azoospermia",
+         "Hormonas, tóxicos, alcohol, estrés"
+        ],
+        [
+         "Movilidad",
+         "≥ 40 %",
+         "Astenozoospermia",
+         "Fiebre, calor, varicocele, tabaco"
+        ],
+        [
+         "Morfología",
+         "≥ 4 % normales",
+         "Teratozoospermia",
+         "Genética, tóxicos, infecciones"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "HPB y uropatía obstructiva baja",
+     "k": "sindrome",
+     "f": [
+      [
+       "Definición",
+       "Obstrucción entre el cuello vesical y la uretra. **HPB**: histológica, muy prevalente; componente **estático** (volumen) y **dinámico** (tono alfa-adrenérgico); tamaño y obstrucción no se correlacionan. Aparecen primero los síntomas de **vaciado**, luego los de almacenamiento."
+      ],
+      [
+       "Causas",
+       "Hombre: HPB, litiasis uretral, prostatitis crónica, estrechez, vejiga neurogénica. Mujer: cáncer cervicouterino, miomas, esclerosis del cuello, estrechez."
+      ],
+      [
+       "Examen",
+       "**Globo vesical**: masa suprapúbica lisa, de convexidad superior, matidez, despierta deseo miccional. **Tacto rectal** con consentimiento y acompañante (Sims, genupectoral o de pie inclinado)."
+      ],
+      [
+       "Objetivar",
+       "**Residuo posmiccional** > 100 mL · **IPSS** 7 preguntas (0–35: leve 0–7, moderado 8–19, severo 20–35) + calidad de vida · cartilla miccional ≥ 24 h · orina, urocultivo, creatinina, APE, eco, uroflujometría."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Tacto rectal",
+       "h": [
+        "Rasgo",
+        "HPB",
+        "Cáncer",
+        "Prostatitis aguda"
+       ],
+       "r": [
+        [
+         "Tamaño",
+         "↑ simétrico",
+         "Variable, asimétrico",
+         "↑"
+        ],
+        [
+         "Superficie",
+         "Lisa",
+         "Nodular, irregular",
+         "Lisa, tensa"
+        ],
+        [
+         "Consistencia",
+         "Elástica (goma)",
+         "Pétrea, leñosa",
+         "Blanda, edematosa"
+        ],
+        [
+         "Sensibilidad",
+         "Indolora",
+         "Indolora",
+         "**Muy dolorosa**, caliente"
+        ],
+        [
+         "Contexto",
+         "LUTS, > 50 años",
+         "APE alto para el tamaño",
+         "Fiebre, disuria; sin masaje"
+        ]
+       ]
+      }
+     ],
+     "al": "La **hematuria no es de la HPB**: sospechar cáncer urotelial. Complicaciones: retención aguda (sondear), ITU, litiasis vesical, hidronefrosis bilateral (IRA posrenal o ERC)."
+    },
+    {
+     "n": "Cólico renal, ITU y proteinuria",
+     "k": "tabla",
+     "ts": [
+      {
+       "c": "Literatura: cuadros que el PPT solo nombra",
+       "h": [
+        "Cuadro",
+        "Claves"
+       ],
+       "r": [
+        [
+         "Dolor nefrourológico",
+         "Renal: sordo, constante, lumbar, puño-percusión + (lumbago cambia con el movimiento). Vesical: hipogástrico. Prostático: perineal “en silla de montar”"
+        ],
+        [
+         "Cólico renal",
+         "Crece hasta ser insoportable; lumbar → ingle y genitales; inquieto, náuseas, hematuria. < 5 mm: ~50 % expulsión; > 6 mm: < 5 %"
+        ],
+        [
+         "Cistitis",
+         "Disuria, polaquiuria, tenesmo, dolor suprapúbico; > 100.000 UFC/mL. Bacteriuria asintomática: tratar solo en embarazo o antes de procedimientos"
+        ],
+        [
+         "Pielonefritis",
+         "Fiebre con calofríos, dolor lumbar, puño-percusión +. Febril al día 4: imágenes (absceso, cálculo)"
+        ],
+        [
+         "Prostatitis",
+         "Aguda: fiebre alta, próstata dolorosa, hospitalizar. Crónica: > 3 meses, dolor perineal"
+        ],
+        [
+         "Proteinuria",
+         "> 150 mg/día; glomerular, tubular o por sobreproducción (mieloma). Índice proteína/creatinina reemplaza la orina de 24 h"
+        ],
+        [
+         "Examen de orina",
+         "Segundo chorro de la primera orina. Nitritos: específicos; esterasa leucocitaria: buen VPN. Piuria aséptica: antibiótico previo, litiasis, tumor, tuberculosis, Chlamydia"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

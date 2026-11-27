@@ -1,61 +1,541 @@
-{"id":"04","titulo":"Vascular periférico","sub":"Várices · Úlceras · Insuficiencia arterial y venosa · Vasculitis","fichas":[
-{"n":"Principios circulatorios","k":"tabla","f":[
-["Flujo","Se regula según la necesidad de cada tejido; **gasto cardíaco = suma de flujos locales**; la PA se regula en general de forma independiente."],
-["Sangre","Circulación sistémica 84 % (venas 64 %, arterias 13 %, arteriolas y capilares 7 %), pulmonar 9 %, corazón 7 %."],
-["Retorno venoso","**Profundo 90 %**; superficial 10 %."]],
-"ts":[{"c":"Reparto del gasto: reposo vs ejercicio","h":["Territorio","Reposo (5 L/min)","Ejercicio (25 L/min)"],"r":[["Esplácnico","20–25 %","3–5 %"],["Coronario","4–5 %","4–5 %"],["Renal","20 %","2–4 %"],["Hueso","3–5 %","0,5–1 %"],["Cerebro","15 %","3–4 %"],["Piel","5 %","Variable"],["Músculo activo","15–20 %","80–85 %"]]}]},
-{"n":"Várices","k":"sintoma","f":[
-["Definición","**Dilatación y elongación tortuosa** de venas superficiales, visibles bajo la piel o mucosa. Frecuentes en mujeres (25–40 %); tras la pubertad o en el embarazo; generalmente asintomáticas (consulta estética)."],
-["Mecanismo","De pie, la presión hidrostática del tobillo supera **80 mmHg**. Pigmentación e induración: hipertensión venosa crónica (síndrome posflebítico)."],
-["Síntomas","Pesadez, edema vespertino leve, prurito, cansancio, calambres nocturnos; **peor con calor**, alivian al elevar y con compresión. No atribuir todo dolor a las várices: buscar causas ortopédicas (pie plano, genu valgum)."],
-["Examen","Inspección **siempre de pie**. Safena interna: cara interna de pierna y muslo; externa: cara posterior. **Trendelenburg y Perthes**: pierna elevada, ligadura bajo la ingle (T.) o escalonada (P.), ponerse de pie. **Brodie-Trendelenburg**: lazo en el muslo y elevar 45° un minuto; vaciamiento lento = insuficiencia profunda. Argente: estas pruebas perdieron vigencia."],
-["Apoyo","**Eco-Doppler color venoso**: origen, flujo, trombos; planifica el tratamiento. Venografía solo en casos dudosos."]],
-"ts":[{"c":"Primarias vs secundarias","h":["","Primarias","Secundarias"],"r":[["Mecanismo","Falla de válvulas de la safena; el reflujo transmite presión a las tributarias","Insuficiencia u obstrucción del sistema **profundo**; sobrecarga por comunicantes"],["Distribución","Estereotipada","Caprichosa"],["Factores","Familia, edad, obesidad, sexo femenino, multiparidad, bipedestación, anticonceptivos","**TVP previa** (lo más importante), tromboflebitis, trombofilia, fístulas, May-Thurner"],["Piel","—","Pigmentación y endurecimiento"]]},
-{"c":"Trendelenburg y Perthes: relleno","h":["Relleno","Significa"],"r":[["Rápido, desde arriba","Reflujo safeno"],["Lento, desde abajo","Comunicantes insuficientes (rebalse del sistema profundo)"]]}]},
-{"n":"Úlceras de extremidades inferiores","k":"sintoma","f":[
-["Definición","Pérdida de tejido **sin tendencia a cicatrizar a las 2 semanas** (Goic); UCH: crónica **> 6 semanas**. 90 % en las piernas."],
-["7 elementos","**Forma · ubicación · bordes · entorno cutáneo · fondo · tejidos profundos · contexto** (diabetes, HTA, tabaco, vasculitis)."],
-["Otras arteriales","**Hipertensiva**: tercio distal, infarto cutáneo con halo purpúrico, muy dolorosa · **ateroembolia**: dedo azul, livedo, pulsos normales · **vasculitis y vasoespasmo**: Buerger (necrosis de ortejos), Raynaud (paraungueales), esclerodermia, PAN, LES."],
-["Por presión","Prominencias óseas (sacro, isquion); inmovilidad, humedad, desnutrición. Prevenir: cambio de posición cada 1–2 h; escala de **Braden**."],
-["Pie diabético","Úlcera **indolora** en apoyos de pie deformado con **pulsos presentes**. Gangrena seca: momificación; húmeda: infección anaerobia, fétida, gas. Explorar profundidad con estilete; ITB falsamente alto por calcificación."]],
-"ts":[{"c":"Arterial vs venosa vs neurotrófica","h":["Rasgo","Venosa","Arterial","Neurotrófica"],"r":[["Ubicación","Maléolo interno","Ortejos, talón, metatarso","Zonas de apoyo (planta)"],["Bordes","Netos (⚠ UCH: mal definidos)","Algo irregulares","Callosos, en sacabocado"],["Fondo","Rosado o fibrinoso","Necrótico, pálido","Profundo"],["Piel","Pigmentada, indurada","Atrófica, sin fanéreos","Callosa, seca"],["Dolor","Ausente salvo infección (⚠ variable)","**Intenso**","Ausente"],["Pulsos / ITB","Presentes, ~1","Ausentes, < 0,9","Presentes"],["Postura","Alivia al elevar","**Empeora al elevar**","Sin relación"]]}],
-"al":"El pie diabético amenaza la extremidad y la vida."},
-{"n":"Insuficiencia arterial","k":"sindrome","f":[
-["Definición","Interrupción parcial o total, gradual o súbita, del flujo arterial, con isquemia. Avanza de distal a proximal; sin colaterales competentes evoluciona en minutos a horas."],
-["Causas","**Embolia** (la mayoría; 50 % en EEII; 80 % de origen cardíaco): FA con valvulopatía, prótesis, endocarditis, tumores, trombo aórtico, paradójica. **Trombosis** sobre pared dañada (ateroesclerosis) o trombofilia. Trauma, disección, ateroma, compresión, vasculitis, espasmo. **Crónica**: ateroesclerosis (tabaco, colesterol, diabetes, HTA); Buerger: hombre joven fumador."],
-["Aguda: 6 P","**P**ain · **p**alidez · **p**érdida de pulsos · **p**arestesias · **p**aresia · **p**oiquilotermia. Embolia: brusca y severa; trombosis: más lenta, con claudicación previa."],
-["Crónica","**Claudicación** (síntoma cardinal): pesadez o calambre, cede en reposo, reaparece con el mismo esfuerzo; empeora con frío, subidas o anemia. Se localiza **bajo** la obstrucción: planta, pantorrilla (femoral superficial), nalgas y muslos con impotencia (aortoilíaca, **Leriche**). **Dolor de reposo**: 1–2 h tras acostarse, ortejos y apoyos; alivia colgando la pierna = isquemia crítica."],
-["Examen","Piel delgada y brillante, uñas y vello lentos, llene capilar lento, frialdad, palidez al elevar y rubor frío al bajar, pulsos ↓. **Buerger**: elevar 45° un minuto. **Samuels**: 30° con dorsiflexiones hasta palidez o dolor."],
-["Imágenes","Eco-Doppler arterial → angio-TC o angio-RM → **arteriografía** (más precisa, invasiva). Presiones segmentarias: caída > 30 mmHg localiza la oclusión. ⚠ Goic lo ve menos costo-efectivo que ITB y pletismografía."]],
-"ts":[{"c":"Índice tobillo-brazo (ITB = PAS máx. tobillo / PAS máx. brazo; se informa el menor)","h":["ITB","Interpretación"],"r":[["> 0,9","Normal (⚠ > 1,3–1,4: arterias no compresibles; Argente normal 1,0)"],["0,71–0,9","Obstrucción leve"],["0,41–0,7","Moderada"],["< 0,40","Grave (Argente: < 0,5 alto riesgo)"]]},
-{"c":"Disección aórtica: clasificaciones","h":["Sistema","Tipo","Compromiso"],"r":[["Stanford","A","Aorta ascendente, sin importar el origen"],["Stanford","B","No compromete la ascendente"],["DeBakey","I","Ascendente, cayado y descendente"],["DeBakey","II","Solo ascendente"],["DeBakey","IIIa / IIIb","Origen distal a la subclavia izquierda: descendente (⚠ la figura parece invertir a/b)"]]},
-{"c":"Mecanismos de obstrucción","h":["Mecanismo","Descripción"],"r":[["Ateroma","Lesión focal de la íntima"],["Embolismo","El émbolo viaja y obstruye un vaso menor"],["Trombosis","Coágulo dentro del vaso"],["Compresión","Presión externa"],["Vasculitis","Inflamación: isquemia, necrosis, hemorragia"],["Espasmo","Contracción brusca, estrechamiento temporal"]]}],
-"al":"La obstrucción aguda es una **urgencia quirúrgica** por riesgo de perder la extremidad. Alertan: dolor de reposo, impotencia funcional, palidez extrema, cianosis, frialdad."},
-{"n":"Insuficiencia venosa","k":"sindrome","f":[
-["Definición","Disfunción venosa: insuficiencia valvular, cambios de microcirculación, **hipertensión venosa**. Retorno impedido por trombosis, falla valvular o compresión externa."],
-["Causas de TVP","**Tríada de Virchow**: edad > 40, cáncer, obesidad, reposo, TVP previa, cirugía (traumatológica), embarazo, anticonceptivos."],
-["TVP aguda","Dolor por congestión y tensión muscular, aumento de volumen, red venosa visible, cianosis, **Homans**. Diferencia > 3 cm entre pantorrillas. Homans, Lisker y Bancroft: baja sensibilidad (13–48 %) y especificidad (39–84 %)."],
-["Posflebítico","Edema, várices secundarias, **hiperpigmentación**, atrofia blanca, eccema, **lipodermatoesclerosis**, úlcera. Crónica: pesadez (lo principal), prurito, calambres; peor de pie, mejor al elevar."],
-["Trombosis superficial","Cordón rojo, doloroso e indurado: punción, cáncer, trombofilia, Buerger o sobre várices (varicoflebitis)."],
-["Apoyo","**Eco-Doppler**: el más costo-efectivo. **Dímero D** sensible y poco específico: negativo con baja probabilidad descarta (UCH < 500). Wells TVP: UCH pide dímero con ≤ 1 punto y eco con ≥ 2; Argente simplificado: ≥ 3 alta, 1–2 moderada, ≤ 0 baja."]],
-"al":"Principal riesgo: **TEP** (mayor mientras más proximal); ~50 % hará síndrome postrombótico. Trombosis proximal masiva: oliguria y shock; flegmasia alba y cerúlea, con posible gangrena."},
-{"n":"Vasculitis","k":"sindrome","f":[
-["Definición","**Inflamación y necrosis de la pared vascular**, en vasos de distintos tamaños. Primarias o secundarias (infecciones, conectivopatías, fármacos, crioglobulinas, neoplasias, trasplante)."],
-["Clínica","**90 %** fiebre, baja de peso y postración · poliartralgias y polimialgias · **piel** (púrpura palpable → necrosis) · dolor abdominal (necrosis intestinal) · **pulmón** (broncoespasmo, hemorragia, cavitación) · **riñón** (hematuria, cilindros, albuminuria; vaso pequeño) · **mononeuritis múltiple**."]],
-"ts":[{"c":"Según el tamaño del vaso","h":["Tamaño","Entidad","Claves"],"r":[
-["Pequeño","Leucocitoclástica o por hipersensibilidad","Piel y EEII; púrpura palpable; infiltrado polimorfonuclear; dolor cólico y renal posibles"],
-["Pequeño","Wegener (granulomatosis con poliangeítis)","Vía respiratoria alta y baja, **glomerulonefritis**, piel, ojos, oídos, SNC; **ANCA C (+)**"],
-["Pequeño","Churg-Strauss (eosinofílica)","**Asma** de inicio reciente, rinitis, eosinofilia, mononeuritis, lesiones cutáneas"],
-["Pequeño","Granulomatosis linfomatoide","Linfoproliferación B angiocéntrica; **VEB**; pulmón con cavitaciones"],
-["Mediano","Poliarteritis nodosa","Necrosis segmentaria en bifurcaciones; piel, **HTA**, mononeuritis múltiple, testículo, dolor abdominal; pulmón infrecuente; posible rol de **hepatitis B**"],
-["Mediano","Asociada a artritis reumatoide","Histología similar a PAN; necrosis cutánea y mononeuritis"],
-["Grande","Takayasu","**Mujeres jóvenes**; arco aórtico y ramas; ausencia de pulsos (tronco braquiocefálico)"],
-["Grande","Arteritis de la temporal","**> 60 años** (⚠ doc. 09: > 55); cefalea temporal, claudicación mandibular, **amaurosis** unilateral; polimialgia reumática con rigidez matinal proximal"],
-["Complejos inmunes","Goodpasture","Anticuerpos antimembrana basal; **GN rápidamente progresiva + hemorragia pulmonar**"],
-["Complejos inmunes","Schönlein-Henoch","Depósito de **IgA1**; gonartralgia, púrpura palpable, dolor abdominal, glomerulitis"],
-["Cualquier tamaño","Behçet","Úlceras orales y genitales, uveítis, piel, poliartritis, pulmón y SNC"],
-["Cualquier tamaño","Kawasaki","Lactantes y niños: fiebre súbita, irritabilidad, adenopatías cervicales, mucositis, conjuntivitis, exantema, edema de manos, descamación palmar"],
-["Cualquier tamaño","Cogan","Hipoacusia, disfunción vestibular, queratitis, uveítis; a veces aortitis y valvulitis mitral"]]}]},
-{"n":"Literatura: otros cuadros","k":"tabla","ts":[{"c":"Cuadros que el PPT solo nombra","h":["Cuadro","Claves"],"r":[["Leriche","Obstrucción aortoilíaca: claudicación de nalgas, muslos y pantorrillas + disfunción sexual"],["Isquemia crítica","Flujo insuficiente en reposo: dolor en decúbito, úlceras, necrosis, gangrena"],["Tromboflebitis superficial","Safenas, brazos, mamas: cordón palpable, doloroso, piel inflamada"],["Riñón-pulmón","Lupus, granulomatosis con poliangeítis, poliarteritis microscópica, Goodpasture"]]},
-{"c":"Pie diabético: clasificación de Wagner","h":["Grado","Descripción"],"r":[["0","Pie sin lesión, con factores de riesgo"],["1","Úlcera superficial"],["2","Úlcera profunda sin hueso"],["3","Profunda con compromiso óseo"],["4","Gangrena localizada"],["5","Gangrena de todo el pie"]]}]}
-]}
+{
+ "id": "04",
+ "titulo": "Vascular periférico",
+ "sub": "Várices · Úlceras · Insuficiencia arterial y venosa · Vasculitis",
+ "fichas": [
+  {
+   "n": "Principios circulatorios",
+   "k": "tabla",
+   "f": [
+    [
+     "Flujo",
+     "Se regula según la necesidad de cada tejido; **gasto cardíaco = suma de flujos locales**; la PA se regula en general de forma independiente."
+    ],
+    [
+     "Sangre",
+     "Circulación sistémica 84 % (venas 64 %, arterias 13 %, arteriolas y capilares 7 %), pulmonar 9 %, corazón 7 %."
+    ],
+    [
+     "Retorno venoso",
+     "**Profundo 90 %**; superficial 10 %."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Reparto del gasto: reposo vs ejercicio",
+     "h": [
+      "Territorio",
+      "Reposo (5 L/min)",
+      "Ejercicio (25 L/min)"
+     ],
+     "r": [
+      [
+       "Esplácnico",
+       "20–25 %",
+       "3–5 %"
+      ],
+      [
+       "Coronario",
+       "4–5 %",
+       "4–5 %"
+      ],
+      [
+       "Renal",
+       "20 %",
+       "2–4 %"
+      ],
+      [
+       "Hueso",
+       "3–5 %",
+       "0,5–1 %"
+      ],
+      [
+       "Cerebro",
+       "15 %",
+       "3–4 %"
+      ],
+      [
+       "Piel",
+       "5 %",
+       "Variable"
+      ],
+      [
+       "Músculo activo",
+       "15–20 %",
+       "80–85 %"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Várices",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "**Dilatación y elongación tortuosa** de venas superficiales, visibles bajo la piel o mucosa. Frecuentes en mujeres (25–40 %); tras la pubertad o en el embarazo; generalmente asintomáticas (consulta estética)."
+    ],
+    [
+     "Mecanismo",
+     "De pie, la presión hidrostática del tobillo supera **80 mmHg**. Pigmentación e induración: hipertensión venosa crónica (síndrome posflebítico)."
+    ],
+    [
+     "Síntomas",
+     "Pesadez, edema vespertino leve, prurito, cansancio, calambres nocturnos; **peor con calor**, alivian al elevar y con compresión. No atribuir todo dolor a las várices: buscar causas ortopédicas (pie plano, genu valgum)."
+    ],
+    [
+     "Examen",
+     "Inspección **siempre de pie**. Safena interna: cara interna de pierna y muslo; externa: cara posterior. **Trendelenburg y Perthes**: pierna elevada, ligadura bajo la ingle (T.) o escalonada (P.), ponerse de pie. **Brodie-Trendelenburg**: lazo en el muslo y elevar 45° un minuto; vaciamiento lento = insuficiencia profunda. Argente: estas pruebas perdieron vigencia."
+    ],
+    [
+     "Apoyo",
+     "**Eco-Doppler color venoso**: origen, flujo, trombos; planifica el tratamiento. Venografía solo en casos dudosos."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Primarias vs secundarias",
+     "h": [
+      "",
+      "Primarias",
+      "Secundarias"
+     ],
+     "r": [
+      [
+       "Mecanismo",
+       "Falla de válvulas de la safena; el reflujo transmite presión a las tributarias",
+       "Insuficiencia u obstrucción del sistema **profundo**; sobrecarga por comunicantes"
+      ],
+      [
+       "Distribución",
+       "Estereotipada",
+       "Caprichosa"
+      ],
+      [
+       "Factores",
+       "Familia, edad, obesidad, sexo femenino, multiparidad, bipedestación, anticonceptivos",
+       "**TVP previa** (lo más importante), tromboflebitis, trombofilia, fístulas, May-Thurner"
+      ],
+      [
+       "Piel",
+       "—",
+       "Pigmentación y endurecimiento"
+      ]
+     ]
+    },
+    {
+     "c": "Trendelenburg y Perthes: relleno",
+     "h": [
+      "Relleno",
+      "Significa"
+     ],
+     "r": [
+      [
+       "Rápido, desde arriba",
+       "Reflujo safeno"
+      ],
+      [
+       "Lento, desde abajo",
+       "Comunicantes insuficientes (rebalse del sistema profundo)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Úlceras de extremidades inferiores",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Pérdida de tejido **sin tendencia a cicatrizar a las 2 semanas** (Goic); UCH: crónica **> 6 semanas**. 90 % en las piernas."
+    ],
+    [
+     "7 elementos",
+     "**Forma · ubicación · bordes · entorno cutáneo · fondo · tejidos profundos · contexto** (diabetes, HTA, tabaco, vasculitis)."
+    ],
+    [
+     "Otras arteriales",
+     "**Hipertensiva**: tercio distal, infarto cutáneo con halo purpúrico, muy dolorosa · **ateroembolia**: dedo azul, livedo, pulsos normales · **vasculitis y vasoespasmo**: Buerger (necrosis de ortejos), Raynaud (paraungueales), esclerodermia, PAN, LES."
+    ],
+    [
+     "Por presión",
+     "Prominencias óseas (sacro, isquion); inmovilidad, humedad, desnutrición. Prevenir: cambio de posición cada 1–2 h; escala de **Braden**."
+    ],
+    [
+     "Pie diabético",
+     "Úlcera **indolora** en apoyos de pie deformado con **pulsos presentes**. Gangrena seca: momificación; húmeda: infección anaerobia, fétida, gas. Explorar profundidad con estilete; ITB falsamente alto por calcificación."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Arterial vs venosa vs neurotrófica",
+     "h": [
+      "Rasgo",
+      "Venosa",
+      "Arterial",
+      "Neurotrófica"
+     ],
+     "r": [
+      [
+       "Ubicación",
+       "Maléolo interno",
+       "Ortejos, talón, metatarso",
+       "Zonas de apoyo (planta)"
+      ],
+      [
+       "Bordes",
+       "Netos (⚠ UCH: mal definidos)",
+       "Algo irregulares",
+       "Callosos, en sacabocado"
+      ],
+      [
+       "Fondo",
+       "Rosado o fibrinoso",
+       "Necrótico, pálido",
+       "Profundo"
+      ],
+      [
+       "Piel",
+       "Pigmentada, indurada",
+       "Atrófica, sin fanéreos",
+       "Callosa, seca"
+      ],
+      [
+       "Dolor",
+       "Ausente salvo infección (⚠ variable)",
+       "**Intenso**",
+       "Ausente"
+      ],
+      [
+       "Pulsos / ITB",
+       "Presentes, ~1",
+       "Ausentes, < 0,9",
+       "Presentes"
+      ],
+      [
+       "Postura",
+       "Alivia al elevar",
+       "**Empeora al elevar**",
+       "Sin relación"
+      ]
+     ]
+    }
+   ],
+   "al": "El pie diabético amenaza la extremidad y la vida."
+  },
+  {
+   "n": "Insuficiencia arterial",
+   "k": "sindrome",
+   "f": [
+    [
+     "Definición",
+     "Interrupción parcial o total, gradual o súbita, del flujo arterial, con isquemia. Avanza de distal a proximal; sin colaterales competentes evoluciona en minutos a horas."
+    ],
+    [
+     "Causas",
+     "**Embolia** (la mayoría; 50 % en EEII; 80 % de origen cardíaco): FA con valvulopatía, prótesis, endocarditis, tumores, trombo aórtico, paradójica. **Trombosis** sobre pared dañada (ateroesclerosis) o trombofilia. Trauma, disección, ateroma, compresión, vasculitis, espasmo. **Crónica**: ateroesclerosis (tabaco, colesterol, diabetes, HTA); Buerger: hombre joven fumador."
+    ],
+    [
+     "Aguda: 6 P",
+     "**P**ain · **p**alidez · **p**érdida de pulsos · **p**arestesias · **p**aresia · **p**oiquilotermia. Embolia: brusca y severa; trombosis: más lenta, con claudicación previa."
+    ],
+    [
+     "Crónica",
+     "**Claudicación** (síntoma cardinal): pesadez o calambre, cede en reposo, reaparece con el mismo esfuerzo; empeora con frío, subidas o anemia. Se localiza **bajo** la obstrucción: planta, pantorrilla (femoral superficial), nalgas y muslos con impotencia (aortoilíaca, **Leriche**). **Dolor de reposo**: 1–2 h tras acostarse, ortejos y apoyos; alivia colgando la pierna = isquemia crítica."
+    ],
+    [
+     "Examen",
+     "Piel delgada y brillante, uñas y vello lentos, llene capilar lento, frialdad, palidez al elevar y rubor frío al bajar, pulsos ↓. **Buerger**: elevar 45° un minuto. **Samuels**: 30° con dorsiflexiones hasta palidez o dolor."
+    ],
+    [
+     "Imágenes",
+     "Eco-Doppler arterial → angio-TC o angio-RM → **arteriografía** (más precisa, invasiva). Presiones segmentarias: caída > 30 mmHg localiza la oclusión. ⚠ Goic lo ve menos costo-efectivo que ITB y pletismografía."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Índice tobillo-brazo (ITB = PAS máx. tobillo / PAS máx. brazo; se informa el menor)",
+     "h": [
+      "ITB",
+      "Interpretación"
+     ],
+     "r": [
+      [
+       "> 0,9",
+       "Normal (⚠ > 1,3–1,4: arterias no compresibles; Argente normal 1,0)"
+      ],
+      [
+       "0,71–0,9",
+       "Obstrucción leve"
+      ],
+      [
+       "0,41–0,7",
+       "Moderada"
+      ],
+      [
+       "< 0,40",
+       "Grave (Argente: < 0,5 alto riesgo)"
+      ]
+     ]
+    },
+    {
+     "c": "Disección aórtica: clasificaciones",
+     "h": [
+      "Sistema",
+      "Tipo",
+      "Compromiso"
+     ],
+     "r": [
+      [
+       "Stanford",
+       "A",
+       "Aorta ascendente, sin importar el origen"
+      ],
+      [
+       "Stanford",
+       "B",
+       "No compromete la ascendente"
+      ],
+      [
+       "DeBakey",
+       "I",
+       "Ascendente, cayado y descendente"
+      ],
+      [
+       "DeBakey",
+       "II",
+       "Solo ascendente"
+      ],
+      [
+       "DeBakey",
+       "IIIa / IIIb",
+       "Origen distal a la subclavia izquierda: descendente (⚠ la figura parece invertir a/b)"
+      ]
+     ]
+    },
+    {
+     "c": "Mecanismos de obstrucción",
+     "h": [
+      "Mecanismo",
+      "Descripción"
+     ],
+     "r": [
+      [
+       "Ateroma",
+       "Lesión focal de la íntima"
+      ],
+      [
+       "Embolismo",
+       "El émbolo viaja y obstruye un vaso menor"
+      ],
+      [
+       "Trombosis",
+       "Coágulo dentro del vaso"
+      ],
+      [
+       "Compresión",
+       "Presión externa"
+      ],
+      [
+       "Vasculitis",
+       "Inflamación: isquemia, necrosis, hemorragia"
+      ],
+      [
+       "Espasmo",
+       "Contracción brusca, estrechamiento temporal"
+      ]
+     ]
+    }
+   ],
+   "al": "La obstrucción aguda es una **urgencia quirúrgica** por riesgo de perder la extremidad. Alertan: dolor de reposo, impotencia funcional, palidez extrema, cianosis, frialdad."
+  },
+  {
+   "n": "Insuficiencia venosa",
+   "k": "sindrome",
+   "f": [
+    [
+     "Definición",
+     "Disfunción venosa: insuficiencia valvular, cambios de microcirculación, **hipertensión venosa**. Retorno impedido por trombosis, falla valvular o compresión externa."
+    ],
+    [
+     "Causas de TVP",
+     "**Tríada de Virchow**: edad > 40, cáncer, obesidad, reposo, TVP previa, cirugía (traumatológica), embarazo, anticonceptivos."
+    ],
+    [
+     "TVP aguda",
+     "Dolor por congestión y tensión muscular, aumento de volumen, red venosa visible, cianosis, **Homans**. Diferencia > 3 cm entre pantorrillas. Homans, Lisker y Bancroft: baja sensibilidad (13–48 %) y especificidad (39–84 %)."
+    ],
+    [
+     "Posflebítico",
+     "Edema, várices secundarias, **hiperpigmentación**, atrofia blanca, eccema, **lipodermatoesclerosis**, úlcera. Crónica: pesadez (lo principal), prurito, calambres; peor de pie, mejor al elevar."
+    ],
+    [
+     "Trombosis superficial",
+     "Cordón rojo, doloroso e indurado: punción, cáncer, trombofilia, Buerger o sobre várices (varicoflebitis)."
+    ],
+    [
+     "Apoyo",
+     "**Eco-Doppler**: el más costo-efectivo. **Dímero D** sensible y poco específico: negativo con baja probabilidad descarta (UCH < 500). Wells TVP: UCH pide dímero con ≤ 1 punto y eco con ≥ 2; Argente simplificado: ≥ 3 alta, 1–2 moderada, ≤ 0 baja."
+    ]
+   ],
+   "al": "Principal riesgo: **TEP** (mayor mientras más proximal); ~50 % hará síndrome postrombótico. Trombosis proximal masiva: oliguria y shock; flegmasia alba y cerúlea, con posible gangrena."
+  },
+  {
+   "n": "Vasculitis",
+   "k": "sindrome",
+   "f": [
+    [
+     "Definición",
+     "**Inflamación y necrosis de la pared vascular**, en vasos de distintos tamaños. Primarias o secundarias (infecciones, conectivopatías, fármacos, crioglobulinas, neoplasias, trasplante)."
+    ],
+    [
+     "Clínica",
+     "**90 %** fiebre, baja de peso y postración · poliartralgias y polimialgias · **piel** (púrpura palpable → necrosis) · dolor abdominal (necrosis intestinal) · **pulmón** (broncoespasmo, hemorragia, cavitación) · **riñón** (hematuria, cilindros, albuminuria; vaso pequeño) · **mononeuritis múltiple**."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Según el tamaño del vaso",
+     "h": [
+      "Tamaño",
+      "Entidad",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Pequeño",
+       "Leucocitoclástica o por hipersensibilidad",
+       "Piel y EEII; púrpura palpable; infiltrado polimorfonuclear; dolor cólico y renal posibles"
+      ],
+      [
+       "Pequeño",
+       "Wegener (granulomatosis con poliangeítis)",
+       "Vía respiratoria alta y baja, **glomerulonefritis**, piel, ojos, oídos, SNC; **ANCA C (+)**"
+      ],
+      [
+       "Pequeño",
+       "Churg-Strauss (eosinofílica)",
+       "**Asma** de inicio reciente, rinitis, eosinofilia, mononeuritis, lesiones cutáneas"
+      ],
+      [
+       "Pequeño",
+       "Granulomatosis linfomatoide",
+       "Linfoproliferación B angiocéntrica; **VEB**; pulmón con cavitaciones"
+      ],
+      [
+       "Mediano",
+       "Poliarteritis nodosa",
+       "Necrosis segmentaria en bifurcaciones; piel, **HTA**, mononeuritis múltiple, testículo, dolor abdominal; pulmón infrecuente; posible rol de **hepatitis B**"
+      ],
+      [
+       "Mediano",
+       "Asociada a artritis reumatoide",
+       "Histología similar a PAN; necrosis cutánea y mononeuritis"
+      ],
+      [
+       "Grande",
+       "Takayasu",
+       "**Mujeres jóvenes**; arco aórtico y ramas; ausencia de pulsos (tronco braquiocefálico)"
+      ],
+      [
+       "Grande",
+       "Arteritis de la temporal",
+       "**> 60 años** (⚠ doc. 09: > 55); cefalea temporal, claudicación mandibular, **amaurosis** unilateral; polimialgia reumática con rigidez matinal proximal"
+      ],
+      [
+       "Anticuerpos anti-MB",
+       "Goodpasture",
+       "Anticuerpos antimembrana basal (⚠ el PPT lo agrupa con los complejos inmunes; el doc. 06 lo separa); **GN rápidamente progresiva + hemorragia pulmonar**"
+      ],
+      [
+       "Complejos inmunes",
+       "Schönlein-Henoch",
+       "Depósito de **IgA1**; gonartralgia, púrpura palpable, dolor abdominal, glomerulitis"
+      ],
+      [
+       "Cualquier tamaño",
+       "Behçet",
+       "Úlceras orales y genitales, uveítis, piel, poliartritis, pulmón y SNC"
+      ],
+      [
+       "Cualquier tamaño",
+       "Kawasaki",
+       "Lactantes y niños: fiebre súbita, irritabilidad, adenopatías cervicales, mucositis, conjuntivitis, exantema, edema de manos, descamación palmar"
+      ],
+      [
+       "Cualquier tamaño",
+       "Cogan",
+       "Hipoacusia, disfunción vestibular, queratitis, uveítis; a veces aortitis y valvulitis mitral"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Literatura: otros cuadros",
+   "k": "tabla",
+   "ts": [
+    {
+     "c": "Cuadros que el PPT solo nombra",
+     "h": [
+      "Cuadro",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Leriche",
+       "Obstrucción aortoilíaca: claudicación de nalgas, muslos y pantorrillas + disfunción sexual"
+      ],
+      [
+       "Isquemia crítica",
+       "Flujo insuficiente en reposo: dolor en decúbito, úlceras, necrosis, gangrena"
+      ],
+      [
+       "Tromboflebitis superficial",
+       "Safenas, brazos, mamas: cordón palpable, doloroso, piel inflamada"
+      ],
+      [
+       "Riñón-pulmón",
+       "Lupus, granulomatosis con poliangeítis, poliarteritis microscópica, Goodpasture"
+      ]
+     ]
+    },
+    {
+     "c": "Pie diabético: clasificación de Wagner",
+     "h": [
+      "Grado",
+      "Descripción"
+     ],
+     "r": [
+      [
+       "0",
+       "Pie sin lesión, con factores de riesgo"
+      ],
+      [
+       "1",
+       "Úlcera superficial"
+      ],
+      [
+       "2",
+       "Úlcera profunda sin hueso"
+      ],
+      [
+       "3",
+       "Profunda con compromiso óseo"
+      ],
+      [
+       "4",
+       "Gangrena localizada"
+      ],
+      [
+       "5",
+       "Gangrena de todo el pie"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

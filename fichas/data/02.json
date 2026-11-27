@@ -1,72 +1,840 @@
-{"id":"02","titulo":"Cardiovascular","sub":"Dolor torácico · Palpitaciones · Cianosis · Síncope · Angina · Insuficiencia cardíaca · Taponamiento · Shock","fichas":[
-{"n":"Dolor torácico","k":"sintoma","f":[
-["Caracterizar (9)","**Localización** (esternal, precordial, dorso) · **evolución** · **inicio** (insidioso, creciente, súbito) · **carácter** (opresivo, punzante) · **intensidad** · **gravedad** · **acompañantes** (sudor, síncope, pirosis) · **agravantes** (esfuerzo, respiración, movimiento) · **alivio** (reposo, trinitrina). Intensidad ≠ gravedad; pueden coexistir dos causas."],
-["Regla","Todo dolor entre **mandíbula y ombligo** puede ser coronario; ante sospecha isquémica, **ECG siempre**. En un joven sin factores de riesgo es menos probable la isquemia. El dolor de **segundos** habitualmente no es isquémico."],
-["Espasmo esofágico","Tras comidas o alcohol, dura minutos, calma de pie o sentado y con antiácidos."]],
-"ts":[
-{"c":"Causas según origen (en negrita: descartar siempre)","h":["Origen","Causas"],"r":[["Cardíaco isquémico","Angina, **infarto**, Prinzmetal"],["CV no isquémico","**Disección aórtica**, pericarditis, estenosis aórtica, CMH, prolapso mitral"],["Pleuropulmonar","Neumonía, **TEP**, **neumotórax**"],["Digestivo","Reflujo, acalasia, espasmo esofágico, úlcera, cólico biliar, pancreatitis, **ruptura esofágica**"],["Parietal","Costocondritis, Tietze, neuralgia intercostal, fractura costal"],["Psicógeno","Ansiedad, hiperventilación, depresión"]]},
-{"c":"Perfil temporal","h":["Cuadro","Perfil"],"r":[["Angina","Con el esfuerzo; cede en minutos con reposo o trinitrina"],["Infarto","Rápidamente creciente, intenso y prolongado; no cede con reposo"],["Disección aórtica","Súbito, máximo desde el inicio; irradia a dorso o abdomen; pulsos femorales asimétricos"]]},
-{"c":"Diferencial: no omitir y frecuentes","h":["Causa","Claves"],"r":[["Infarto","Opresivo, creciente, prolongado"],["Disección","Súbito y máximo; PA alta, pulsos asimétricos"],["TEP / infarto pulmonar","Pleural brusco, disnea, taquicardia, esputo hemoptoico"],["Neumotórax","Súbito unilateral; timpanismo, murmullo abolido"],["Costocondral","Se reproduce al comprimir 2.ª–3.ª condroesternal"],["Esofágico","Pirosis, regurgitación"],["Pericarditis","↑ con tos e inspiración; frote"],["Ansiedad","Punzadas apexianas, parestesias peribucales"]]}],
-"al":"Descartar siempre: infarto, disección aórtica, TEP, neumotórax y ruptura esofágica. El dolor isquémico referido al epigastrio no cambia con respiración, posición ni palpación y no da contractura."},
-{"n":"Palpitaciones","k":"sintoma","f":[
-["Definición","Latidos del corazón o de grandes vasos **percibidos de forma desagradable** (latido, vuelco, aleteo)."],
-["Preguntar","Esfuerzo o reposo · rápidas o lentas · regulares · aisladas o en salvas · frecuencia · inicio y duración · acompañantes · fármacos · tabaco y café. Con esfuerzo: la FA se hace más irregular y la extrasistolía tiende a regularizarse."],
-["Apoyo","Aparecen con esfuerzo: **ergometría**. Compromiso hemodinámico, síncope o muerte súbita reanimada: **estudio electrofisiológico**. Según sospecha: TSH, hemograma, glicemia."]],
-"ts":[{"c":"Causas","h":["Contexto","Patrón","Causa"],"r":[["Esfuerzo o emoción","Fisiológicas","—"],["Reposo","Aisladas (“vuelco” y pausa)","**Extrasístoles**"],["Reposo","En serie, regulares","TPSV, flutter 2:1; ansiedad, hipertiroidismo, drogas"],["Reposo","En serie, irregulares","FA paroxística, flutter con bloqueo variable"]]},
-{"c":"Claves de cada ritmo","h":["Ritmo","Rasgo"],"r":[["TPSV","Inicio y fin **súbitos**; la cortan las maniobras vagales"],["FA","Irregularmente irregular; empeora con esfuerzo"],["Extrasístole","Latido anticipado, pausa y latido más fuerte"],["TV","Cardiópata mayor, peor pronóstico; varía el 1.er ruido, ondas en cañón"]]}]},
-{"n":"Cianosis","k":"sintoma","f":[
-["Definición","Azul-violácea por **Hb reducida > 5 g/dL** en el lecho capilar (umbral de Lundsgaard). Cuenta la cantidad **absoluta**, no la saturación: anemia severa = hipoxemia sin cianosis; poliglobulia = cianosis con hipoxemia leve. Meta/sulfahemoglobina: umbral menor (1,5 y 0,5 g/dL)."],
-["Examen","Con **luz natural**: labios, nariz, orejas, uñas, lengua, conjuntiva. Agua caliente mejora la periférica; oxígeno mejora la central. Hipoxia crónica: acrocianosis, **hipocratismo (> 165°)**, poliglobulia."],
-["Dif.","**Impostores**: eritrosis (policitemia, alcohol), rojo cereza (CO), argiria (sales de plata, no blanquea). Cianosis ≠ hipoxemia: CO y cianuro dan hipoxia sin cianosis; la periférica da cianosis sin hipoxemia."]],
-"ts":[{"c":"Tipos","h":["Tipo","Mecanismo"],"r":[["Central pulmonar","Hipoventilación, V/Q, difusión"],["Central cardíaca","Cortocircuito derecha-izquierda (Fallot, Eisenmenger)"],["Hb anormal","Metahemoglobina, sulfahemoglobina; sin acropaquia"],["Periférica","Mayor extracción: IC, shock, frío, Raynaud"],["Mixta","IC congestiva grave"],["Diferencial","Ductus con HTP: ortejos azules, manos rosadas"]]},
-{"c":"Central vs periférica","h":["Rasgo","Central","Periférica"],"r":[["Extensión","Generalizada","Distal"],["Temperatura","Caliente","Fría"],["Lengua y conjuntiva","Comprometidas","Respetadas"],["Acropaquia / poliglobulia","Sí","No"],["Oxígeno","Mejora","No cambia"],["Calor o masaje","No cambia","Mejora"]]}]},
-{"n":"Síncope","k":"sintoma","f":[
-["Definición","**Pérdida súbita, completa y transitoria** de conciencia por **hipoperfusión cerebral global**, con recuperación espontánea. **Presíncope**: sensación de pérdida inminente."],
-["Mecanismo","Flujo cerebral **< 30 mL/100 g/min** (PAM < 30 mmHg o asistolia > 5 s). No es síncope: hipoglicemia, hipoxia, hipercapnia (hipoglicemia: paulatina, hambre, sudor; cede con glucosa IV)."],
-["Conducta","Lipotimia: decúbito · seno carotídeo: evitar compresión · obstrucción: cirugía · BAV completo: marcapaso."]],
-"fl":["Anamnesis y examen","ECG","Ecocardiograma y Holter 24–48 h","Si recurre: neurológico, esfuerzo, electrofisiológico"],
-"ts":[{"c":"Causas","h":["Mecanismo","Claves"],"r":[["Vasovagal (70 %)","Pródromo (palidez, náuseas, sudor); de pie, emoción, dolor, sangre"],["Postural","Al incorporarse: hipovolemia, hipotensores, tricíclicos, neuropatía diabética"],["Cardiogénico de esfuerzo (obstrucción)","Estenosis aórtica, CMH, HTP, mixoma"],["Cardiogénico de reposo (arritmia)","BAV completo, TV, flutter 1:1, QT largo"],["Otros","Tusígeno, miccional, seno carotídeo, embarazo en supino"]]},
-{"c":"Diferencial","h":["Rasgo","Lipotimia","Stokes-Adams","Epilepsia","Conversiva","Isquemia transitoria"],"r":[["Pródromos","Sí","No","Sí","No","No"],["Convulsiones","No","Ocasional","Sí","No","No"],["Recuperación","Rápida","Rápida","Lenta","Lenta","Variable"],["Lesiones por caída","No","No","Sí","No","No"],["Signos focales","No","No","Sí","No","Sí"]]}],
-"al":"El síncope cardiogénico (de esfuerzo por obstrucción o de reposo por arritmia) es el que hay que reconocer."},
-{"n":"Síndrome anginoso","k":"sindrome","fl":["↓ flujo coronario","Hipoxia miocárdica","Metabolitos (lactato, adenosina)","Estimulan terminaciones nerviosas","Dolor anginoso"],"f":[
-["Definición","Isquemia miocárdica **transitoria** por desequilibrio aporte/demanda de O₂; síntoma: **dolor torácico de origen coronario**. Puede ser **silente** (diabéticos, hipertensos, ancianos). 98 % por ateroesclerosis coronaria. Angina sin lesión coronaria: hipertrofia, anemia, taquiarritmias, microvascular."],
-["Placa","**Estable** (fibrosa): angina estable. **Inestable** (lipídica, macrófagos) que se rompe y trombosa: **SCA**."],
-["Dolor típico","Retroesternal o precordial · irradia a hombro y brazo izq., cuello, mandíbula, espalda, epigastrio · opresión, peso, constricción, ardor · desencadena: ejercicio, estrés, frío, comida, sexo · alivia con **nitroglicerina**. El dolor localizado en el ápex generalmente no es miocárdico."],
-["Duración","Angina estable: 2–20 min (PPT; ⚠ Goic 5–10; UCH 2–5; PPT también < 10–15). SCA: más prolongado, máximo a los 10–30 min. Infarto con supra: horas. **«Walk through»**: se atenúa si se sigue ejercitando."],
-["Equivalentes","Mujeres, mayores, diabéticos: **disnea**, náuseas, astenia, síncope. En SCA: sudoración, palidez, palpitaciones, náuseas."],
-["Examen","Xantomas, xantelasmas, arco senil, **signo de Frank** (surco en el lóbulo). Durante la crisis: S3 o S4, soplo mitral leve y transitorio."],
-["ECG y marcadores","**Troponina** refleja necrosis, no isquemia. Negativa: angina inestable. Positiva: infarto (con o sin supra de ST). El ECG localiza, la troponina confirma. **ECG normal no descarta infarto**: troponinas seriadas. Estable: ECG de reposo poco informativo; ergometría, eco de estrés, perfusión, coronariografía o angio-TC."]],
-"ts":[{"c":"Típica, atípica o no anginosa","h":["Tipo","Criterios"],"r":[["Típica","Las **3**: dolor opresivo característico · por esfuerzo · alivio con reposo o nitratos en 5 min"],["Atípica","**2** de los 3"],["No anginoso","1 o ninguno"]]},
-{"c":"Estable vs inestable","h":["","Angina estable","Angina inestable (SCA)"],"r":[["Dolor","Opresivo, breve (< 10–15 min)","Más intenso y prolongado"],["Desencadena","Ejercicio, estrés, frío","Esfuerzos mínimos o reposo"],["Alivio","Reposo o nitroglicerina","Poco o ninguno"],["Sustrato","Estenosis fija","Placa rota con trombo"],["Pronóstico","—","Alto riesgo de infarto"]]}],
-"al":"SCA: angina de reposo (> 20 min), reciente (< 2 meses), progresiva o posinfarto. Mayor gravedad: > 70 años, infarto o IC previos, diabetes, hipotensión, FC > 100."},
-{"n":"Insuficiencia cardíaca","k":"sindrome","fl":["Daño cardíaco","↓ gasto cardíaco","Activación simpática + SRAA + remodelado","Compensa al inicio","Empeora a largo plazo"],"f":[
-["Definición","Incapacidad de bombear según las necesidades metabólicas, o solo con **presiones de llenado elevadas**. Sistólica (la más frecuente) o diastólica con **FE preservada > 50 %**."],
-["Causas","**Isquémica** (1.ª en Chile), hipertensiva, miocardiopatías, valvulopatías, arritmias; anemia grave, hipertiroidismo, ERC, alcohol. Sobrecarga de volumen (insuficiencias valvulares) o de presión (EAo, HTA)."],
-["Primer síntoma","**Disnea**; tos de esfuerzo o de decúbito como equivalente. Consulta como síndrome edematoso (vespertino, en declive; descartar amlodipino o nifedipino) o intolerancia al ejercicio. Adulto mayor: fatiga, anorexia, delirio."],
-["Diagnóstico","**Framingham**: 2 mayores, o 1 mayor + 2 menores. Rx: C-T > 0,5, congestión, derrame. ECG: HVI, arritmias. **Ecocardiograma**: diagnóstico y seguimiento. **Péptidos natriuréticos**: normales sin tratamiento hacen muy improbable la IC."]],
-"ts":[{"c":"Izquierda vs derecha","h":["","IC izquierda","IC derecha"],"r":[["Síntomas","Disnea de esfuerzo, **ortopnea**, **DPN**, nicturia, tos, fatiga","Fatigabilidad, malestar abdominal, anorexia, nicturia"],["Signos","Piel fría y sudorosa, taquipnea, **Cheyne-Stokes**, pulso alternante, ápex desplazado, **galope S3**, derrame pleural derecho","Yugulares distendidas, VD palpable, ↑ 2.º ruido, IT, derrame, **hepatomegalia**, ictericia leve, **ascitis**, esplenomegalia"]]},
-{"c":"Framingham","h":["Mayores","Menores"],"r":[["DPN","Edema de piernas"],["Ingurgitación yugular","Tos nocturna"],["Crepitaciones","Disnea de esfuerzo"],["Cardiomegalia","Hepatomegalia"],["Edema agudo pulmonar","Derrame pleural"],["S3","Taquicardia > 120 lpm"],["Reflujo hepatoyugular",""]]},
-{"c":"Descompensación: FAILURE","h":["","Causa"],"r":[["F","Forgot medications (olvido del tratamiento)"],["A","Arrhythmias"],["I","Ischemia / Infarction"],["L","Lifestyle (sal, líquidos)"],["U","Upregulation of hypertension"],["R","Renal failure"],["E","Embolism, Endocarditis, Infection"]]},
-{"c":"Estadios y clase funcional","h":["Estadio","Descripción","NYHA","Limitación"],"r":[["A","Riesgo, sin cardiopatía ni síntomas","I","Sin limitación"],["B","Cardiopatía estructural sin síntomas","II","Leve: síntomas con actividad habitual"],["C","Cardiopatía con síntomas","III","Marcada: esfuerzos menores"],["D","Refractaria","IV","En reposo"]]}],
-"al":"IC aguda (infarto, miocarditis, endocarditis): minutos a horas; puede llegar a edema pulmonar o shock cardiogénico."},
-{"n":"Taponamiento cardíaco","k":"sindrome","fl":["Líquido, sangre o gas en el pericardio","↑ presión intrapericárdica","Compresión de aurículas y VD","↓ llenado y gasto","Hipotensión y shock obstructivo"],"f":[
-["Volumen","Normal hasta **50 mL**. Con acumulación **rápida** bastan poco más de **200 mL**; **lenta**, tolera > 1,5 L."],
-["Causas","Hemopericardio (disección aórtica, rotura postinfarto, trauma, procedimientos invasivos) · derrame (neoplasia, TBC, uremia, viral, hipotiroidismo) · pericarditis purulenta, autoinmunes."],
-["Clínica","Disnea, ortopnea, sudor, ansiedad, confusión, dolor interescapular o abdominal, oliguria. **Agudo**: angustia, piel fría, pulso filiforme, hipotensión. **Subagudo**: parece IC."],
-["Tríada de Beck","**Hipotensión** (bajo gasto) + **ingurgitación yugular** (↑ PVC) + **ruidos cardíacos apagados**."],
-["Otros signos","Presión diferencial ↓, hepatomegalia, matidez cardíaca ↑ (signo de Rotch). **Kussmaul** (yugulares suben al inspirar). **Pulso paradójico**: ↓ sistólica > 10 mmHg al inspirar (no patognomónico: vía aérea, embolia masiva, obesidad)."],
-["Apoyo","**Ecocardiograma** (colapso de cavidades derechas; la clínica decide). ECG: bajo voltaje, alternancia eléctrica. La Rx puede ser normal en el agudo."],
-["Sospechar","IC de instalación rápida con yugulares distendidas tras cirugía, retiro de marcapaso o procedimientos percutáneos."]],
-"al":"Tratamiento definitivo y salvador: **pericardiocentesis urgente** (vía subxifoidea hacia la izquierda, anestesia local, asepsia; dejar catéter; muestras)."},
-{"n":"Shock","k":"sindrome","f":[
-["Definición","Insuficiencia circulatoria aguda con **perfusión tisular inadecuada**: hipoxia → metabolismo anaerobio → lactato → disfunción orgánica → falla multiorgánica. Puede haber shock con presión normal si compensa."],
-["Manifestaciones","Agitación o confusión · hipotensión, taquicardia, pulso rápido y débil · **oliguria < 0,5 mL/kg/h** · piel fría y húmeda, llenado capilar lento, cianosis · respiración rápida y superficial."],
-["Índice de shock","**FC / PAS**: normal 0,5–0,7; **> 1** mal pronóstico. SOFA y qSOFA en el séptico."],
-["Séptico","**Sepsis con hipotensión persistente** que requiere vasopresores y lactato elevado pese a reponer volumen. Inicial “caliente” (piel caliente, pulsos amplios); luego hipotensión y extremidades frías."],
-["Anafiláctico","En minutos tras el alérgeno (alimentos, fármacos, contraste); asma y eccema ↑ riesgo; edema de vía aérea, disfonía, estridor."]],
-"fl":["Oxígeno","Monitorización","2 vías venosas","Cristaloides","Lactato y exámenes","Noradrenalina si PAM < 65","Tratar la causa"],
-"ts":[{"c":"Tipos de shock","h":["Tipo","Problema","Causas","Hallazgos"],"r":[["Hipovolémico","Falta volumen","Hemorragia (digestiva, trauma, aneurisma, posparto) · vómitos, diarrea, quemaduras, pancreatitis, tercer espacio","Yugulares **colapsadas**, piel fría, taquicardia"],["Cardiogénico","Falla la bomba","Infarto (> 40 % del VI), miocardiopatía, arritmias, miocarditis, valvulopatía aguda","Yugulares ↑, **edema pulmonar**, crepitantes, extremidades frías, PAS < 80"],["Obstructivo","Obstrucción al llenado o vaciado","Taponamiento, TEP masivo, neumotórax a tensión","Yugulares ↑, **pulmones limpios** (salvo TEP)"],["Distributivo","Vasodilatación masiva","Séptico (el más frecuente), anafiláctico, neurogénico","Piel caliente al inicio"]]},
-{"c":"Algoritmo de urgencia","h":["Hallazgos","Orientación"],"r":[["Hipotensión + yugulares planas","Hipovolémico"],["Hipotensión + yugulares ↑ + edema pulmonar","Cardiogénico"],["Hipotensión + yugulares ↑ + pulmones limpios","Obstructivo"],["Hipotensión + piel caliente","Séptico hasta demostrar lo contrario"]]}],
-"al":"Tres preguntas: ¿hay volumen suficiente? ¿la bomba funciona? ¿hay obstrucción o vasodilatación extrema? Manejo ABCDE: restaurar perfusión mientras se corrige la causa."},
-{"n":"Literatura: otros cuadros","k":"tabla","ts":[{"c":"Cuadros que el PPT solo nombra","h":["Cuadro","Claves"],"r":[["Pericarditis aguda","Dolor precordial ↑ al inspirar, alivia en posición genupectoral, fiebre, frote (90 %). ECG: supradesnivel difuso cóncavo, descenso del PR. Recurre en 20–30 %"],["Derrame pericárdico","Suele ser asintomático salvo cuantía importante. Masivo: neoplasia, uremia, hemopericardio, TBC"],["Pericarditis constrictiva","Engrosamiento que limita el llene: IC derecha, ascitis, knock pericárdico. TBC, autoinmunes, neoplasia, uremia"],["Síndrome aórtico agudo","Disección 80 %, hematoma intramural 15 %, úlcera penetrante 5 %; mortalidad 20 % en 24 h sin tratar. Dolor súbito transfixiante, asimetría de pulsos, déficit neurológico. Angio-TC"],["Prinzmetal","Reposo, madrugada, supradesnivel transitorio; espasmo; responde a nitratos y calcioantagonistas"],["Angina microvascular","Sobre todo mujeres; coronariografía normal"]]}]}
-]}
+{
+ "id": "02",
+ "titulo": "Cardiovascular",
+ "sub": "Dolor torácico · Palpitaciones · Cianosis · Síncope · Angina · Insuficiencia cardíaca · Taponamiento · Shock",
+ "fichas": [
+  {
+   "n": "Dolor torácico",
+   "k": "sintoma",
+   "f": [
+    [
+     "Caracterizar (9)",
+     "**Localización** (esternal, precordial, dorso) · **evolución** · **inicio** (insidioso, creciente, súbito) · **carácter** (opresivo, punzante) · **intensidad** · **gravedad** · **acompañantes** (sudor, síncope, pirosis) · **agravantes** (esfuerzo, respiración, movimiento) · **alivio** (reposo, trinitrina). Intensidad ≠ gravedad; pueden coexistir dos causas."
+    ],
+    [
+     "Regla",
+     "Todo dolor entre **mandíbula y ombligo** puede ser coronario; ante sospecha isquémica, **ECG siempre**. En un joven sin factores de riesgo es menos probable la isquemia. El dolor de **segundos** habitualmente no es isquémico."
+    ],
+    [
+     "Espasmo esofágico",
+     "Tras comidas o alcohol, dura minutos, calma de pie o sentado y con antiácidos."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Causas según origen (en negrita: descartar siempre)",
+     "h": [
+      "Origen",
+      "Causas"
+     ],
+     "r": [
+      [
+       "Cardíaco isquémico",
+       "Angina, **infarto**, Prinzmetal"
+      ],
+      [
+       "CV no isquémico",
+       "**Disección aórtica**, pericarditis, estenosis aórtica, CMH, prolapso mitral"
+      ],
+      [
+       "Pleuropulmonar",
+       "Neumonía, **TEP**, **neumotórax**"
+      ],
+      [
+       "Digestivo",
+       "Reflujo, acalasia, espasmo esofágico, úlcera, cólico biliar, pancreatitis, **ruptura esofágica**"
+      ],
+      [
+       "Parietal",
+       "Costocondritis, Tietze, neuralgia intercostal, fractura costal"
+      ],
+      [
+       "Psicógeno",
+       "Ansiedad, hiperventilación, depresión"
+      ]
+     ]
+    },
+    {
+     "c": "Perfil temporal",
+     "h": [
+      "Cuadro",
+      "Perfil"
+     ],
+     "r": [
+      [
+       "Angina",
+       "Con el esfuerzo; cede en minutos con reposo o trinitrina"
+      ],
+      [
+       "Infarto",
+       "Rápidamente creciente, intenso y prolongado; no cede con reposo"
+      ],
+      [
+       "Disección aórtica",
+       "Súbito, máximo desde el inicio; irradia a dorso o abdomen; pulsos femorales asimétricos"
+      ]
+     ]
+    },
+    {
+     "c": "Diferencial: no omitir y frecuentes",
+     "h": [
+      "Causa",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Infarto",
+       "Opresivo, creciente, prolongado"
+      ],
+      [
+       "Disección",
+       "Súbito y máximo; PA alta, pulsos asimétricos"
+      ],
+      [
+       "TEP / infarto pulmonar",
+       "Pleural brusco, disnea, taquicardia, esputo hemoptoico"
+      ],
+      [
+       "Neumotórax",
+       "Súbito unilateral; timpanismo, murmullo abolido"
+      ],
+      [
+       "Costocondral",
+       "Se reproduce al comprimir 2.ª–3.ª condroesternal"
+      ],
+      [
+       "Esofágico",
+       "Pirosis, regurgitación"
+      ],
+      [
+       "Pericarditis",
+       "↑ con tos e inspiración; frote"
+      ],
+      [
+       "Ansiedad",
+       "Punzadas apexianas, parestesias peribucales"
+      ]
+     ]
+    }
+   ],
+   "al": "Descartar siempre: infarto, disección aórtica, TEP, neumotórax y ruptura esofágica. El dolor isquémico referido al epigastrio no cambia con respiración, posición ni palpación y no da contractura."
+  },
+  {
+   "n": "Palpitaciones",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Latidos del corazón o de grandes vasos **percibidos de forma desagradable** (latido, vuelco, aleteo)."
+    ],
+    [
+     "Preguntar",
+     "Esfuerzo o reposo · rápidas o lentas · regulares · aisladas o en salvas · frecuencia · inicio y duración · acompañantes · fármacos · tabaco y café. Con esfuerzo: la FA se hace más irregular y la extrasistolía tiende a regularizarse."
+    ],
+    [
+     "Apoyo",
+     "Aparecen con esfuerzo: **ergometría**. Compromiso hemodinámico, síncope o muerte súbita reanimada: **estudio electrofisiológico**. Según sospecha: TSH, hemograma, glicemia."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Causas",
+     "h": [
+      "Contexto",
+      "Patrón",
+      "Causa"
+     ],
+     "r": [
+      [
+       "Esfuerzo o emoción",
+       "Fisiológicas",
+       "—"
+      ],
+      [
+       "Reposo",
+       "Aisladas (“vuelco” y pausa)",
+       "**Extrasístoles**"
+      ],
+      [
+       "Reposo",
+       "En serie, regulares",
+       "TPSV, flutter 2:1; ansiedad, hipertiroidismo, drogas"
+      ],
+      [
+       "Reposo",
+       "En serie, irregulares",
+       "FA paroxística, flutter con bloqueo variable"
+      ]
+     ]
+    },
+    {
+     "c": "Claves de cada ritmo",
+     "h": [
+      "Ritmo",
+      "Rasgo"
+     ],
+     "r": [
+      [
+       "TPSV",
+       "Inicio y fin **súbitos**; la cortan las maniobras vagales"
+      ],
+      [
+       "FA",
+       "Irregularmente irregular; empeora con esfuerzo"
+      ],
+      [
+       "Extrasístole",
+       "Latido anticipado, pausa y latido más fuerte"
+      ],
+      [
+       "TV",
+       "Cardiópata mayor, peor pronóstico; varía el 1.er ruido, ondas en cañón"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Cianosis",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Azul-violácea por **Hb reducida > 5 g/dL** en el lecho capilar (umbral de Lundsgaard). Cuenta la cantidad **absoluta**, no la saturación: anemia severa = hipoxemia sin cianosis; poliglobulia = cianosis con hipoxemia leve. Meta/sulfahemoglobina: umbral menor (1,5 y 0,5 g/dL)."
+    ],
+    [
+     "Examen",
+     "Con **luz natural**: labios, nariz, orejas, uñas, lengua, conjuntiva. Agua caliente mejora la periférica; oxígeno mejora la central. Hipoxia crónica: acrocianosis, **hipocratismo** (⚠ el documento dice ángulo > 165°; habitualmente se usa > 180°), poliglobulia."
+    ],
+    [
+     "Dif.",
+     "**Impostores**: eritrosis (policitemia, alcohol), rojo cereza (CO), argiria (sales de plata, no blanquea). Cianosis ≠ hipoxemia: CO y cianuro dan hipoxia sin cianosis; la periférica da cianosis sin hipoxemia."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Tipos",
+     "h": [
+      "Tipo",
+      "Mecanismo"
+     ],
+     "r": [
+      [
+       "Central pulmonar",
+       "Hipoventilación, V/Q, difusión"
+      ],
+      [
+       "Central cardíaca",
+       "Cortocircuito derecha-izquierda (Fallot, Eisenmenger)"
+      ],
+      [
+       "Hb anormal",
+       "Metahemoglobina, sulfahemoglobina; sin acropaquia"
+      ],
+      [
+       "Periférica",
+       "Mayor extracción: IC, shock, frío, Raynaud"
+      ],
+      [
+       "Mixta",
+       "IC congestiva grave"
+      ],
+      [
+       "Diferencial",
+       "Ductus con HTP: ortejos azules, manos rosadas"
+      ]
+     ]
+    },
+    {
+     "c": "Central vs periférica",
+     "h": [
+      "Rasgo",
+      "Central",
+      "Periférica"
+     ],
+     "r": [
+      [
+       "Extensión",
+       "Generalizada",
+       "Distal"
+      ],
+      [
+       "Temperatura",
+       "Caliente",
+       "Fría"
+      ],
+      [
+       "Lengua y conjuntiva",
+       "Comprometidas",
+       "Respetadas"
+      ],
+      [
+       "Acropaquia / poliglobulia",
+       "Sí",
+       "No"
+      ],
+      [
+       "Oxígeno",
+       "Mejora",
+       "No cambia"
+      ],
+      [
+       "Calor o masaje",
+       "No cambia",
+       "Mejora"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Síncope",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "**Pérdida súbita, completa y transitoria** de conciencia por **hipoperfusión cerebral global**, con recuperación espontánea. **Presíncope**: sensación de pérdida inminente."
+    ],
+    [
+     "Mecanismo",
+     "Flujo cerebral **< 30 mL/100 g/min** (PAM < 30 mmHg o asistolia > 5 s). No es síncope: hipoglicemia, hipoxia, hipercapnia (hipoglicemia: paulatina, hambre, sudor; cede con glucosa IV)."
+    ],
+    [
+     "Conducta",
+     "Lipotimia: decúbito · seno carotídeo: evitar compresión · obstrucción: cirugía · BAV completo: marcapaso."
+    ]
+   ],
+   "fl": [
+    "Anamnesis y examen",
+    "ECG",
+    "Ecocardiograma y Holter 24–48 h",
+    "Si recurre: neurológico, esfuerzo, electrofisiológico"
+   ],
+   "ts": [
+    {
+     "c": "Causas",
+     "h": [
+      "Mecanismo",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Vasovagal (70 %)",
+       "Pródromo (palidez, náuseas, sudor); de pie, emoción, dolor, sangre"
+      ],
+      [
+       "Postural",
+       "Al incorporarse: hipovolemia, hipotensores, tricíclicos, neuropatía diabética"
+      ],
+      [
+       "Cardiogénico de esfuerzo (obstrucción)",
+       "Estenosis aórtica, CMH, HTP, mixoma"
+      ],
+      [
+       "Cardiogénico de reposo (arritmia)",
+       "BAV completo, TV, flutter 1:1, QT largo"
+      ],
+      [
+       "Otros",
+       "Tusígeno, miccional, seno carotídeo, embarazo en supino"
+      ]
+     ]
+    },
+    {
+     "c": "Diferencial",
+     "h": [
+      "Rasgo",
+      "Lipotimia",
+      "Stokes-Adams",
+      "Epilepsia",
+      "Conversiva",
+      "Isquemia transitoria"
+     ],
+     "r": [
+      [
+       "Pródromos",
+       "Sí",
+       "No",
+       "Sí",
+       "No",
+       "No"
+      ],
+      [
+       "Convulsiones",
+       "No",
+       "Ocasional",
+       "Sí",
+       "No",
+       "No"
+      ],
+      [
+       "Recuperación",
+       "Rápida",
+       "Rápida",
+       "Lenta",
+       "Lenta",
+       "Variable"
+      ],
+      [
+       "Lesiones por caída",
+       "No",
+       "No",
+       "Sí",
+       "No",
+       "No"
+      ],
+      [
+       "Signos focales",
+       "No",
+       "No",
+       "Sí",
+       "No",
+       "Sí"
+      ]
+     ]
+    }
+   ],
+   "al": "El síncope cardiogénico (de esfuerzo por obstrucción o de reposo por arritmia) es el que hay que reconocer."
+  },
+  {
+   "n": "Síndrome anginoso",
+   "k": "sindrome",
+   "fl": [
+    "↓ flujo coronario",
+    "Hipoxia miocárdica",
+    "Metabolitos (lactato, adenosina)",
+    "Estimulan terminaciones nerviosas",
+    "Dolor anginoso"
+   ],
+   "f": [
+    [
+     "Definición",
+     "Isquemia miocárdica **transitoria** por desequilibrio aporte/demanda de O₂; síntoma: **dolor torácico de origen coronario**. Puede ser **silente** (diabéticos, hipertensos, ancianos). 98 % por ateroesclerosis coronaria. Angina sin lesión coronaria: hipertrofia, anemia, taquiarritmias, microvascular."
+    ],
+    [
+     "Placa",
+     "**Estable** (fibrosa): angina estable. **Inestable** (lipídica, macrófagos) que se rompe y trombosa: **SCA**."
+    ],
+    [
+     "Dolor típico",
+     "Retroesternal o precordial · irradia a hombro y brazo izq., cuello, mandíbula, espalda, epigastrio · opresión, peso, constricción, ardor · desencadena: ejercicio, estrés, frío, comida, sexo · alivia con **nitroglicerina**. El dolor localizado en el ápex generalmente no es miocárdico."
+    ],
+    [
+     "Duración",
+     "Angina estable: 2–20 min (PPT; ⚠ Goic 5–10; UCH 2–5; PPT también < 10–15). SCA: más prolongado, máximo a los 10–30 min. Infarto con supra: horas. **«Walk through»**: se atenúa si se sigue ejercitando."
+    ],
+    [
+     "Equivalentes",
+     "Mujeres, mayores, diabéticos: **disnea**, náuseas, astenia, síncope. En SCA: sudoración, palidez, palpitaciones, náuseas."
+    ],
+    [
+     "Examen",
+     "Xantomas, xantelasmas, arco senil, **signo de Frank** (surco en el lóbulo). Durante la crisis: S3 o S4, soplo mitral leve y transitorio."
+    ],
+    [
+     "ECG y marcadores",
+     "**Troponina** refleja necrosis, no isquemia. Negativa: angina inestable. Positiva: infarto (con o sin supra de ST). El ECG localiza, la troponina confirma. **ECG normal no descarta infarto**: troponinas seriadas. Estable: ECG de reposo poco informativo; ergometría, eco de estrés, perfusión, coronariografía o angio-TC."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Típica, atípica o no anginosa",
+     "h": [
+      "Tipo",
+      "Criterios"
+     ],
+     "r": [
+      [
+       "Típica",
+       "Las **3**: dolor opresivo característico · por esfuerzo · alivio con reposo o nitratos en 5 min"
+      ],
+      [
+       "Atípica",
+       "**2** de los 3"
+      ],
+      [
+       "No anginoso",
+       "1 o ninguno"
+      ]
+     ]
+    },
+    {
+     "c": "Estable vs inestable",
+     "h": [
+      "",
+      "Angina estable",
+      "Angina inestable (SCA)"
+     ],
+     "r": [
+      [
+       "Dolor",
+       "Opresivo, breve (< 10–15 min)",
+       "Más intenso y prolongado"
+      ],
+      [
+       "Desencadena",
+       "Ejercicio, estrés, frío",
+       "Esfuerzos mínimos o reposo"
+      ],
+      [
+       "Alivio",
+       "Reposo o nitroglicerina",
+       "Poco o ninguno"
+      ],
+      [
+       "Sustrato",
+       "Estenosis fija",
+       "Placa rota con trombo"
+      ],
+      [
+       "Pronóstico",
+       "—",
+       "Alto riesgo de infarto"
+      ]
+     ]
+    }
+   ],
+   "al": "SCA: angina de reposo (> 20 min), reciente (< 2 meses), progresiva o posinfarto. Mayor gravedad: > 70 años, infarto o IC previos, diabetes, hipotensión, FC > 100."
+  },
+  {
+   "n": "Insuficiencia cardíaca",
+   "k": "sindrome",
+   "fl": [
+    "Daño cardíaco",
+    "↓ gasto cardíaco",
+    "Activación simpática + SRAA + remodelado",
+    "Compensa al inicio",
+    "Empeora a largo plazo"
+   ],
+   "f": [
+    [
+     "Definición",
+     "Incapacidad de bombear según las necesidades metabólicas, o solo con **presiones de llenado elevadas**. Sistólica (la más frecuente) o diastólica con **FE preservada > 50 %**."
+    ],
+    [
+     "Causas",
+     "**Isquémica** (1.ª en Chile), hipertensiva, miocardiopatías, valvulopatías, arritmias; anemia grave, hipertiroidismo, ERC, alcohol. Sobrecarga de volumen (insuficiencias valvulares) o de presión (EAo, HTA)."
+    ],
+    [
+     "Primer síntoma",
+     "**Disnea**; tos de esfuerzo o de decúbito como equivalente. Consulta como síndrome edematoso (vespertino, en declive; descartar amlodipino o nifedipino) o intolerancia al ejercicio. Adulto mayor: fatiga, anorexia, delirio."
+    ],
+    [
+     "Diagnóstico",
+     "**Framingham**: 2 mayores, o 1 mayor + 2 menores. Rx: C-T > 0,5, congestión, derrame. ECG: HVI, arritmias. **Ecocardiograma**: diagnóstico y seguimiento. **Péptidos natriuréticos**: normales sin tratamiento hacen muy improbable la IC."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Izquierda vs derecha",
+     "h": [
+      "",
+      "IC izquierda",
+      "IC derecha"
+     ],
+     "r": [
+      [
+       "Síntomas",
+       "Disnea de esfuerzo, **ortopnea**, **DPN**, nicturia, tos, fatiga",
+       "Fatigabilidad, malestar abdominal, anorexia, nicturia"
+      ],
+      [
+       "Signos",
+       "Piel fría y sudorosa, taquipnea, **Cheyne-Stokes**, pulso alternante, ápex desplazado, **galope S3**, derrame pleural derecho",
+       "Yugulares distendidas, VD palpable, ↑ 2.º ruido, IT, derrame, **hepatomegalia**, ictericia leve, **ascitis**, esplenomegalia"
+      ]
+     ]
+    },
+    {
+     "c": "Framingham",
+     "h": [
+      "Mayores",
+      "Menores"
+     ],
+     "r": [
+      [
+       "DPN",
+       "Edema de piernas"
+      ],
+      [
+       "Ingurgitación yugular",
+       "Tos nocturna"
+      ],
+      [
+       "Crepitaciones",
+       "Disnea de esfuerzo"
+      ],
+      [
+       "Cardiomegalia",
+       "Hepatomegalia"
+      ],
+      [
+       "Edema agudo pulmonar",
+       "Derrame pleural"
+      ],
+      [
+       "S3",
+       "Taquicardia > 120 lpm"
+      ],
+      [
+       "Reflujo hepatoyugular",
+       ""
+      ]
+     ]
+    },
+    {
+     "c": "Descompensación: FAILURE",
+     "h": [
+      "",
+      "Causa"
+     ],
+     "r": [
+      [
+       "F",
+       "Forgot medications (olvido del tratamiento)"
+      ],
+      [
+       "A",
+       "Arrhythmias"
+      ],
+      [
+       "I",
+       "Ischemia / Infarction"
+      ],
+      [
+       "L",
+       "Lifestyle (sal, líquidos)"
+      ],
+      [
+       "U",
+       "Upregulation of hypertension"
+      ],
+      [
+       "R",
+       "Renal failure"
+      ],
+      [
+       "E",
+       "Embolism, Endocarditis, Infection"
+      ]
+     ]
+    },
+    {
+     "c": "Estadios y clase funcional",
+     "h": [
+      "Estadio",
+      "Descripción",
+      "NYHA",
+      "Limitación"
+     ],
+     "r": [
+      [
+       "A",
+       "Riesgo, sin cardiopatía ni síntomas",
+       "I",
+       "Sin limitación"
+      ],
+      [
+       "B",
+       "Cardiopatía estructural sin síntomas",
+       "II",
+       "Leve: síntomas con actividad habitual"
+      ],
+      [
+       "C",
+       "Cardiopatía con síntomas",
+       "III",
+       "Marcada: esfuerzos menores"
+      ],
+      [
+       "D",
+       "Refractaria",
+       "IV",
+       "En reposo"
+      ]
+     ]
+    }
+   ],
+   "al": "IC aguda (infarto, miocarditis, endocarditis): minutos a horas; puede llegar a edema pulmonar o shock cardiogénico."
+  },
+  {
+   "n": "Taponamiento cardíaco",
+   "k": "sindrome",
+   "fl": [
+    "Líquido, sangre o gas en el pericardio",
+    "↑ presión intrapericárdica",
+    "Compresión de aurículas y VD",
+    "↓ llenado y gasto",
+    "Hipotensión y shock obstructivo"
+   ],
+   "f": [
+    [
+     "Volumen",
+     "Normal hasta **50 mL**. Con acumulación **rápida** bastan poco más de **200 mL**; **lenta**, tolera > 1,5 L."
+    ],
+    [
+     "Causas",
+     "Hemopericardio (disección aórtica, rotura postinfarto, trauma, procedimientos invasivos) · derrame (neoplasia, TBC, uremia, viral, hipotiroidismo) · pericarditis purulenta, autoinmunes."
+    ],
+    [
+     "Clínica",
+     "Disnea, ortopnea, sudor, ansiedad, confusión, dolor interescapular o abdominal, oliguria. **Agudo**: angustia, piel fría, pulso filiforme, hipotensión. **Subagudo**: parece IC."
+    ],
+    [
+     "Tríada de Beck",
+     "**Hipotensión** (bajo gasto) + **ingurgitación yugular** (↑ PVC) + **ruidos cardíacos apagados**."
+    ],
+    [
+     "Otros signos",
+     "Presión diferencial ↓, hepatomegalia, matidez cardíaca ↑ (signo de Rotch). **Kussmaul** (yugulares suben al inspirar). **Pulso paradójico**: ↓ sistólica > 10 mmHg al inspirar (no patognomónico: vía aérea, embolia masiva, obesidad)."
+    ],
+    [
+     "Apoyo",
+     "**Ecocardiograma** (colapso de cavidades derechas; la clínica decide). ECG: bajo voltaje, alternancia eléctrica. La Rx puede ser normal en el agudo."
+    ],
+    [
+     "Sospechar",
+     "IC de instalación rápida con yugulares distendidas tras cirugía, retiro de marcapaso o procedimientos percutáneos."
+    ]
+   ],
+   "al": "Tratamiento definitivo y salvador: **pericardiocentesis urgente** (vía subxifoidea hacia la izquierda, anestesia local, asepsia; dejar catéter; muestras)."
+  },
+  {
+   "n": "Shock",
+   "k": "sindrome",
+   "f": [
+    [
+     "Definición",
+     "Insuficiencia circulatoria aguda con **perfusión tisular inadecuada**: hipoxia → metabolismo anaerobio → lactato → disfunción orgánica → falla multiorgánica. Puede haber shock con presión normal si compensa."
+    ],
+    [
+     "Manifestaciones",
+     "Agitación o confusión · hipotensión, taquicardia, pulso rápido y débil · **oliguria < 0,5 mL/kg/h** · piel fría y húmeda, llenado capilar lento, cianosis · respiración rápida y superficial."
+    ],
+    [
+     "Índice de shock",
+     "**FC / PAS**: normal 0,5–0,7; **> 1** mal pronóstico. SOFA y qSOFA en el séptico."
+    ],
+    [
+     "Séptico",
+     "**Sepsis con hipotensión persistente** que requiere vasopresores y lactato elevado pese a reponer volumen. Inicial “caliente” (piel caliente, pulsos amplios); luego hipotensión y extremidades frías."
+    ],
+    [
+     "Anafiláctico",
+     "En minutos tras el alérgeno (alimentos, fármacos, contraste); asma y eccema ↑ riesgo; edema de vía aérea, disfonía, estridor."
+    ]
+   ],
+   "fl": [
+    "Oxígeno",
+    "Monitorización",
+    "2 vías venosas",
+    "Cristaloides",
+    "Lactato y exámenes",
+    "Noradrenalina si PAM < 65",
+    "Tratar la causa"
+   ],
+   "ts": [
+    {
+     "c": "Tipos de shock",
+     "h": [
+      "Tipo",
+      "Problema",
+      "Causas",
+      "Hallazgos"
+     ],
+     "r": [
+      [
+       "Hipovolémico",
+       "Falta volumen",
+       "Hemorragia (digestiva, trauma, aneurisma, posparto) · vómitos, diarrea, quemaduras, pancreatitis, tercer espacio",
+       "Yugulares **colapsadas**, piel fría, taquicardia"
+      ],
+      [
+       "Cardiogénico",
+       "Falla la bomba",
+       "Infarto (> 40 % del VI), miocardiopatía, arritmias, miocarditis, valvulopatía aguda",
+       "Yugulares ↑, **edema pulmonar**, crepitantes, extremidades frías, PAS < 80"
+      ],
+      [
+       "Obstructivo",
+       "Obstrucción al llenado o vaciado",
+       "Taponamiento, TEP masivo, neumotórax a tensión",
+       "Yugulares ↑, **pulmones limpios** (salvo TEP)"
+      ],
+      [
+       "Distributivo",
+       "Vasodilatación masiva",
+       "Séptico (el más frecuente), anafiláctico, neurogénico",
+       "Piel caliente al inicio"
+      ]
+     ]
+    },
+    {
+     "c": "Algoritmo de urgencia",
+     "h": [
+      "Hallazgos",
+      "Orientación"
+     ],
+     "r": [
+      [
+       "Hipotensión + yugulares planas",
+       "Hipovolémico"
+      ],
+      [
+       "Hipotensión + yugulares ↑ + edema pulmonar",
+       "Cardiogénico"
+      ],
+      [
+       "Hipotensión + yugulares ↑ + pulmones limpios",
+       "Obstructivo"
+      ],
+      [
+       "Hipotensión + piel caliente",
+       "Séptico hasta demostrar lo contrario"
+      ]
+     ]
+    }
+   ],
+   "al": "Tres preguntas: ¿hay volumen suficiente? ¿la bomba funciona? ¿hay obstrucción o vasodilatación extrema? Manejo ABCDE: restaurar perfusión mientras se corrige la causa."
+  },
+  {
+   "n": "Literatura: otros cuadros",
+   "k": "tabla",
+   "ts": [
+    {
+     "c": "Cuadros que el PPT solo nombra",
+     "h": [
+      "Cuadro",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Pericarditis aguda",
+       "Dolor precordial ↑ al inspirar, alivia en posición genupectoral, fiebre, frote (90 %). ECG: supradesnivel difuso cóncavo, descenso del PR. Recurre en 20–30 %"
+      ],
+      [
+       "Derrame pericárdico",
+       "Suele ser asintomático salvo cuantía importante. Masivo: neoplasia, uremia, hemopericardio, TBC"
+      ],
+      [
+       "Pericarditis constrictiva",
+       "Engrosamiento que limita el llene: IC derecha, ascitis, knock pericárdico. TBC, autoinmunes, neoplasia, uremia"
+      ],
+      [
+       "Síndrome aórtico agudo",
+       "Disección 80 %, hematoma intramural 15 %, úlcera penetrante 5 %; mortalidad 20 % en 24 h sin tratar. Dolor súbito transfixiante, asimetría de pulsos, déficit neurológico. Angio-TC"
+      ],
+      [
+       "Prinzmetal",
+       "Reposo, madrugada, supradesnivel transitorio; espasmo; responde a nitratos y calcioantagonistas"
+      ],
+      [
+       "Angina microvascular",
+       "Sobre todo mujeres; coronariografía normal"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

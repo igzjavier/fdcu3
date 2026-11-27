@@ -1,78 +1,737 @@
-{"id":"09","titulo":"Neurológico y neuropsiquiátrico","sub":"Neurología · Psiquiatría de enlace","grupos":[
-{"titulo":"Neurológico: síntomas y síndromes","ents":[
-{"n":"Sistema motor: claves","k":"tabla","f":[
-["Vía","Corteza motora → corona radiada → cápsula interna → tronco → pirámides → **decusación** (85–90 %) → corticoespinal lateral → motoneurona inferior → nervio → unión → músculo. **Sobre** la decusación: déficit **contralateral**; **bajo**: ipsilateral (hemisección medular)."]],
-"ts":[{"c":"Motoneurona superior vs inferior","h":["","Superior","Inferior"],"r":[["Parálisis","Espástica","Flácida"],["Reflejos","Hiperreflexia, clonus, **Babinski +**","Arreflexia, sin Babinski"],["Tono","Espasticidad","Hipotonía"],["Atrofia","Leve y tardía","**Precoz**, con fasciculaciones"]]},
-{"c":"Hallazgo → síndrome","h":["Hallazgo predominante","Sugiere"],"r":[["Debilidad + hiperreflexia + Babinski","Piramidal"],["Debilidad + atrofia + fasciculaciones + arreflexia","Motoneurona inferior"],["Rigidez + bradicinesia + temblor de reposo","Extrapiramidal"],["Ataxia + dismetría + temblor de intención","Cerebeloso"],["Debilidad proximal simétrica, sensibilidad conservada","Miopatía"],["Ptosis + diplopía + fatigabilidad fluctuante","Unión neuromuscular"]]}]},
-{"n":"Cefalea","k":"sintoma","f":[
-["Mecanismo","Dolor de cabeza desde las cejas hacia arriba. **Insensibles**: cráneo, parénquima, mayor parte de meninges. **Sensibles**: piel, músculos, arterias, senos venosos, arterias de la base, duramadre, pares V, IX y X, 3 primeros nervios cervicales. **80 % son primarias.**"],
-["Caracterizar (8)","**Localización · carácter · comienzo · intensidad · horario · agravantes** (Valsalva, esfuerzo, agacharse) **· alivio · acompañantes** (fiebre, vómito en proyectil, visuales, conciencia). Intensidad ≠ gravedad. Examen: signos meníngeos, neurológico y **fondo de ojo**."],
-["Secundarias","**HSA** (súbita, rigidez de nuca) · **meningitis** (fiebre) · **tumor** (progresiva, vómito en proyectil, edema de papila) · **subdural** (trauma, intervalo libre) · **arteritis temporal** (> 55 años ⚠ 60 en doc. 04; arteria indurada, síntomas visuales) · **glaucoma agudo** · HTA maligna (occipital al despertar; ⚠ el PPT la deja “de consulta”, habitualmente es emergencia) · sinusitis · vicio de refracción."],
-["Fisher (HSA)","I sin sangrado · II sangre difusa < 1 mm · III coágulo cisternal > 1 mm · IV hematoma parenquimatoso o intraventricular."]],
-"ts":[{"c":"Cefaleas primarias","h":["Rasgo","Migraña","Tensional","Racimos (Horton)"],"r":[["Perfil","Mujer joven; horas a 3 días","La más frecuente; estrés","Hombre 20–40 años; 15 min–3 h, varias al día"],["Dolor","Hemicráneo, pulsátil","Bilateral en cintillo, opresivo","Orbitario unilateral, intensísimo"],["Acompañantes","Náuseas, fotofobia, **aura 30 %**","Ninguno","Ojo rojo, lagrimeo, rinorrea, inquietud"],["Actividad","Empeora al moverse; cede en reposo y oscuridad","No empeora","Repite con horario"]]}],
-"al":"**Regla de Ottawa** (HSA; sensibilidad 100 %, especificidad 15 %): inicio súbito intensísimo · cefalea nueva o distinta > 40 años · inicio durante esfuerzo · rigidez de nuca · pérdida de conciencia · flexión cervical limitada. Banderas: > 50 años, cambio de patrón, cáncer o VIH, trauma, fiebre sin foco, déficit, convulsiones, despierta, vómitos explosivos."},
-{"n":"Mareo y vértigo","k":"sintoma","f":[
-["Mareo","**Inestabilidad o vaivén sin giro**, sin síntomas vegetativos ni neurológicos. Causas: **ansiedad** (la más frecuente), anemia severa, hipotensión ortostática, HTA severa, depresión, cambios posturales en mayores."],
-["Vértigo","**Giro propio u objetivo**; náuseas, vómitos, sudor, palidez; **nistagmo** (⚠ “siempre”: en el postural puede verse solo con la maniobra); conciencia conservada (si se pierde, otra enfermedad)."],
-["Preguntas","¿Gira? No: mareo. ¿Cambia con la postura? Segundos al girar en cama o mirar arriba: **VPPB**. ¿Síntomas auditivos? Fluctuante + tinnitus + plenitud: **Menière**; progresiva: neurinoma. ¿Signos neurológicos? Diplopía, ataxia, conciencia: central."],
-["Nistagmo","Espontáneo, de mirada y de posición (**Dix-Hallpike**); registrar dirección, sentido, duración, ritmo. **HINTS**."]],
-"ts":[{"c":"Periférico vs central","h":["Rasgo","Periférico","Central"],"r":[["Origen","Laberinto o nervio vestibular","Núcleos vestibulares, tronco, cerebelo"],["Curso","Crisis intensas y transitorias","Persistente, menos intenso"],["Acompañantes","Náuseas marcadas; hipoacusia y tinnitus","Diplopía, disartria, ataxia"],["Nistagmo","Horizontal-rotatorio, un sentido; se inhibe al fijar","Vertical o cambia de sentido; no se inhibe"],["Ejemplos","VPPB, neuronitis, Menière, neurinoma","AIT, esclerosis múltiple, tumor de tronco"]]}]},
-{"n":"Alteraciones de la conciencia","k":"sintoma","f":[
-["Definición","**Nivel** (vigilia: sistema reticular activador) y **contenido** (corteza). Describir qué estímulo abre los ojos: espontáneo, verbal, táctil, doloroso o ninguno."],
-["Nivel","**Somnolencia** (fácil despertar) · **obnubilación** (respuestas lentas) · **estupor** (solo estímulos intensos) · **coma**."],
-["Contenido","**Confusión** · **delirium** (síndrome confusional agudo: falla brusca y fluctuante de la atención, típica del anciano, secundaria a otra enfermedad; ⚠ no es el delirio psicopatológico) · estados oníricos · despersonalización o desrealización."],
-["Examen","Orientación en espacio, tiempo y situación; atención (deletrear «mundo» al revés)."]],
-"ts":[{"c":"Escala de Glasgow (3–15; ≤ 8 intubar)","h":["Puntos","Ocular","Verbal","Motora"],"r":[["6","—","—","Obedece"],["5","—","Orientado","Localiza el dolor"],["4","Espontánea","Confuso","Retira"],["3","A la voz","Incoherente","Flexión (decorticación)"],["2","Al dolor","Sonidos","Extensión (descerebración)"],["1","Ninguna","Ninguna","Ninguna"]]},
-{"c":"Pérdida breve de conciencia","h":["Rasgo","Epilepsia","Síncope","Psicógena"],"r":[["Antes","Privación de sueño, alcohol, fiebre, drogas","Esfuerzo, bipedestación, dolor, micción; síntomas cardíacos","Estrés emocional"],["Durante","Tónico-clónica < 2 min, ojos abiertos, **mordedura lateral de lengua**","Caída atónica","> 3 min, no estereotipada, ojos cerrados con resistencia"],["Después","Recuperación lenta, mialgias, amnesia","Completa en < 1 min","Variable, sin confusión"]]}],
-"al":"La incontinencia no distingue: ocurre en cualquier pérdida de conciencia con vejiga llena."},
-{"n":"Praxias, gnosias, lenguaje y memoria","k":"sintoma","f":[
-["Apraxia","Incapacidad de ejecutar actos voluntarios aprendidos **sin paresia, déficit sensitivo ni alteración de conciencia**. Ideatoria (secuencias), ideomotora (gestos), motora (finos), constructiva, bucolingual, de la marcha. Explorar: simular peinarse, saludo militar, dibujar figuras."],
-["Agnosia","**No reconocer** estímulos con sensibilidad primaria conservada: visual (**prosopagnosia**), táctil (**astereognosia**; ⚠ estereognosia es la capacidad normal), auditiva, del esquema corporal (negligencia, anosognosia; **Gerstmann**: dedos, derecha-izquierda, cálculo, escritura)."],
-["Afasia","Trastorno cerebral del lenguaje (no incluye disartria ni mudez). Causas: sobre todo **vasculares** del hemisferio dominante; trauma, tumores, demencias. Explorar fluidez, comprensión (órdenes de 1 a 3 pasos), nominación, repetición, lectura, escritura. Normal 60–70 palabras/min. Comienzo súbito: vascular; progresivo: tumor."],
-["Memoria","**Inmediata** (ms) · **corto plazo** (s–min) · **largo plazo**: declarativa (episódica, semántica) y no declarativa (habilidades). Examen: orientación, evocación inmediata y diferida, remota, **Mini-Mental**."]],
-"ts":[{"c":"Afasias","h":["Afasia","Fluidez","Comprensión","Repetición"],"r":[["Broca (expresiva)","↓","Casi normal","Alterada"],["Wernicke","Normal o verborrea","Alterada","Alterada"],["De conducción","Normal","Normal","**Muy alterada**"],["Transcorticales","Según tipo","Según tipo","Conservada"],["Global","Alterada","Alterada","Alterada"]]},
-{"c":"Trastornos de la memoria","h":["Alteración","Definición"],"r":[["Hipomnesia · amnesia","Menor capacidad · pérdida total o parcial"],["Amnesia retrógrada · anterógrada","Olvido de hechos previos · no fija nuevos recuerdos"],["Paramnesia · confabulación","Distorsión del recuerdo · recuerdos falsos"],["Déjà vu · jamais vu","Haber vivido algo antes · extrañeza ante lo conocido"],["Hipermnesia","Aumento anormal de recuerdos"]]}]},
-{"n":"Meníngeo, radicular e hipertensión endocraneana","k":"sindrome","f":[
-["Meníngeo","Irritación meníngea: **infección, sangre (HSA), infiltración neoplásica**. Cefalea holocránea precoz e intensa, **rigidez de nuca**, **Brudzinski**, **Kernig**, opistótonos, compromiso de conciencia. Tríada completa solo 44 %; 95 % tiene ≥ 2 de fiebre, rigidez, cefalea, conciencia; en ancianos predomina la confusión. **Punción lumbar** (TC antes si edema de papila o foco)."],
-["Radicular","Síntomas sensitivos o motores en el dermatoma de la raíz. **Lasègue** (normal 90°) y elongación crural; columna rígida y dolorosa. Si el dolor queda en cadera o muslo, explorar la cadera; dorsiflexión del pie ↑ el dolor ciático."],
-["HTE","**PIC normal 10–16 cm H₂O**. Causas: expansivos (tumor, quiste, hematoma, infarto, absceso) o ↑ de LCR (hidrocefalia, meningitis). **Cefalea** (100 % agudos, 90 % lentos; matutina), **vómito explosivo**, ↓ visión transitoria, conciencia, **edema de papila** (pérdida del latido venoso: signo precoz de apoyo), autonómicos (bradicardia, respiración irregular, HTA), diplopía (VI par). PPC = PAM − PIC. Seudotumor: tetraciclinas, corticoides, litio."]],
-"al":"Sospecha de meningitis: **emergencia**, punción en 30 min y tratamiento empírico inmediato. HTE: bradicardia y cambios respiratorios = compresión del tronco; midriasis unilateral tras trauma = hernia transtentorial; **no hacer punción lumbar** (herniación amigdaliana)."},
-{"n":"Piramidal, muscular, extrapiramidal y cerebeloso","k":"sindrome","f":[
-["Piramidal","Paresia, hiperreflexia profunda, reflejos superficiales abolidos, **Babinski** (el más importante; su ausencia no descarta; sucedáneos Oppenheim, Chaddock), espasticidad, sincinesias. En lesión aguda la liberación tarda 2–3 semanas."],
-["Muscular","Lesión primaria del músculo: fuerza ↓ y **atrofia proximales**; seudohipertrofia (Duchenne); dolor = miositis. Sin alteración de reflejos ni fasciculaciones. **Miastenia**: fatigabilidad fluctuante craneana, mejora con reposo."],
-["Extrapiramidal","Fuerza conservada y reflejos normales: «no está paralizado, se mueve mal». **Parkinson**: bradicinesia, **temblor de reposo 4–6 Hz** (“contar monedas”), **rigidez** (tubo de plomo, rueda dentada), inestabilidad, hipomimia, marcha festinante, freezing, micrografía, hipofonía, disfagia, sialorrea. Otras causas: Sydenham (niños, reumática), Huntington (hereditaria, con demencia), hemibalismo (subtalámico), Wilson."],
-["Cerebeloso","Manifestaciones del **mismo lado** de la lesión."]],
-"ts":[{"c":"Cerebelo por región","h":["Región","Función","Clínica"],"r":[["Vestibulocerebelo (floculonodular)","Equilibrio, movimientos oculares","Inestabilidad, lateropulsión, nistagmo, vértigo"],["Espinocerebelo (vermis)","Tono, postura, marcha","Ataxia de marcha de base amplia, hipotonía, caídas"],["Cerebrocerebelo (hemisferios)","Movimientos finos y precisión","Dismetría, disdiadococinesia, temblor de intención, asinergia"]]},
-{"c":"Movimientos anormales","h":["Trastorno","Velocidad","Descripción"],"r":[["Temblor","Rítmico, regular","Oscilatorio"],["Corea","Rápido, irregular","Danzante"],["Atetosis","Lento, irregular","Retorcimiento"],["Distonía","Sostenido","Posturas anormales"],["Mioclonía","Muy rápido, brusco","Sacudida"],["Tic","Rápido, repetitivo","Parcialmente controlable"],["Hemibalismo","Muy rápido","Lanzamiento amplio de extremidades"]]}]},
-{"n":"Demencias y literatura neurológica","k":"sindrome","f":[
-["Demencia","**Trastorno neurocognitivo mayor**, adquirido, crónico y progresivo: ≥ 2 dominios cognitivos con pérdida de funcionalidad. **Degenerativas** (Alzheimer 60–70 %), frontotemporal, Parkinson, Huntington. **Secundarias**: infartos múltiples, trauma, infecciones, VIH, litio, talio, **hidrocefalia normotensiva (tratable)**. Consulta la familia; falla el aprendizaje de lo nuevo; distinguir apatía de depresión. Deterioro durante una enfermedad intercurrente: demencia larvada."]],
-"ts":[{"c":"Cuadros que el PPT solo nombra","h":["Cuadro","Claves"],"r":[["Brown-Séquard","Bajo la lesión: pérdida profunda y paresia ipsilaterales, superficial contralateral"],["Talámico","Hipoestesia contralateral con hiperpatía"],["2.ª motoneurona","Paresia, hipotonía, atrofia precoz, fasciculaciones"],["ELA","1.ª y 2.ª motoneurona en el mismo segmento; mortal en 3–8 años"],["ACV","Hemorragia, infarto o HSA; trombolisis solo en infarto y dentro de 4–5 h. ACA: pierna. ACM: cara y brazo, hemianestesia, afasia o negligencia. ACP: hemianopsia homónima"],["Hematomas","Subdural agudo (minutos a horas, intervalo libre) · extradural (arterial, muy rápido) · subdural crónico (meses o años). TC urgente"]]}]}
-]},
-{"titulo":"Neuropsiquiátrico: síntomas","ents":[
-{"n":"Psicosemiología y cinco preguntas","k":"tabla","f":[
-["Examen mental","Aspecto, conducta · conciencia, atención, memoria, orientación · afectividad (ánimo, congruencia) · pensamiento y lenguaje · introspección y juicio · despersonalización."],
-["Cinco preguntas","**1.** ¿Desde cuándo y cómo evoluciona? Reciente y progresivo: orgánico; largo y fluctuante: funcional. **2.** ¿Patrón diario y respuesta a esfuerzo y reposo? **3.** ¿Acompañantes? Fiebre, baja de peso o signos neurológicos son banderas rojas. **4.** ¿Qué muestra el examen? **5.** ¿Ánimo, sueño y vida? **Lo psíquico se diagnostica por sus propios elementos; lo orgánico se descarta siempre.**"]]},
-{"n":"Astenia","k":"sintoma","f":[
-["Definición","Falta de energía. **Fatiga**: aparece después del esfuerzo; **astenia**: antes. Formas: lasitud, debilidad generalizada, fatiga mental."],
-["Causas","**Sin baja de peso (funcional)**: depresión, ansiedad, apnea del sueño, posinfecciosa, posparto, fármacos, alcohol, fatiga crónica. **Con baja de peso (orgánica)**: metabólica (hiponatremia, hipopotasemia, hipercalcemia, tiroides, Addison, diabetes, anemia, uremia) o inflamatoria (TBC, endocarditis, hepatitis, mononucleosis, autoinmunes, neoplasias)."],
-["Apoyo","Joven sano con astenia reciente: hepatitis o mononucleosis. Examen y laboratorio normales: **TSH**."],
-["No confundir","Debilidad muscular (miastenia, miopatías, hipopotasemia) · disnea (en Chile también se llama “cansancio”) · somnolencia (apnea, narcolepsia)."]],
-"ts":[{"c":"Orgánica vs psíquica","h":["Rasgo","Orgánica","Psíquica (funcional)"],"r":[["Horario","Vespertina","Matinal, mejora en la tarde"],["Reposo","Alivia","No alivia"],["Evolución","< 2 meses, progresiva","> 4 meses, fluctuante"],["Inicio con estrés","No","Sí"],["Asociados","Pocos y específicos (fiebre, ictericia)","Múltiples e inespecíficos (insomnio, nerviosismo)"],["Peso y examen","Baja de peso, hallazgos","Peso conservado, examen normal"],["Déficit","De capacidad","De deseo"]]}]},
-{"n":"Ansiedad y nerviosismo","k":"sintoma","f":[
-["Definición","**Miedo**: ante peligro real y actual. **Ansiedad**: sin amenaza clara o ante peligro futuro, con activación autonómica. Normal: moderada y proporcionada; patológica: intensa, persistente, desproporcionada. Preguntar: «¿en qué nota que está nervioso?»."],
-["Crisis de pánico","Abrupta, máxima en minutos, **≥ 4 de 13**: palpitaciones, sudor, temblor, ahogo, atragantamiento, opresión torácica, náuseas, mareo, escalofríos o sofocos, parestesias, desrealización, miedo a perder el control, miedo a morir."],
-["Generalizada","Preocupación excesiva casi todos los días por **≥ 6 meses** con **≥ 3**: inquietud, fatigabilidad, concentración, irritabilidad, tensión muscular, sueño."],
-["Examen","**Hiperventilación**: respiración suspirosa, parestesias peribucales, alcalosis, tetania, espasmo carpopedal."],
-["Descartar antes","**Agudas graves**: infarto, EPA, TPSV, asma, neumotórax, TEP masivo, disección. **Causas directas**: hipertiroidismo, feocromocitoma, hipoglicemia, simpaticomiméticos, café, abstinencia (alcohol, drogas, tabaco). Nerviosismo reciente: orgánico primero."]]},
-{"n":"Depresión","k":"sintoma","f":[
-["Cuadro","**Melancolía**: ánimo ↓, inhibición psicomotora, autodepreciación, culpa. Psíquicos: tristeza, llanto, desesperanza, anhedonia, retardo, ideas de muerte. Somáticos: cansancio, **despertar precoz**, anorexia y baja de peso, cefalea, dispepsia, constipación, dolor crónico, libido ↓; peor en la mañana."],
-["Criterio","**Episodio depresivo mayor**: **≥ 5 de 9** síntomas casi todos los días por **≥ 2 semanas**, incluyendo ánimo deprimido o anhedonia, con deterioro y sin atribuirse a sustancias o enfermedad. Otros: peso o apetito, insomnio o hipersomnia, agitación o enlentecimiento, fatiga, culpa, concentración, ideas de muerte."],
-["Causas","Reactiva, endógena (uni o bipolar), involutiva. Médicas: convalecencia (influenza, mononucleosis), hepatitis crónica, ateroesclerosis cerebral, inicio de demencia. **Depresión enmascarada**: síntomas somáticos sin tristeza → preguntar siempre por el ánimo."]],
-"al":"**Riesgo suicida**: preguntar directamente **no induce** la idea. ¿La vida no vale la pena? ¿Ha pensado en hacerse daño? ¿Tiene plan, lo ha intentado? Agravantes: intentos previos, método violento, edad avanzada, dolor crónico, psicosis, alcohol o drogas, soledad, suicidio familiar. No dejar solo; derivar de inmediato. Minsal: *4141."},
-{"n":"Hostilidad e insomnio","k":"sintoma","f":[
-["Hostilidad","**Abierta** (irritabilidad, exigencias, agresividad) o **encubierta** (ironía, quejas, incumplimiento). Origen: dolor, miedo, dependencia, frustración; ansiedad, depresión; personalidad; psicosis, manía; hipertiroidismo, delirium, demencia, intoxicación. **Conducta**: comprender su significado, permitir la ventilación sin aceptar abusos, relación no crítica, reconocer la propia hostilidad."],
-["Insomnio","Dificultad para conciliar o mantener el sueño, o sueño no reparador, con repercusión diurna. Sueño: REM 25 %, lento 75 %, ciclos de ~90 min; con la edad es más superficial. **Evolución**: ocasional, transitorio, crónico (≥ 3 noches/semana > 1 mes Goic; DSM-5: 3 meses). Primario (raro), **secundario** (la mayoría), falso insomnio."],
-["Hipersomnia","Somnolencia diurna excesiva: descartar depresión, hipotiroidismo, encefalopatía. **Apnea obstructiva**: ronquido, apneas, cuello corto, obesidad, HTA. **Narcolepsia**: crisis de 10–20 min con cataplexia y alucinaciones al dormirse."]],
-"ts":[{"c":"Insomnio según el momento","h":["Momento","Tipo","Causas"],"r":[["Al acostarse","Conciliación","Ansiedad, café, alcohol, simpaticomiméticos, dolor, prurito, tos, disnea, Cheyne-Stokes, acatisia"],["Durante la noche","Mantención","Neurosis de angustia, úlcera péptica, asma, reflujo, nicturia, apnea, cefalea en racimos (~3 h de dormido)"],["Madrugada","Despertar precoz","**Depresión** (angustia matinal), DPN, sueño fragmentado del adulto mayor"]]}]}
-]}
-]}
+{
+ "id": "09",
+ "titulo": "Neurológico y neuropsiquiátrico",
+ "sub": "Neurología · Psiquiatría de enlace",
+ "grupos": [
+  {
+   "titulo": "Neurológico: síntomas y síndromes",
+   "ents": [
+    {
+     "n": "Sistema motor: claves",
+     "k": "tabla",
+     "f": [
+      [
+       "Vía",
+       "Corteza motora → corona radiada → cápsula interna → tronco → pirámides → **decusación** (85–90 %) → corticoespinal lateral → motoneurona inferior → nervio → unión → músculo. **Sobre** la decusación: déficit **contralateral**; **bajo**: ipsilateral (hemisección medular)."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Motoneurona superior vs inferior",
+       "h": [
+        "",
+        "Superior",
+        "Inferior"
+       ],
+       "r": [
+        [
+         "Parálisis",
+         "Espástica",
+         "Flácida"
+        ],
+        [
+         "Reflejos",
+         "Hiperreflexia, clonus, **Babinski +**",
+         "Arreflexia, sin Babinski"
+        ],
+        [
+         "Tono",
+         "Espasticidad",
+         "Hipotonía"
+        ],
+        [
+         "Atrofia",
+         "Leve y tardía",
+         "**Precoz**, con fasciculaciones"
+        ]
+       ]
+      },
+      {
+       "c": "Hallazgo → síndrome",
+       "h": [
+        "Hallazgo predominante",
+        "Sugiere"
+       ],
+       "r": [
+        [
+         "Debilidad + hiperreflexia + Babinski",
+         "Piramidal"
+        ],
+        [
+         "Debilidad + atrofia + fasciculaciones + arreflexia",
+         "Motoneurona inferior"
+        ],
+        [
+         "Rigidez + bradicinesia + temblor de reposo",
+         "Extrapiramidal"
+        ],
+        [
+         "Ataxia + dismetría + temblor de intención",
+         "Cerebeloso"
+        ],
+        [
+         "Debilidad proximal simétrica, sensibilidad conservada",
+         "Miopatía"
+        ],
+        [
+         "Ptosis + diplopía + fatigabilidad fluctuante",
+         "Unión neuromuscular"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Cefalea",
+     "k": "sintoma",
+     "f": [
+      [
+       "Mecanismo",
+       "Dolor de cabeza desde las cejas hacia arriba. **Insensibles**: cráneo, parénquima, mayor parte de meninges. **Sensibles**: piel, músculos, arterias, senos venosos, arterias de la base, duramadre, pares V, IX y X, 3 primeros nervios cervicales. **80 % son primarias.**"
+      ],
+      [
+       "Caracterizar (8)",
+       "**Localización · carácter · comienzo · intensidad · horario · agravantes** (Valsalva, esfuerzo, agacharse) **· alivio · acompañantes** (fiebre, vómito en proyectil, visuales, conciencia). Intensidad ≠ gravedad. Examen: signos meníngeos, neurológico y **fondo de ojo**."
+      ],
+      [
+       "Secundarias",
+       "**HSA** (súbita, rigidez de nuca) · **meningitis** (fiebre) · **tumor** (progresiva, vómito en proyectil, edema de papila) · **subdural** (trauma, intervalo libre) · **arteritis temporal** (> 55 años ⚠ 60 en doc. 04; arteria indurada, síntomas visuales) · **glaucoma agudo** · HTA maligna (occipital al despertar; ⚠ el PPT la deja “de consulta”, habitualmente es emergencia) · sinusitis · vicio de refracción."
+      ],
+      [
+       "Fisher (HSA)",
+       "I sin sangrado · II sangre difusa < 1 mm · III coágulo cisternal > 1 mm · IV hematoma parenquimatoso o intraventricular."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Cefaleas primarias",
+       "h": [
+        "Rasgo",
+        "Migraña",
+        "Tensional",
+        "Racimos (Horton)"
+       ],
+       "r": [
+        [
+         "Perfil",
+         "Mujer joven; horas a 3 días",
+         "La más frecuente; estrés",
+         "Hombre 20–40 años; 15 min–3 h, varias al día"
+        ],
+        [
+         "Dolor",
+         "Hemicráneo, pulsátil",
+         "Bilateral en cintillo, opresivo",
+         "Orbitario unilateral, intensísimo"
+        ],
+        [
+         "Acompañantes",
+         "Náuseas, fotofobia, **aura 30 %**",
+         "Ninguno",
+         "Ojo rojo, lagrimeo, rinorrea, inquietud"
+        ],
+        [
+         "Actividad",
+         "Empeora al moverse; cede en reposo y oscuridad",
+         "No empeora",
+         "Repite con horario"
+        ]
+       ]
+      }
+     ],
+     "al": "**Regla de Ottawa** (HSA; sensibilidad 100 %, especificidad 15 %): inicio súbito intensísimo · cefalea nueva o distinta > 40 años (⚠ la regla original dice edad ≥ 40 años y dolor o rigidez de cuello) · inicio durante esfuerzo · rigidez de nuca · pérdida de conciencia · flexión cervical limitada. Banderas: > 50 años, cambio de patrón, cáncer o VIH, trauma, fiebre sin foco, déficit, convulsiones, despierta, vómitos explosivos."
+    },
+    {
+     "n": "Mareo y vértigo",
+     "k": "sintoma",
+     "f": [
+      [
+       "Mareo",
+       "**Inestabilidad o vaivén sin giro**, sin síntomas vegetativos ni neurológicos. Causas: **ansiedad** (la más frecuente), anemia severa, hipotensión ortostática, HTA severa, depresión, cambios posturales en mayores."
+      ],
+      [
+       "Vértigo",
+       "**Giro propio u objetivo**; náuseas, vómitos, sudor, palidez; **nistagmo** (⚠ “siempre”: en el postural puede verse solo con la maniobra); conciencia conservada (si se pierde, otra enfermedad)."
+      ],
+      [
+       "Preguntas",
+       "¿Gira? No: mareo. ¿Cambia con la postura? Segundos al girar en cama o mirar arriba: **VPPB**. ¿Síntomas auditivos? Fluctuante + tinnitus + plenitud: **Menière**; progresiva: neurinoma. ¿Signos neurológicos? Diplopía, ataxia, conciencia: central."
+      ],
+      [
+       "Nistagmo",
+       "Espontáneo, de mirada y de posición (**Dix-Hallpike**); registrar dirección, sentido, duración, ritmo. **HINTS**."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Periférico vs central",
+       "h": [
+        "Rasgo",
+        "Periférico",
+        "Central"
+       ],
+       "r": [
+        [
+         "Origen",
+         "Laberinto o nervio vestibular",
+         "Núcleos vestibulares, tronco, cerebelo"
+        ],
+        [
+         "Curso",
+         "Crisis intensas y transitorias",
+         "Persistente, menos intenso"
+        ],
+        [
+         "Acompañantes",
+         "Náuseas marcadas; hipoacusia y tinnitus",
+         "Diplopía, disartria, ataxia"
+        ],
+        [
+         "Nistagmo",
+         "Horizontal-rotatorio, un sentido; se inhibe al fijar",
+         "Vertical o cambia de sentido; no se inhibe"
+        ],
+        [
+         "Ejemplos",
+         "VPPB, neuronitis, Menière, neurinoma",
+         "AIT, esclerosis múltiple, tumor de tronco"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Alteraciones de la conciencia",
+     "k": "sintoma",
+     "f": [
+      [
+       "Definición",
+       "**Nivel** (vigilia: sistema reticular activador) y **contenido** (corteza). Describir qué estímulo abre los ojos: espontáneo, verbal, táctil, doloroso o ninguno."
+      ],
+      [
+       "Nivel",
+       "**Somnolencia** (fácil despertar) · **obnubilación** (respuestas lentas) · **estupor** (solo estímulos intensos) · **coma**."
+      ],
+      [
+       "Contenido",
+       "**Confusión** · **delirium** (síndrome confusional agudo: falla brusca y fluctuante de la atención, típica del anciano, secundaria a otra enfermedad; ⚠ no es el delirio psicopatológico) · estados oníricos · despersonalización o desrealización."
+      ],
+      [
+       "Examen",
+       "Orientación en espacio, tiempo y situación; atención (deletrear «mundo» al revés)."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Escala de Glasgow (3–15; ≤ 8 intubar)",
+       "h": [
+        "Puntos",
+        "Ocular",
+        "Verbal",
+        "Motora"
+       ],
+       "r": [
+        [
+         "6",
+         "—",
+         "—",
+         "Obedece"
+        ],
+        [
+         "5",
+         "—",
+         "Orientado",
+         "Localiza el dolor"
+        ],
+        [
+         "4",
+         "Espontánea",
+         "Confuso",
+         "Retira"
+        ],
+        [
+         "3",
+         "A la voz",
+         "Incoherente",
+         "Flexión (decorticación)"
+        ],
+        [
+         "2",
+         "Al dolor",
+         "Sonidos",
+         "Extensión (descerebración)"
+        ],
+        [
+         "1",
+         "Ninguna",
+         "Ninguna",
+         "Ninguna"
+        ]
+       ]
+      },
+      {
+       "c": "Pérdida breve de conciencia",
+       "h": [
+        "Rasgo",
+        "Epilepsia",
+        "Síncope",
+        "Psicógena"
+       ],
+       "r": [
+        [
+         "Antes",
+         "Privación de sueño, alcohol, fiebre, drogas",
+         "Esfuerzo, bipedestación, dolor, micción; síntomas cardíacos",
+         "Estrés emocional"
+        ],
+        [
+         "Durante",
+         "Tónico-clónica < 2 min, ojos abiertos, **mordedura lateral de lengua**",
+         "Caída atónica",
+         "> 3 min, no estereotipada, ojos cerrados con resistencia"
+        ],
+        [
+         "Después",
+         "Recuperación lenta, mialgias, amnesia",
+         "Completa en < 1 min",
+         "Variable, sin confusión"
+        ]
+       ]
+      }
+     ],
+     "al": "La incontinencia no distingue: ocurre en cualquier pérdida de conciencia con vejiga llena."
+    },
+    {
+     "n": "Praxias, gnosias, lenguaje y memoria",
+     "k": "sintoma",
+     "f": [
+      [
+       "Apraxia",
+       "Incapacidad de ejecutar actos voluntarios aprendidos **sin paresia, déficit sensitivo ni alteración de conciencia**. Ideatoria (secuencias), ideomotora (gestos), motora (finos), constructiva, bucolingual, de la marcha. Explorar: simular peinarse, saludo militar, dibujar figuras."
+      ],
+      [
+       "Agnosia",
+       "**No reconocer** estímulos con sensibilidad primaria conservada: visual (**prosopagnosia**), táctil (**astereognosia**; ⚠ estereognosia es la capacidad normal), auditiva, del esquema corporal (negligencia, anosognosia; **Gerstmann**: dedos, derecha-izquierda, cálculo, escritura)."
+      ],
+      [
+       "Afasia",
+       "Trastorno cerebral del lenguaje (no incluye disartria ni mudez). Causas: sobre todo **vasculares** del hemisferio dominante; trauma, tumores, demencias. Explorar fluidez, comprensión (órdenes de 1 a 3 pasos), nominación, repetición, lectura, escritura. Normal 60–70 palabras/min. Comienzo súbito: vascular; progresivo: tumor."
+      ],
+      [
+       "Memoria",
+       "**Inmediata** (ms) · **corto plazo** (s–min) · **largo plazo**: declarativa (episódica, semántica) y no declarativa (habilidades). Examen: orientación, evocación inmediata y diferida, remota, **Mini-Mental**."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Afasias",
+       "h": [
+        "Afasia",
+        "Fluidez",
+        "Comprensión",
+        "Repetición"
+       ],
+       "r": [
+        [
+         "Broca (expresiva)",
+         "↓",
+         "Casi normal",
+         "Alterada"
+        ],
+        [
+         "Wernicke",
+         "Normal o verborrea",
+         "Alterada",
+         "Alterada"
+        ],
+        [
+         "De conducción",
+         "Normal",
+         "Normal",
+         "**Muy alterada**"
+        ],
+        [
+         "Transcorticales",
+         "Según tipo",
+         "Según tipo",
+         "Conservada"
+        ],
+        [
+         "Global",
+         "Alterada",
+         "Alterada",
+         "Alterada"
+        ]
+       ]
+      },
+      {
+       "c": "Trastornos de la memoria",
+       "h": [
+        "Alteración",
+        "Definición"
+       ],
+       "r": [
+        [
+         "Hipomnesia · amnesia",
+         "Menor capacidad · pérdida total o parcial"
+        ],
+        [
+         "Amnesia retrógrada · anterógrada",
+         "Olvido de hechos previos · no fija nuevos recuerdos"
+        ],
+        [
+         "Paramnesia · confabulación",
+         "Distorsión del recuerdo · recuerdos falsos"
+        ],
+        [
+         "Déjà vu · jamais vu",
+         "Haber vivido algo antes · extrañeza ante lo conocido"
+        ],
+        [
+         "Hipermnesia",
+         "Aumento anormal de recuerdos"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Meníngeo, radicular e hipertensión endocraneana",
+     "k": "sindrome",
+     "f": [
+      [
+       "Meníngeo",
+       "Irritación meníngea: **infección, sangre (HSA), infiltración neoplásica**. Cefalea holocránea precoz e intensa, **rigidez de nuca**, **Brudzinski**, **Kernig**, opistótonos, compromiso de conciencia. Tríada completa solo 44 %; 95 % tiene ≥ 2 de fiebre, rigidez, cefalea, conciencia; en ancianos predomina la confusión. **Punción lumbar** (TC antes si edema de papila o foco)."
+      ],
+      [
+       "Radicular",
+       "Síntomas sensitivos o motores en el dermatoma de la raíz. **Lasègue** (normal 90°) y elongación crural; columna rígida y dolorosa. Si el dolor queda en cadera o muslo, explorar la cadera; dorsiflexión del pie ↑ el dolor ciático."
+      ],
+      [
+       "HTE",
+       "**PIC normal 10–16 cm H₂O**. Causas: expansivos (tumor, quiste, hematoma, infarto, absceso) o ↑ de LCR (hidrocefalia, meningitis). **Cefalea** (100 % agudos, 90 % lentos; matutina), **vómito explosivo**, ↓ visión transitoria, conciencia, **edema de papila** (pérdida del latido venoso: signo precoz de apoyo), autonómicos (bradicardia, respiración irregular, HTA), diplopía (VI par). PPC = PAM − PIC. Seudotumor: tetraciclinas, corticoides, litio."
+      ]
+     ],
+     "al": "Sospecha de meningitis: **emergencia**, punción en 30 min y tratamiento empírico inmediato. HTE: bradicardia y cambios respiratorios = compresión del tronco; midriasis unilateral tras trauma = hernia transtentorial; **no hacer punción lumbar** (herniación amigdaliana)."
+    },
+    {
+     "n": "Piramidal, muscular, extrapiramidal y cerebeloso",
+     "k": "sindrome",
+     "f": [
+      [
+       "Piramidal",
+       "Paresia, hiperreflexia profunda, reflejos superficiales abolidos, **Babinski** (el más importante; su ausencia no descarta; sucedáneos Oppenheim, Chaddock), espasticidad, sincinesias. En lesión aguda la liberación tarda 2–3 semanas."
+      ],
+      [
+       "Muscular",
+       "Lesión primaria del músculo: fuerza ↓ y **atrofia proximales**; seudohipertrofia (Duchenne); dolor = miositis. Sin alteración de reflejos ni fasciculaciones. **Miastenia**: fatigabilidad fluctuante craneana, mejora con reposo."
+      ],
+      [
+       "Extrapiramidal",
+       "Fuerza conservada y reflejos normales: «no está paralizado, se mueve mal». **Parkinson**: bradicinesia, **temblor de reposo 4–6 Hz** (“contar monedas”), **rigidez** (tubo de plomo, rueda dentada), inestabilidad, hipomimia, marcha festinante, freezing, micrografía, hipofonía, disfagia, sialorrea. Otras causas: Sydenham (niños, reumática), Huntington (hereditaria, con demencia), hemibalismo (subtalámico), Wilson."
+      ],
+      [
+       "Cerebeloso",
+       "Manifestaciones del **mismo lado** de la lesión."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Cerebelo por región",
+       "h": [
+        "Región",
+        "Función",
+        "Clínica"
+       ],
+       "r": [
+        [
+         "Vestibulocerebelo (floculonodular)",
+         "Equilibrio, movimientos oculares",
+         "Inestabilidad, lateropulsión, nistagmo, vértigo"
+        ],
+        [
+         "Espinocerebelo (vermis)",
+         "Tono, postura, marcha",
+         "Ataxia de marcha de base amplia, hipotonía, caídas"
+        ],
+        [
+         "Cerebrocerebelo (hemisferios)",
+         "Movimientos finos y precisión",
+         "Dismetría, disdiadococinesia, temblor de intención, asinergia"
+        ]
+       ]
+      },
+      {
+       "c": "Movimientos anormales",
+       "h": [
+        "Trastorno",
+        "Velocidad",
+        "Descripción"
+       ],
+       "r": [
+        [
+         "Temblor",
+         "Rítmico, regular",
+         "Oscilatorio"
+        ],
+        [
+         "Corea",
+         "Rápido, irregular",
+         "Danzante"
+        ],
+        [
+         "Atetosis",
+         "Lento, irregular",
+         "Retorcimiento"
+        ],
+        [
+         "Distonía",
+         "Sostenido",
+         "Posturas anormales"
+        ],
+        [
+         "Mioclonía",
+         "Muy rápido, brusco",
+         "Sacudida"
+        ],
+        [
+         "Tic",
+         "Rápido, repetitivo",
+         "Parcialmente controlable"
+        ],
+        [
+         "Hemibalismo",
+         "Muy rápido",
+         "Lanzamiento amplio de extremidades"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Demencias y literatura neurológica",
+     "k": "sindrome",
+     "f": [
+      [
+       "Demencia",
+       "**Trastorno neurocognitivo mayor**, adquirido, crónico y progresivo: ≥ 2 dominios cognitivos con pérdida de funcionalidad. **Degenerativas** (Alzheimer 60–70 %), frontotemporal, Parkinson, Huntington. **Secundarias**: infartos múltiples, trauma, infecciones, VIH, litio, talio, **hidrocefalia normotensiva (tratable)**. Consulta la familia; falla el aprendizaje de lo nuevo; distinguir apatía de depresión. Deterioro durante una enfermedad intercurrente: demencia larvada."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Cuadros que el PPT solo nombra",
+       "h": [
+        "Cuadro",
+        "Claves"
+       ],
+       "r": [
+        [
+         "Brown-Séquard",
+         "Bajo la lesión: pérdida profunda y paresia ipsilaterales, superficial contralateral"
+        ],
+        [
+         "Talámico",
+         "Hipoestesia contralateral con hiperpatía"
+        ],
+        [
+         "2.ª motoneurona",
+         "Paresia, hipotonía, atrofia precoz, fasciculaciones"
+        ],
+        [
+         "ELA",
+         "1.ª y 2.ª motoneurona en el mismo segmento; mortal en 3–8 años"
+        ],
+        [
+         "ACV",
+         "Hemorragia, infarto o HSA; trombolisis solo en infarto y dentro de 4–5 h. ACA: pierna. ACM: cara y brazo, hemianestesia, afasia o negligencia. ACP: hemianopsia homónima"
+        ],
+        [
+         "Hematomas",
+         "Subdural agudo (minutos a horas, intervalo libre) · extradural (arterial, muy rápido) · subdural crónico (meses o años). TC urgente"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Neuropsiquiátrico: síntomas",
+   "ents": [
+    {
+     "n": "Psicosemiología y cinco preguntas",
+     "k": "tabla",
+     "f": [
+      [
+       "Examen mental",
+       "Aspecto, conducta · conciencia, atención, memoria, orientación · afectividad (ánimo, congruencia) · pensamiento y lenguaje · introspección y juicio · despersonalización."
+      ],
+      [
+       "Cinco preguntas",
+       "**1.** ¿Desde cuándo y cómo evoluciona? Reciente y progresivo: orgánico; largo y fluctuante: funcional. **2.** ¿Patrón diario y respuesta a esfuerzo y reposo? **3.** ¿Acompañantes? Fiebre, baja de peso o signos neurológicos son banderas rojas. **4.** ¿Qué muestra el examen? **5.** ¿Ánimo, sueño y vida? **Lo psíquico se diagnostica por sus propios elementos; lo orgánico se descarta siempre.**"
+      ]
+     ]
+    },
+    {
+     "n": "Astenia",
+     "k": "sintoma",
+     "f": [
+      [
+       "Definición",
+       "Falta de energía. **Fatiga**: aparece después del esfuerzo; **astenia**: antes. Formas: lasitud, debilidad generalizada, fatiga mental."
+      ],
+      [
+       "Causas",
+       "**Sin baja de peso (funcional)**: depresión, ansiedad, apnea del sueño, posinfecciosa, posparto, fármacos, alcohol, fatiga crónica. **Con baja de peso (orgánica)**: metabólica (hiponatremia, hipopotasemia, hipercalcemia, tiroides, Addison, diabetes, anemia, uremia) o inflamatoria (TBC, endocarditis, hepatitis, mononucleosis, autoinmunes, neoplasias)."
+      ],
+      [
+       "Apoyo",
+       "Joven sano con astenia reciente: hepatitis o mononucleosis. Examen y laboratorio normales: **TSH**."
+      ],
+      [
+       "No confundir",
+       "Debilidad muscular (miastenia, miopatías, hipopotasemia) · disnea (en Chile también se llama “cansancio”) · somnolencia (apnea, narcolepsia)."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Orgánica vs psíquica",
+       "h": [
+        "Rasgo",
+        "Orgánica",
+        "Psíquica (funcional)"
+       ],
+       "r": [
+        [
+         "Horario",
+         "Vespertina",
+         "Matinal, mejora en la tarde"
+        ],
+        [
+         "Reposo",
+         "Alivia",
+         "No alivia"
+        ],
+        [
+         "Evolución",
+         "< 2 meses, progresiva",
+         "> 4 meses, fluctuante"
+        ],
+        [
+         "Inicio con estrés",
+         "No",
+         "Sí"
+        ],
+        [
+         "Asociados",
+         "Pocos y específicos (fiebre, ictericia)",
+         "Múltiples e inespecíficos (insomnio, nerviosismo)"
+        ],
+        [
+         "Peso y examen",
+         "Baja de peso, hallazgos",
+         "Peso conservado, examen normal"
+        ],
+        [
+         "Déficit",
+         "De capacidad",
+         "De deseo"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "n": "Ansiedad y nerviosismo",
+     "k": "sintoma",
+     "f": [
+      [
+       "Definición",
+       "**Miedo**: ante peligro real y actual. **Ansiedad**: sin amenaza clara o ante peligro futuro, con activación autonómica. Normal: moderada y proporcionada; patológica: intensa, persistente, desproporcionada. Preguntar: «¿en qué nota que está nervioso?»."
+      ],
+      [
+       "Crisis de pánico",
+       "Abrupta, máxima en minutos, **≥ 4 de 13**: palpitaciones, sudor, temblor, ahogo, atragantamiento, opresión torácica, náuseas, mareo, escalofríos o sofocos, parestesias, desrealización, miedo a perder el control, miedo a morir."
+      ],
+      [
+       "Generalizada",
+       "Preocupación excesiva casi todos los días por **≥ 6 meses** con **≥ 3**: inquietud, fatigabilidad, concentración, irritabilidad, tensión muscular, sueño."
+      ],
+      [
+       "Examen",
+       "**Hiperventilación**: respiración suspirosa, parestesias peribucales, alcalosis, tetania, espasmo carpopedal."
+      ],
+      [
+       "Descartar antes",
+       "**Agudas graves**: infarto, EPA, TPSV, asma, neumotórax, TEP masivo, disección. **Causas directas**: hipertiroidismo, feocromocitoma, hipoglicemia, simpaticomiméticos, café, abstinencia (alcohol, drogas, tabaco). Nerviosismo reciente: orgánico primero."
+      ]
+     ]
+    },
+    {
+     "n": "Depresión",
+     "k": "sintoma",
+     "f": [
+      [
+       "Cuadro",
+       "**Melancolía**: ánimo ↓, inhibición psicomotora, autodepreciación, culpa. Psíquicos: tristeza, llanto, desesperanza, anhedonia, retardo, ideas de muerte. Somáticos: cansancio, **despertar precoz**, anorexia y baja de peso, cefalea, dispepsia, constipación, dolor crónico, libido ↓; peor en la mañana."
+      ],
+      [
+       "Criterio",
+       "**Episodio depresivo mayor**: **≥ 5 de 9** síntomas casi todos los días por **≥ 2 semanas**, incluyendo ánimo deprimido o anhedonia, con deterioro y sin atribuirse a sustancias o enfermedad. Otros: peso o apetito, insomnio o hipersomnia, agitación o enlentecimiento, fatiga, culpa, concentración, ideas de muerte."
+      ],
+      [
+       "Causas",
+       "Reactiva, endógena (uni o bipolar), involutiva. Médicas: convalecencia (influenza, mononucleosis), hepatitis crónica, ateroesclerosis cerebral, inicio de demencia. **Depresión enmascarada**: síntomas somáticos sin tristeza → preguntar siempre por el ánimo."
+      ]
+     ],
+     "al": "**Riesgo suicida**: preguntar directamente **no induce** la idea. ¿La vida no vale la pena? ¿Ha pensado en hacerse daño? ¿Tiene plan, lo ha intentado? Agravantes: intentos previos, método violento, edad avanzada, dolor crónico, psicosis, alcohol o drogas, soledad, suicidio familiar. No dejar solo; derivar de inmediato. Minsal: *4141."
+    },
+    {
+     "n": "Hostilidad e insomnio",
+     "k": "sintoma",
+     "f": [
+      [
+       "Hostilidad",
+       "**Abierta** (irritabilidad, exigencias, agresividad) o **encubierta** (ironía, quejas, incumplimiento). Origen: dolor, miedo, dependencia, frustración; ansiedad, depresión; personalidad; psicosis, manía; hipertiroidismo, delirium, demencia, intoxicación. **Conducta**: comprender su significado, permitir la ventilación sin aceptar abusos, relación no crítica, reconocer la propia hostilidad."
+      ],
+      [
+       "Insomnio",
+       "Dificultad para conciliar o mantener el sueño, o sueño no reparador, con repercusión diurna. Sueño: REM 25 %, lento 75 %, ciclos de ~90 min; con la edad es más superficial. **Evolución**: ocasional, transitorio, crónico (≥ 3 noches/semana > 1 mes Goic; DSM-5: 3 meses). Primario (raro), **secundario** (la mayoría), falso insomnio."
+      ],
+      [
+       "Hipersomnia",
+       "Somnolencia diurna excesiva: descartar depresión, hipotiroidismo, encefalopatía. **Apnea obstructiva**: ronquido, apneas, cuello corto, obesidad, HTA. **Narcolepsia**: crisis de 10–20 min con cataplexia y alucinaciones al dormirse."
+      ]
+     ],
+     "ts": [
+      {
+       "c": "Insomnio según el momento",
+       "h": [
+        "Momento",
+        "Tipo",
+        "Causas"
+       ],
+       "r": [
+        [
+         "Al acostarse",
+         "Conciliación",
+         "Ansiedad, café, alcohol, simpaticomiméticos, dolor, prurito, tos, disnea, Cheyne-Stokes, acatisia"
+        ],
+        [
+         "Durante la noche",
+         "Mantención",
+         "Neurosis de angustia, úlcera péptica, asma, reflujo, nicturia, apnea, cefalea en racimos (~3 h de dormido)"
+        ],
+        [
+         "Madrugada",
+         "Despertar precoz",
+         "**Depresión** (angustia matinal), DPN, sueño fragmentado del adulto mayor"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

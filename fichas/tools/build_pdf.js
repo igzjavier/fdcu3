@@ -23,7 +23,8 @@ body{margin:0;font-family:var(--sans);font-size:7.9pt;line-height:1.32;color:var
 .dh .big{font-weight:900;font-size:44pt;line-height:.8;letter-spacing:-.06em;color:var(--accent-text)}
 .dh h1{margin:0;font-size:19pt;line-height:1;letter-spacing:-.035em;font-weight:900}
 .dh .sub{grid-column:2;color:var(--mute);font-size:8.5pt}
-.gh{column-span:all;display:flex;gap:4mm;align-items:baseline;border-top:1.6pt solid var(--fg);padding-top:1.5mm;margin:2mm 0 3mm}
+.gh{display:flex;flex-wrap:wrap;gap:0 3mm;align-items:baseline;background:var(--fg);color:#fff;padding:1.2mm 2mm;margin:1mm 0 2.6mm;break-after:avoid;break-inside:avoid}
+.gh .k{color:#ccc!important}
 .gh .k{font:500 6.5pt var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
 .gh h2{margin:0;font-size:11pt;font-weight:800;letter-spacing:-.02em}
 .ent{margin:0 0 3.2mm;padding-top:1mm;border-top:2.4pt solid var(--kc,var(--fg))}

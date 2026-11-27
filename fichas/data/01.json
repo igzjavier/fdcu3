@@ -1,0 +1,906 @@
+{
+ "id": "01",
+ "titulo": "Síntomas generales y signos de gravedad",
+ "sub": "Dolor · Hemorragia · Fiebre · Edema · Prurito · Bochornos · Gravedad",
+ "fichas": [
+  {
+   "n": "Marco común de anamnesis",
+   "k": "tabla",
+   "f": [
+    [
+     "Calificadores",
+     "Agudo/crónico, localizado/generalizado, simétrico/asimétrico, súbito/insidioso, continuo/intermitente, aparente/inaparente. Luego **jerarquizar**."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Siete ejes",
+     "h": [
+      "Eje",
+      "Qué preguntar"
+     ],
+     "r": [
+      [
+       "Ubicación y extensión",
+       "¿Dónde? ¿Localizado o generalizado? ¿Irradia?"
+      ],
+      [
+       "Carácter",
+       "¿Cómo es?"
+      ],
+      [
+       "Intensidad o cuantía",
+       "EVA, volumen, grado del godet"
+      ],
+      [
+       "Comienzo y evolución",
+       "Súbito, brusco o insidioso; agudo o crónico; ritmo"
+      ],
+      [
+       "Factores que modifican",
+       "Qué desencadena, agrava o alivia; fármacos y remedios caseros"
+      ],
+      [
+       "Acompañantes",
+       "Orientan al sistema comprometido"
+      ],
+      [
+       "Repercusión",
+       "Vida diaria y estado general"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Dolor",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Experiencia **sensorial y emocional desagradable**; personal y subjetiva. Importa si es intenso, persistente o recurrente."
+    ],
+    [
+     "Referido",
+     "Por **convergencia** en el asta posterior (ver tabla)."
+    ],
+    [
+     "Neuropático",
+     "Central (talámico) o periférico (diabético); **disestesias, alodinia, ardor**, alfilerazos, entumecimiento, frialdad. Posherpético, trigémino. Otros: vascular (eritromelalgia = enf. de Mitchell), simpático (dolor regional complejo). UCH agrega **psicógeno**: sin base estructural, sufrimiento igual de real."
+    ],
+    [
+     "Caracterizar (ALICIA)",
+     "**A**parición · **L**ocalización (pedir que señale) · **I**rradiación (radicular o referida) · **C**arácter · **I**ntensidad (EVA 0–10) · **A**tenuantes y agravantes. Goic agrega actitud, acompañantes, repercusión. Ampliada **«ALICIA, MI SEDA»**: + migración, síntomas acompañantes, evolución, desencadenante, actitud. Anotar también cuando no hay."
+    ],
+    [
+     "Actitud",
+     "**Quietud**: dolor musculoesquelético o infarto. **Inquietud** sin postura antiálgica: cólico renal."
+    ],
+    [
+     "Jerarquía",
+     "La relación **esfuerzo–reposo** tiene la mayor jerarquía."
+    ]
+   ],
+   "al": "Todo dolor es orgánico hasta demostrar lo contrario. **Intensidad no es gravedad**: odontalgia (muy dolorosa, poco grave), cánceres iniciales (graves, poco dolorosos), disección aórtica y pancreatitis necrohemorrágica (ambas). Banderas rojas: inicio súbito máximo (rotura o perforación), anginoso prolongado, sudor frío, palidez o lipotimia, despierta o no cede con analgésicos.",
+   "fl": [
+    "Estímulo",
+    "Nociceptor",
+    "Fibras A-delta (rápidas) o C (lentas)",
+    "Asta posterior",
+    "Tálamo",
+    "Corteza"
+   ],
+   "ts": [
+    {
+     "c": "Superficial vs profundo",
+     "h": [
+      "Rasgo",
+      "Superficial (somático)",
+      "Profundo (visceral)"
+     ],
+     "r": [
+      [
+       "Localización",
+       "Precisa",
+       "Vaga"
+      ],
+      [
+       "Carácter",
+       "Punzante o urente",
+       "Sordo, cólico o gravativo"
+      ],
+      [
+       "Fibras",
+       "A-delta, rápidas; epicrítico",
+       "C, lentas; protopático"
+      ],
+      [
+       "Proyección",
+       "En el estímulo",
+       "Puede referirse"
+      ],
+      [
+       "Acompañantes",
+       "Escasos",
+       "Náuseas, sudor, palidez"
+      ]
+     ]
+    },
+    {
+     "c": "Dolor referido",
+     "h": [
+      "Origen",
+      "Se siente en"
+     ],
+     "r": [
+      [
+       "Diafragma",
+       "Hombro"
+      ],
+      [
+       "Corazón",
+       "Epigastrio y brazo izquierdo"
+      ],
+      [
+       "Apéndice",
+       "Ombligo"
+      ],
+      [
+       "Uréter",
+       "Testículo"
+      ],
+      [
+       "Cadera",
+       "Rodilla"
+      ]
+     ]
+    },
+    {
+     "c": "Aparición",
+     "h": [
+      "Tipo",
+      "Tiempo en llegar al máximo",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Insidioso",
+       "Minutos a horas",
+       "—"
+      ],
+      [
+       "Brusco",
+       "Segundos a minutos",
+       "—"
+      ],
+      [
+       "Súbito",
+       "Máximo desde que aparece",
+       "Vascular o rotura de víscera hueca hasta demostrar lo contrario"
+      ]
+     ]
+    },
+    {
+     "c": "Carácter del dolor",
+     "h": [
+      "Carácter",
+      "Ejemplo"
+     ],
+     "r": [
+      [
+       "Constrictivo",
+       "Angina de pecho"
+      ],
+      [
+       "Pungitivo (punzante)",
+       "Dolor pleural"
+      ],
+      [
+       "Urente",
+       "Herpes zóster"
+      ],
+      [
+       "Fulgurante (corriente)",
+       "Tabes dorsal"
+      ],
+      [
+       "Lancinante (pinchazos)",
+       "Neuralgia del trigémino"
+      ],
+      [
+       "Cólico",
+       "Obstrucción de víscera hueca"
+      ],
+      [
+       "Sordo (leve, continuo)",
+       "Cáncer"
+      ],
+      [
+       "Terebrante",
+       "Odontalgia"
+      ],
+      [
+       "Gravativo (pesadez)",
+       "Derrames"
+      ],
+      [
+       "De hambre",
+       "Úlcera gastroduodenal"
+      ],
+      [
+       "Pulsátil",
+       "Abscesos"
+      ],
+      [
+       "Errante",
+       "Colon irritable"
+      ],
+      [
+       "Desgarrante",
+       "Disección aórtica"
+      ],
+      [
+       "Transfixiante",
+       "Pancreatitis"
+      ]
+     ]
+    },
+    {
+     "c": "Angina: típica vs atípica",
+     "h": [
+      "Eje",
+      "Típica",
+      "Atípica"
+     ],
+     "r": [
+      [
+       "Ubicación",
+       "Retroesternal",
+       "Mandíbula"
+      ],
+      [
+       "Irradiación",
+       "Hombro y brazo izquierdos",
+       "Sin irradiación"
+      ],
+      [
+       "Carácter",
+       "Constrictivo",
+       "Impreciso"
+      ],
+      [
+       "Desencadenante",
+       "Esfuerzo",
+       "Esfuerzo"
+      ],
+      [
+       "Alivio",
+       "Reposo, minutos",
+       "Reposo, minutos"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Hemorragia",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Salida de sangre de los vasos por **rotura** accidental o espontánea. Mayoría: rotura de vasos; minoría: **hemopatía** o coagulopatía con vasos indemnes."
+    ],
+    [
+     "Apoyo",
+     "Inaparente: sangre oculta, sedimento urinario, examen ginecológico; cavidades: punción; intracraneana: TC, RM o LCR."
+    ],
+    [
+     "Dif.",
+     "Sangre por la boca: **bucofaríngea**, **respiratoria** (aireada, picor, tos) o **digestiva** (oscura o en concho de café, con náuseas). Sospechar hemopatía si son **múltiples** (piel y mucosas) o tras traumas leves (sangrado articular, gingivorragia persistente tras extracción)."
+    ]
+   ],
+   "al": "Hemorragia aguda con compromiso hemodinámico: emergencia, reponer volumen. Ver doc. 08.",
+   "ts": [
+    {
+     "c": "Nomenclatura según origen",
+     "h": [
+      "Origen",
+      "Término",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Piel y mucosas",
+       "Petequias · víbices · equimosis · hematoma · púrpura",
+       "Puntiformes · lineales · en placa · con volumen (casi siempre postraumático) · término genérico"
+      ],
+      [
+       "Nariz y encías",
+       "Epistaxis, gingivorragia",
+       "Repetidas: hemopatía"
+      ],
+      [
+       "Vía aérea",
+       "Hemoptisis",
+       "Roja, aireada, con tos"
+      ],
+      [
+       "Digestivo alto",
+       "Hematemesis, melena",
+       "Rojo oscuro o concho de café · negra, brillante, pegajosa"
+      ],
+      [
+       "Digestivo bajo",
+       "Rectorragia, hematoquezia, colorragia",
+       "Treitz separa alto de bajo"
+      ],
+      [
+       "Urinario",
+       "Hematuria",
+       "Macro o microscópica"
+      ],
+      [
+       "Ginecológico",
+       "Metrorragia",
+       "Sangrado vaginal no menstrual"
+      ],
+      [
+       "Cavidades",
+       "Hemotórax, hemoperitoneo, hemopericardio",
+       "Inaparentes; imágenes o punción"
+      ]
+     ]
+    },
+    {
+     "c": "Cómo clasificar",
+     "h": [
+      "Eje",
+      "Tipos"
+     ],
+     "r": [
+      [
+       "Vaso",
+       "Capilar (roja, fácil de controlar) · venosa (rojo oscuro, continua) · arterial (rojo brillante, pulsátil)"
+      ],
+      [
+       "Salida",
+       "Externa o interna"
+      ],
+      [
+       "Evidencia",
+       "Aparente o inaparente"
+      ],
+      [
+       "Evolución",
+       "Aguda o crónica"
+      ],
+      [
+       "Cuantía",
+       "Leve, moderada, masiva (consecuencia: anemia)"
+      ]
+     ]
+    },
+    {
+     "c": "Aguda vs crónica",
+     "h": [
+      "",
+      "Aguda",
+      "Crónica"
+     ],
+     "r": [
+      [
+       "Evidencia",
+       "Aparente",
+       "Inaparente"
+      ],
+      [
+       "Gravedad",
+       "Velocidad, volumen y edad",
+       "Anemia ferropriva compensada"
+      ],
+      [
+       "Clínica",
+       "Fatiga, sudor frío, mareo, palidez, taquicardia, hipotensión, yugulares colapsadas → shock",
+       "Anemia sin causa: buscar digestivo, ginecológico, urinario"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Fiebre",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Signo objetivo, buen indicador de enfermedad orgánica. **Confirmar con termómetro**: lo referido falla en ambos sentidos. Normal bucal 36,8 ± 0,4 °C; axilar ~0,6 menos. Escala: hipotermia, normal, **febrícula (37–38 °C axilar)**, fiebre, **hiperpirexia >41 °C**."
+    ],
+    [
+     "Causas",
+     "Infecciones (sobre todo virales) · neoplasias · inmunológicas y del tejido conectivo · hemólisis · metabólicas agudas. No infecciosas: infartos, fármacos, crisis tiroidea o addisoniana, gota, porfiria, mixoma auricular, trauma. Aguda en inmunocompetente (<15 días): vía aérea alta, piel, orina, neumonía."
+    ],
+    [
+     "Síndrome febril",
+     "Calor, calofríos, cefalea, malestar, sed, anorexia, mialgias, sudor; facies, piel caliente, **taquicardia 10–15 lpm por °C**, **polipnea 4–5 rpm por °C**, orina escasa. Piel primero seca y pálida, luego roja y húmeda; soplo eyectivo, lengua saburral, herpes labial."
+    ],
+    [
+     "Sugieren infección",
+     "**≥2**: comienzo brusco · >39 °C · malestar, mialgias, cefalea, fotofobia · leucocitos >12.000 o <5.000/mm³. Foco: odinofagia, tos, disuria, dolor lumbar, diarrea, rigidez de nuca."
+    ],
+    [
+     "Pistas",
+     "Descenso en **crisis** o **lisis**; caída brusca sin mejoría = antipiréticos o complicación (**pseudocrisis**). Calofrío único e intenso: neumonía neumocócica. Repetidos: infección biliar o urinaria. Sudor nocturno: TBC, brucelosis, Hodgkin."
+    ],
+    [
+     "Adulto mayor",
+     "Puede **faltar** (30–50 % de neumonías, ITU, colecistitis); se presenta como **confusión**."
+    ],
+    [
+     "Apoyo",
+     "Sin foco tras anamnesis y examen: hemograma, VHS o PCR, hemocultivos, reacciones de aglutinación, sedimento y urocultivo, Rx de tórax."
+    ],
+    [
+     "Otros",
+     "**Disociación esfigmotérmica** (pulso sube poco): tifoidea, facticia, fármacos, Legionella. **Fiebre facticia**: sin causa, sin variación diaria, disociada del pulso y del estado general. **FOD**: ≥3 semanas, ≥38,3 °C en tres ocasiones, sin diagnóstico tras 1 semana hospitalizado (3 días o 3 consultas); infecciones 30–40 %, neoplasias 20–30 %, colagenopatías 10–20 %."
+    ]
+   ],
+   "al": "Con cefalea, confusión o rigidez · con petequias · con calofríos e hipotensión · esplenectomizado o neutropénico · caída brusca con deterioro (seudocrisis). >41 °C mantenida puede dañar el cerebro; >43 °C coma y muerte.",
+   "fl": [
+    "Pirógenos",
+    "IL-1, TNF-α, IL-6",
+    "OVLT (COX-2, PGE₂)",
+    "↑ punto de ajuste hipotalámico",
+    "Vasoconstricción y calofríos"
+   ],
+   "ts": [
+    {
+     "c": "Umbral de fiebre según fuente",
+     "h": [
+      "Fuente",
+      "Fiebre"
+     ],
+     "r": [
+      [
+       "Goic",
+       "> 36,9 °C axilar o > 37,2 °C bucal"
+      ],
+      [
+       "Argente",
+       "> 37,5 °C bucal (37,2 mañana; 37,7 tarde)"
+      ],
+      [
+       "UCH",
+       "Normal axilar 36,5 · bucal 36,8 · rectal 37,1 (±0,4); en clínica, axilar > 38 °C"
+      ]
+     ]
+    },
+    {
+     "c": "Curvas febriles",
+     "h": [
+      "Curva",
+      "Patrón"
+     ],
+     "r": [
+      [
+       "Continua",
+       "Alta, oscilaciones pequeñas (⚠ Goic 1 °C; UCH 0,6 °C)"
+      ],
+      [
+       "Remitente",
+       "Oscila sin llegar a lo normal"
+      ],
+      [
+       "Intermitente",
+       "Alterna con valores normales en el día"
+      ],
+      [
+       "Recurrente",
+       "Días febriles separados por días normales"
+      ]
+     ]
+    },
+    {
+     "c": "Fiebre vs hipertermia",
+     "h": [
+      "",
+      "Fiebre",
+      "Hipertermia"
+     ],
+     "r": [
+      [
+       "Punto de ajuste",
+       "Elevado",
+       "Normal"
+      ],
+      [
+       "Falla",
+       "—",
+       "Disipación o producción de calor"
+      ],
+      [
+       "Causas",
+       "Infección, inflamación, neoplasia",
+       "Golpe de calor, anticolinérgicos, tirotoxicosis, hipertermia maligna, neuroléptico maligno, lesión hipotalámica"
+      ],
+      [
+       "Antipiréticos",
+       "Útiles",
+       "Inútiles: enfriamiento físico (≥ 42 °C sugiere hipertermia)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Edema",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Aumento evidente de **líquido intersticial**; lo confirma el **godet**. Presión hidrostática capilar (35→10 mmHg) filtra; oncótica (25 mmHg) retiene; el linfático drena. Aparece con ≈**4 L** retenidos (Goic >4 L; Argente 3,5–5 L): el **peso sube antes**."
+    ],
+    [
+     "Causas",
+     "**Localizado o asimétrico**: si es agudo, descartar **TVP**; celulitis, erisipela, trauma, linfedema. **Generalizado**: cardíaco, renal, hepático, carencial, venoso, fármacos (calcioantagonistas), cíclico. Otras: viajes largos sentado, extremidad paralizada o enyesada, anemia, vejez, embarazo, convalecencia, mesenquimopatías. **Angioedema**: cara, manos, genitales; glotis = emergencia."
+    ],
+    [
+     "Caracterizar",
+     "¿Localizado o generalizado? ¿Simétrico? Distribución, color, temperatura, aspecto, dolor, consistencia, horario, posición, fármacos."
+    ],
+    [
+     "Dif.",
+     "**Linfedema**: duro, poca fóvea, **signo de Stemmer** (no se pellizca la piel del dorso del 2.º ortejo). **Mixedema**: induración por mucopolisacáridos, sin godet. **Lipedema**: bilateral, simétrico, fóvea mínima."
+    ],
+    [
+     "Apoyo",
+     "Proteinuria y sedimento (renal); grasa fecal (malabsorción); **eco Doppler** si sospecha de TVP (sobre la rodilla, mayor riesgo de embolia)."
+    ]
+   ],
+   "al": "Edema localizado o asimétrico de comienzo agudo: descartar TVP. Angioedema con compromiso de glotis: emergencia.",
+   "ts": [
+    {
+     "c": "Mecanismos y causas",
+     "h": [
+      "Mecanismo",
+      "Causas"
+     ],
+     "r": [
+      [
+       "↑ presión venosa",
+       "IC, trombosis, insuficiencia venosa"
+      ],
+      [
+       "↓ presión oncótica",
+       "Nefrótico, cirrosis, desnutrición"
+      ],
+      [
+       "↑ permeabilidad",
+       "Inflamación, angioedema, quemaduras"
+      ],
+      [
+       "↓ drenaje linfático",
+       "Cirugía, radioterapia, neoplasia"
+      ]
+     ]
+    },
+    {
+     "c": "Grados del godet (presionar 10–15 s contra hueso)",
+     "h": [
+      "Grado",
+      "Depresión",
+      "Recuperación"
+     ],
+     "r": [
+      [
+       "1",
+       "Leve, no deforma el contorno",
+       "Casi inmediata"
+      ],
+      [
+       "2",
+       "Hasta 4 mm",
+       "15 segundos"
+      ],
+      [
+       "3",
+       "Hasta 6 mm",
+       "1 minuto"
+      ],
+      [
+       "4",
+       "Hasta 1 cm",
+       "2 a 5 minutos"
+      ]
+     ]
+    },
+    {
+     "h": [
+      "Tipo",
+      "Distribución",
+      "Aspecto",
+      "Claves"
+     ],
+     "r": [
+      [
+       "Renal",
+       "Cara y párpados, temprano",
+       "Pálido, blando, matinal",
+       "Proteinuria"
+      ],
+      [
+       "Cardíaco",
+       "Declive (tobillos, sacro)",
+       "Cianótico, duro, vespertino",
+       "Disnea, ortopnea, yugulares, hepatomegalia"
+      ],
+      [
+       "Cirrótico",
+       "Mitad inferior + ascitis",
+       "Tolera decúbito",
+       "Ictericia, arañas, esplenomegalia"
+      ],
+      [
+       "Carencial",
+       "Generalizado",
+       "Poco intenso, evidente por poca grasa",
+       "Hipoalbuminemia; sube al realimentar"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Prurito",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Sensación cutánea que provoca **deseo de rascarse**; solo en piel con epidermis y mucosas de transición. Confirmar: excoriaciones lineales, uñas pulidas, liquenificación. Nace en terminaciones libres; la histamina no lo explica todo."
+    ],
+    [
+     "Causas sistémicas",
+     "**Colestasis** (puede preceder a la ictericia), **uremia**, linfomas y leucemias, diabetes, tiroides, VIH, embarazo (colestasis del 3.er trimestre: palmoplantar, nocturno), fármacos. **Senil y psicógeno: exclusión**. Las dermatológicas son las más frecuentes; hasta la mitad queda sin causa."
+    ],
+    [
+     "Clínica",
+     "Si despierta, es intenso; **empeora con calor y noche**, alivia con frío; el rascado lo perpetúa. Preguntar extensión, evolución, horario, gatillantes, fármacos, ictericia. Distinguir lesiones primarias de las de rascado (pueden sobreinfectarse)."
+    ]
+   ],
+   "al": "Con baja de peso, sudor nocturno o compromiso general: buscar neoplasia hematológica y adenopatías.",
+   "ts": [
+    {
+     "c": "Localizar",
+     "h": [
+      "Patrón",
+      "Orienta a"
+     ],
+     "r": [
+      [
+       "Localizado",
+       "Casi siempre dermatológico: sarna, pediculosis, tiña, estasis; anal (parásitos, hongos); vulvovaginal (hongos, tricomonas, atrofia, diabetes)"
+      ],
+      [
+       "Generalizado sin lesiones primarias",
+       "Causa sistémica: colestasis, uremia, linfoma, diabetes, tiroides, VIH, embarazo, fármacos"
+      ],
+      [
+       "Senil o psicógeno",
+       "Diagnósticos de exclusión"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Bochornos",
+   "k": "sintoma",
+   "f": [
+    [
+     "Definición",
+     "Episodios **súbitos de calor y rubor** en cara, cuello y tórax, con sudor y taquicardia."
+    ],
+    [
+     "Caracterizar",
+     "Circunstancias, frecuencia, duración, severidad, acompañantes, menstruación, fármacos. **>50 años: primera hipótesis climaterio** (breves, repetidos de día y de noche, pueden empezar años antes de la menopausia)."
+    ]
+   ],
+   "al": "Bochorno con diarrea, sibilancias o hipertensión paroxística.",
+   "ts": [
+    {
+     "c": "Causas según frecuencia",
+     "h": [
+      "Frecuencia",
+      "Causas"
+     ],
+     "r": [
+      [
+       "Frecuentes",
+       "Emociones (rubor normal) · climaterio femenino (≈2/3, 1–5 años)"
+      ],
+      [
+       "Infrecuentes",
+       "Climaterio masculino · vasodilatadores, calcioantagonistas, niacina, opiáceos, tamoxifeno, sildenafil, bromocriptina, ciclosporina, rifampicina"
+      ],
+      [
+       "Excepcionales",
+       "Carcinoide: diarrea, broncoobstrucción; gatillado por rabia, ejercicio, alcohol, comidas · Feocromocitoma: hipertensión paroxística, sudor, cefalea, taquicardia"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Signos de gravedad",
+   "k": "sindrome",
+   "fl": [
+    "Detectar el signo",
+    "Priorizar (ABCDE)",
+    "Monitorizar",
+    "Tratar la causa",
+    "Hospitalizar o UCI"
+   ],
+   "f": [
+    [
+     "Definición",
+     "**Gravedad = riesgo de muerte**; se distingue la **actual** de la **alejada**. Grave **no** es sinónimo de terminal. Son signos de **falla de un sistema vital**: conciencia, respiración, circulación o cerebro."
+    ],
+    [
+     "Cómo medirlos",
+     "**FR**: contar 1 minuto completo · **SatO₂**: oximetría, idealmente con y sin O₂ · **FC y PA**: sentado y, si no hay riesgo, de pie · **Llenado capilar**: presionar la uña 5 s y soltar · **Diuresis**: sonda o balance, en mL/kg/h · **Conciencia**: Glasgow (ver doc. 09; ≤ 8 = proteger vía aérea) · **Temperatura**: termómetro, central si hay duda."
+    ],
+    [
+     "Regla práctica",
+     "**Un solo signo basta**; la presencia de uno o más obliga a **atención inmediata**. Reevaluar: lo importante es la tendencia, no un valor aislado."
+    ],
+    [
+     "A veces son sutiles",
+     "Inquietud, disnea y taquicardia **bruscas** en un cardiópata: pensar en **embolia**. En el adulto mayor la fiebre puede faltar y presentarse como **confusión**. Una caída brusca de la fiebre con deterioro es **seudocrisis**."
+    ],
+    [
+     "Conducta",
+     "**Urgencia diagnóstica y terapéutica**, a veces quirúrgica; **hospitalización**; monitorización; eventual **UCI**."
+    ]
+   ],
+   "ts": [
+    {
+     "c": "Signos de gravedad por sistema",
+     "h": [
+      "Sistema",
+      "Signos (PPT)",
+      "Goic agrega",
+      "Qué sugiere"
+     ],
+     "r": [
+      [
+       "Conciencia",
+       "Obnubilación, estupor, coma · desorientación marcada o agitación intensa",
+       "—",
+       "Hipoperfusión o hipoxia cerebral, metabólico, neurológico, intoxicación"
+      ],
+      [
+       "Respiratorio",
+       "Disnea intensa con músculos accesorios · FR > 30 o < 10/min · cianosis central · SatO₂ < 90 % pese a O₂",
+       "Respiración estertorosa · edema pulmonar",
+       "Insuficiencia respiratoria (doc. 03); FR < 10: depresión central o fatiga"
+      ],
+      [
+       "Circulatorio",
+       "PAS < 90 persistente · FC > 130 o bradicardia extrema · llenado capilar > 3 s · piel fría, sudorosa, moteada",
+       "FC > 180 o < 40 · pulso filiforme · diastólica > 150 · palidez · sudor profuso",
+       "Shock (doc. 02); diastólica > 150: emergencia hipertensiva"
+      ],
+      [
+       "Neurológico",
+       "Convulsiones · déficit focal súbito (hemiparesia, afasia) · pupilas no reactivas o anisocoria",
+       "Signos meníngeos o de HTE",
+       "ACV, meningitis, HTE con riesgo de herniación (doc. 09)"
+      ],
+      [
+       "Hemorragia y volumen",
+       "Hemorragia activa masiva · oliguria o anuria < 0,5 mL/kg/h",
+       "Deshidratación · anasarca",
+       "Hipovolemia, IRA (doc. 06)"
+      ],
+      [
+       "Temperatura",
+       "> 40 o < 35 °C",
+       "> 41 °C",
+       "Fiebre mantenida daña el cerebro; hipotermia: sepsis, exposición"
+      ],
+      [
+       "Dolor",
+       "Dolor torácico opresivo con cambios en el ECG",
+       "Dolor brusco e intenso · signos peritoneales · caquexia",
+       "SCA (doc. 02), abdomen agudo (doc. 05)"
+      ]
+     ]
+    },
+    {
+     "c": "Hallazgo → cuadro (algoritmo de shock, doc. 02)",
+     "h": [
+      "Hallazgos",
+      "Orientación"
+     ],
+     "r": [
+      [
+       "Hipotensión + yugulares planas",
+       "Hipovolémico"
+      ],
+      [
+       "Hipotensión + yugulares ingurgitadas + edema pulmonar",
+       "Cardiogénico"
+      ],
+      [
+       "Hipotensión + yugulares ingurgitadas + pulmones limpios",
+       "Obstructivo (taponamiento, TEP, neumotórax a tensión)"
+      ],
+      [
+       "Hipotensión + piel caliente",
+       "Séptico hasta demostrar lo contrario"
+      ]
+     ]
+    },
+    {
+     "c": "Banderas rojas de cada síntoma de esta ficha",
+     "h": [
+      "Síntoma",
+      "Bandera roja"
+     ],
+     "r": [
+      [
+       "Dolor",
+       "Inicio súbito máximo (rotura, perforación) · anginoso prolongado · sudor frío, palidez, lipotimia · despierta o no cede con analgésicos"
+      ],
+      [
+       "Hemorragia",
+       "Aguda con compromiso hemodinámico (velocidad, volumen, edad) → reponer volumen; hemopatía: múltiples sitios"
+      ],
+      [
+       "Fiebre",
+       "Con cefalea, confusión o rigidez · con petequias · con calofríos e hipotensión · esplenectomizado o neutropénico · seudocrisis · > 41 °C"
+      ],
+      [
+       "Edema",
+       "Localizado o asimétrico de inicio agudo (TVP) · angioedema con glotis"
+      ],
+      [
+       "Prurito",
+       "Con baja de peso, sudor nocturno o compromiso general: neoplasia hematológica"
+      ],
+      [
+       "Bochornos",
+       "Con diarrea, sibilancias o hipertensión paroxística"
+      ]
+     ]
+    }
+   ],
+   "al": "Ante cualquier signo de gravedad: no esperar exámenes para actuar. Asegurar vía aérea, oxigenación y perfusión, monitorizar y buscar la causa mientras se trata."
+  },
+  {
+   "n": "Complemento: puntajes de gravedad (no están en el PPT)",
+   "k": "tabla",
+   "f": [
+    [
+     "Aviso",
+     "Esta sección es **complemento** y no viene de la clase. **Verificar en Goic cap. 34** antes de usarla en una evaluación."
+    ],
+    [
+     "qSOFA",
+     "Tamizaje de sepsis con peor pronóstico: **FR ≥ 22/min · alteración del estado mental · PAS ≤ 100 mmHg**. Con **2 o más**, mayor riesgo de mal desenlace."
+    ],
+    [
+     "Índice de shock",
+     "**FC / PAS**: normal 0,5–0,7; **> 1** mal pronóstico (doc. 02)."
+    ],
+    [
+     "Lactato",
+     "Elevado = hipoperfusión tisular; en shock séptico persiste alto pese a reponer volumen (doc. 02)."
+    ],
+    [
+     "Glasgow",
+     "3–15; **≤ 8** se indica intubación (doc. 09)."
+    ]
+   ]
+  }
+ ]
+}
